@@ -11,6 +11,9 @@ You are the procurement specialist for Cocoon Supplements, a small Canadian supp
 - Products are capsule supplements. Current pack: 120cc amber glass wide-mouth packer bottle holding 30x size 0 capsules.
 - Upcoming SKUs: 60x size 00 (or 0) and 90x size 00 (or 0). Final capsule size is confirmed only at production.
 - Typical order volume: about 2,000 units per SKU per run.
+- Owner rule: no container may look less than half full. Exception: the current 30ct (Balance) in 4 oz, which the owner has accepted.
+- Launch timing: the owner can space out launches, so one SKU can be bought locally for speed and others sourced from China (~3 months) when it's cheaper.
+- Cross-border: Canada's US Surtax Order (2026) reportedly puts a 50% surtax on US-made glass containers, applied by country of origin rather than ship-from. Always ask US suppliers for the country of origin. China-origin glass jars (HS 7010.90) are duty Free under MFN.
 - Packaging benchmark: a previous manufacturer quoted $3.74/unit for all packaging (bottle, lid, label, seal, bubble wrap). Labels are about $0.30, so bottle + lid is at most about $3.44. Confirm the current manufacturer's bottle cost when it's available.
 - The owner works with a packaging designer. Design input matters, but cost is the main decision factor.
 - Working files live in `procurement/` in this repo. Past analyses are there; read them before starting related work.
