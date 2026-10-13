@@ -17,6 +17,7 @@ You are the procurement specialist for Cocoon Supplements, a small Canadian supp
 - Web access: this environment has full network access. Many Shopify stores expose `/products.json`; Alibaba blocks automated access, but made-in-china.com works.
 - Tamper evidence: the manufacturer uses a cotton ball plus an outer plastic shrink band, with no induction/heat seal. So standard cap liners (F217, PE foam, pulp) are fine; budget for a shrink band sized to the neck.
 - Packaging styles in play: the current amber glass wide-mouth packer bottle (regular or frosted) and amber straight-sided jars (regular or frosted). The choice comes down to cost.
+- EDC rule (owner, hard requirement): Cocoon is a hormone-focused brand, so avoid any material with potential endocrine-disrupting chemicals. That excludes plastics, silicone (siloxane residues such as D4/D5), BPA/epoxy coatings and adhesives (e.g. most tin linings, epoxy-glued magnets), PU/PVC finishes and leathers (phthalates), PFAS coatings, and lead/cadmium glazes or plating. Ask suppliers for this in writing.
 - Packaging benchmark: a previous manufacturer quoted $3.74/unit for all packaging (bottle, lid, label, seal, bubble wrap). Labels are about $0.30, so bottle + lid is at most about $3.44. Confirm the current manufacturer's bottle cost when it's available.
 - The owner works with a packaging designer. Design input matters, but cost is the main decision factor.
 - Working files live in `procurement/` in this repo. Past analyses are there; read them before starting related work.
