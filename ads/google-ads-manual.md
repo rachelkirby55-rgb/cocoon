@@ -69,7 +69,7 @@ Performance Max, Display Expansion, broad match, Shopping campaign reactivation,
 - Check that Merchant Center shows shopify_US listings in USD with no price-mismatch warnings.
 - Canada shipping zone set to CAD (CA$70 free shipping threshold).
 - Add a USD Price asset to the US campaign.
-- Check what the Canada daily budget is set to: it was capped Oct 7 to 13 (lost to budget 20 to 86%).
+- Canada budget is CA$50/day (confirmed Oct 15) and shows "Limited by budget". The Oct 7 to 13 capping was before the Oct 14 raise. Only raise further if cost per sale reaches CA$84 or lower (rule in step 4).
 - .ca → .com (cocoonsupplements.com is the official site for both Canada and US). Checked Oct 15, 2026: all live ads and sitelinks, the Shopify primary domain, Merchant Center (confirmed by Rachel) and GA4 tracking are already on .com. Search Console has the .com as a Domain property with its sitemap read (39 pages); both `sc-domain:cocoonsupplements.com` and `sc-domain:cocoonskincare.ca` are connected in Windsor (`searchconsole`), the .ca kept for history while it fades. Still to do:
   - The paused "US Sales | Search | Clicks | May 2026" ad still links to cocoonskincare.ca. Harmless while paused; fix it if that campaign is ever turned back on.
 - Later: French site and a Quebec campaign; Meta relaunch; SEO rebuild for the new domain.
