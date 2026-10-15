@@ -122,7 +122,7 @@ Meta moves faster than Google, so check weekly, not just monthly.
 
 ## Open items
 - Confirm Meta daily budget (proposed: CA$45/day, $30 Proven + $15 Testing).
-- Check every ad being relaunched for cocoonskincare.ca links or claims that need changing. Update links with `update_ad_creative`.
+- **Every old ad links to cocoonskincare.ca, which is shut down with no redirect (confirmed Oct 15, 2026).** Never re-enable an old ad. Each winner is rebuilt as a new ad (same video/images and copy, link to cocoonsupplements.com), which starts a new post without the old likes/comments. From then on, reuse the NEW post IDs ("Use existing post") so social proof builds again. Check the copy against the copy rules while rebuilding.
 - Build the "Balance | Sales | CA" campaign with Proven (top 3 winners) and Testing (first untested batch).
 - Rachel to share any never-tested creatives for the Testing ad set.
 - Later: US campaign; hire or brief someone for creative production.
