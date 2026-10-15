@@ -13,6 +13,7 @@ Brief for Claude (or any person) running Cocoon's monthly Google Ads review. Las
 - Google Ads account **742-164-2243** (currency CAD), reached through the Windsor.ai connector `google_ads`. Use `get_data` to read and `execute_action` to make changes; run `list_actions` to see what's possible.
 - Windsor can't edit Price assets, Merchant Center or Tag Manager. Give Rachel UI steps for those.
 - Shopify connector: read orders, markets and prices. It has no access to payouts.
+- Enhanced conversions: already enabled, managed through the Google tag (checked Oct 15, 2026).
 - Conversions are tracked by the Shopify **Google & YouTube app** ("Google Shopping App Purchase" is the Primary goal). GA4 purchase is Secondary as of mid-Sept 2026, so **conversion data before mid-Sept 2026 is inflated (double-counted)**.
 
 ## Business numbers
