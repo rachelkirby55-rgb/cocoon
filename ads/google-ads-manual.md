@@ -62,6 +62,7 @@ Performance Max, Display Expansion, broad match, Shopping campaign reactivation,
 - Oct 15, 2026: Launched US Max CPC campaign. Canada price asset updated. Merchant Center now syncs Canada + US. Decided to switch Shopify payouts back to CAD.
 - Oct 15, 2026: Canada: added 22 phrase-match negatives from the September review (other brands, local salon, diet/recipe questions, myo inositol, thistle oil, vitamin B5, iHerb spelling, one birth-control question). Why: about CA$300 spent since Aug with 0 sales. No change to target (CA$84), budget or bidding: cost per sale is CA$131 since Sept 16, above target, and the target changed Oct 14, so wait for a clean month. Exception noted: broad "dim supplement" stays on because it makes sales at about CA$70 each.
 - Oct 15, 2026: Account-level Final URL suffix set to `utm_source=google&utm_medium=cpc&utm_campaign={campaignid}` (auto-tagging was already on). Why: Shopify showed ad clicks as free "Google, SEO" visits, so Google's sales couldn't be matched to real orders. From now on, ad orders show utm medium "cpc" in Shopify's customer journey. Note: ~54 of September's ~86 orders were subscription renewals, which never have a source; compare Google's sales only with website orders.
+- Oct 15, 2026: GA4 property 373783616 (already named "cocoonsupplements.com - GA4"; Windsor still shows the old name) switched from Los Angeles time / USD to Toronto time / CAD, to match Google Ads and Shopify. Applies from Oct 15 onward; earlier GA4 data stays in LA time / USD.
 
 ## Open items
 - Check that Merchant Center shows shopify_US listings in USD with no price-mismatch warnings.
@@ -70,6 +71,5 @@ Performance Max, Display Expansion, broad match, Shopping campaign reactivation,
 - Check headlines rated "Low" (due; not done in September review).
 - Check what the Canada daily budget is set to: it was capped Oct 7 to 13 (lost to budget 20 to 86%).
 - .ca → .com (cocoonsupplements.com is the official site for both Canada and US). Checked Oct 15, 2026: all live ads and sitelinks, the Shopify primary domain, Merchant Center (confirmed by Rachel) and GA4 tracking are already on .com. Search Console has the .com as a Domain property with its sitemap read (39 pages); both `sc-domain:cocoonsupplements.com` and `sc-domain:cocoonskincare.ca` are connected in Windsor (`searchconsole`), the .ca kept for history while it fades. Still to do:
-  - Optional: rename the GA4 property from "cocoonskincare.ca - GA4" (name only; it already tracks the .com).
   - The paused "US Sales | Search | Clicks | May 2026" ad still links to cocoonskincare.ca. Harmless while paused; fix it if that campaign is ever turned back on.
 - Later: French site and a Quebec campaign; Meta relaunch; SEO rebuild for the new domain.
