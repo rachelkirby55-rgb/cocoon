@@ -61,12 +61,12 @@ Performance Max, Display Expansion, broad match, Shopping campaign reactivation,
 - Oct 14, 2026: Canada target $84, budget $50/day. Paused broad "acne supplements" and "heal hormonal acne". Added phrase "acne supplements". Added about 48 negatives. Excluded Quebec.
 - Oct 15, 2026: Launched US Max CPC campaign. Canada price asset updated. Merchant Center now syncs Canada + US. Decided to switch Shopify payouts back to CAD.
 - Oct 15, 2026: Canada: added 22 phrase-match negatives from the September review (other brands, local salon, diet/recipe questions, myo inositol, thistle oil, vitamin B5, iHerb spelling, one birth-control question). Why: about CA$300 spent since Aug with 0 sales. No change to target (CA$84), budget or bidding: cost per sale is CA$131 since Sept 16, above target, and the target changed Oct 14, so wait for a clean month. Exception noted: broad "dim supplement" stays on because it makes sales at about CA$70 each.
+- Oct 15, 2026: Account-level Final URL suffix set to `utm_source=google&utm_medium=cpc&utm_campaign={campaignid}` (auto-tagging was already on). Why: Shopify showed ad clicks as free "Google, SEO" visits, so Google's sales couldn't be matched to real orders. From now on, ad orders show utm medium "cpc" in Shopify's customer journey. Note: ~54 of September's ~86 orders were subscription renewals, which never have a source; compare Google's sales only with website orders.
 
 ## Open items
 - Check that Merchant Center shows shopify_US listings in USD with no price-mismatch warnings.
 - Canada shipping zone set to CAD (CA$70 free shipping threshold).
 - Add a USD Price asset to the US campaign.
-- Add Google source tracking (auto-tagging/UTM) so Shopify orders show which came from Google; September's 11 Google sales couldn't be matched to orders.
 - Check headlines rated "Low" (due; not done in September review).
 - Check what the Canada daily budget is set to: it was capped Oct 7 to 13 (lost to budget 20 to 86%).
 - Switch everything still on cocoonskincare.ca to cocoonsupplements.com (the official site for both Canada and US): ad final URLs and sitelinks, GA4 property, Search Console, Merchant Center, Windsor connections.
