@@ -69,5 +69,9 @@ Performance Max, Display Expansion, broad match, Shopping campaign reactivation,
 - Add a USD Price asset to the US campaign.
 - Check headlines rated "Low" (due; not done in September review).
 - Check what the Canada daily budget is set to: it was capped Oct 7 to 13 (lost to budget 20 to 86%).
-- Switch everything still on cocoonskincare.ca to cocoonsupplements.com (the official site for both Canada and US): ad final URLs and sitelinks, GA4 property, Search Console, Merchant Center, Windsor connections.
+- .ca → .com (cocoonsupplements.com is the official site for both Canada and US). Checked Oct 15, 2026: all live ads and sitelinks, the Shopify primary domain and GA4 tracking are already on .com. Still to do:
+  - Search Console: only `sc-domain:cocoonskincare.ca` is connected. Add and verify cocoonsupplements.com, submit its sitemap, then connect it in Windsor.
+  - Merchant Center: confirm product links show cocoonsupplements.com (they follow the Shopify primary domain, so they should).
+  - Optional: rename the GA4 property from "cocoonskincare.ca - GA4" (name only; it already tracks the .com).
+  - The paused "US Sales | Search | Clicks | May 2026" ad still links to cocoonskincare.ca. Harmless while paused; fix it if that campaign is ever turned back on.
 - Later: French site and a Quebec campaign; Meta relaunch; SEO rebuild for the new domain.
