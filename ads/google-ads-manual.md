@@ -34,7 +34,7 @@ Brief for Claude (or any person) running Cocoon's monthly Google Ads review. Las
 - Bidding: Maximize Clicks, **per-click cap CA$4.00**, **CA$40/day**, US only, English.
 - 5 phrase keywords: dim supplement, acne supplements, hormonal acne supplement, supplements for hormonal acne, estrogen balance supplement. About 69 negatives.
 - Ad lands on cocoonsupplements.com/products/balance.
-- Copy rules: never say "treat". "Acne" is fine. Never say "Canadian-made".
+- Copy rules: never say "treat". "Acne" is fine. Never say "Canadian-made" **in US ads only**: US shoppers don't care, and it could wrongly suggest duties. In Canada ads "Canadian-Made" is fine and stays.
 - **Kill rule:** about CA$500 spent with fewer than 2 sales means pause and rethink.
 - **Graduation rule:** at about 15 US sales, switch to target CPA.
 - The old "US Sales | Search | Clicks | May 2026" campaign stays paused.
