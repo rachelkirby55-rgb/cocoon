@@ -69,4 +69,5 @@ Performance Max, Display Expansion, broad match, Shopping campaign reactivation,
 - Add Google source tracking (auto-tagging/UTM) so Shopify orders show which came from Google; September's 11 Google sales couldn't be matched to orders.
 - Check headlines rated "Low" (due; not done in September review).
 - Check what the Canada daily budget is set to: it was capped Oct 7 to 13 (lost to budget 20 to 86%).
+- Switch everything still on cocoonskincare.ca to cocoonsupplements.com (the official site for both Canada and US): ad final URLs and sitelinks, GA4 property, Search Console, Merchant Center, Windsor connections.
 - Later: French site and a Quebec campaign; Meta relaunch; SEO rebuild for the new domain.
