@@ -28,12 +28,13 @@ Brief for Claude (or any person) running Cocoon's monthly Google Ads review. Las
 - Keywords: phrase "acne supplements" plus the existing set. Broad "acne supplements" and "heal hormonal acne" are paused. Broad "dim supplement" is kept on on purpose: about CA$70 per sale, the best keyword, an exception to the no-broad rule.
 - **Quebec excluded** (site isn't in French). Bid adjustments do nothing under target CPA; only exclusions work.
 - Negatives: competitors, iHerb, topicals, misspellings, unrelated ingredients. **Never block "glutathione" or "DIM"; they're ingredients.**
-- Price asset: must show CAD prices.
+- Price asset: must show CAD prices (its own campaign-level asset: from CA$53.24/mo subscription, CA$68.00, CA$177.48).
 
 ### US: "US Sales | Search | Max CPC | Oct 2026" (id 24353842296), launched Oct 15, 2026
 - Bidding: Maximize Clicks, **per-click cap CA$4.00**, **CA$40/day**, US only, English.
 - 5 phrase keywords: dim supplement, acne supplements, hormonal acne supplement, supplements for hormonal acne, estrogen balance supplement. About 69 negatives.
 - Ad lands on cocoonsupplements.com/products/balance.
+- Price asset: its own campaign-level USD asset (from US$39.15/mo subscription, US$50.00, US$130.50). Never share one price asset between Canada and US: editing a shared asset changes it in both.
 - Copy rules: never say "treat". "Acne" is fine. Never say "Canadian-made" **in US ads only**: US shoppers don't care, and it could wrongly suggest duties. In Canada ads "Canadian-Made" is fine and stays.
 - **Kill rule:** about CA$500 spent with fewer than 2 sales means pause and rethink.
 - **Graduation rule:** at about 15 US sales, switch to target CPA.
@@ -64,11 +65,10 @@ Performance Max, Display Expansion, broad match, Shopping campaign reactivation,
 - Oct 15, 2026: Account-level Final URL suffix set to `utm_source=google&utm_medium=cpc&utm_campaign={campaignid}` (auto-tagging was already on). Why: Shopify showed ad clicks as free "Google, SEO" visits, so Google's sales couldn't be matched to real orders. From now on, ad orders show utm medium "cpc" in Shopify's customer journey. Note: ~54 of September's ~86 orders were subscription renewals, which never have a source; compare Google's sales only with website orders.
 - Oct 15, 2026: GA4 property 373783616 (already named "cocoonsupplements.com - GA4"; Windsor still shows the old name) switched from Los Angeles time / USD to Toronto time / CAD, to match Google Ads and Shopify. Applies from Oct 15 onward; earlier GA4 data stays in LA time / USD.
 - Oct 15, 2026: Canada ad 756182653564: replaced headline "Root Cause Acne Relief" with "With DIM & Glutathione" (edited in place by Rachel; the ad keeps its history). Why: Sept 16 to Oct 14 it got ~4,500 impressions and CA$564 for ~1.7 sales (~CA$338 per sale) vs ~CA$110 for the ad overall. Check the new headline in the October review. Also watch "DIM-Powered Hormone Support" (~CA$190 per sale) and "Trusted by 1,000+ Canadians" (CA$104, 0 sales): not enough data yet.
+- Oct 15, 2026: Price assets split by country. The Canada and US campaigns were sharing one price asset (in USD, so Canada ads showed US$50). Rachel edited it to CAD for Canada, removed it from the US campaign, and added a new campaign-level USD price asset (Product tiers, "From") to "US Sales | Search | Max CPC | Oct 2026". Both pending Google review. Canada shipping zone confirmed CAD with free shipping over CA$70 (US: USD, free over US$70).
 
 ## Open items
-- Check that Merchant Center shows shopify_US listings in USD with no price-mismatch warnings.
-- Canada shipping zone set to CAD (CA$70 free shipping threshold).
-- Add a USD Price asset to the US campaign.
+- Check that Merchant Center shows shopify_US listings in USD with no price-mismatch warnings. (Rachel thinks it's done; may take a few days to show. Reminder set for Oct 19, 2026.)
 - Canada budget is CA$50/day (confirmed Oct 15) and shows "Limited by budget". The Oct 7 to 13 capping was before the Oct 14 raise. Only raise further if cost per sale reaches CA$84 or lower (rule in step 4).
 - .ca → .com (cocoonsupplements.com is the official site for both Canada and US). Checked Oct 15, 2026: all live ads and sitelinks, the Shopify primary domain, Merchant Center (confirmed by Rachel) and GA4 tracking are already on .com. Search Console has the .com as a Domain property with its sitemap read (39 pages); both `sc-domain:cocoonsupplements.com` and `sc-domain:cocoonskincare.ca` are connected in Windsor (`searchconsole`), the .ca kept for history while it fades. Still to do:
   - The paused "US Sales | Search | Clicks | May 2026" ad still links to cocoonskincare.ca. Harmless while paused; fix it if that campaign is ever turned back on.
