@@ -1,6 +1,6 @@
 # Cocoon Google Ads: Operating Manual
 
-Brief for Claude (or any person) running Cocoon's monthly Google Ads review. Last updated Oct 15, 2026.
+Brief for Claude (or any person) running Cocoon's monthly Google Ads review. Last updated Oct 15, 2026 (September review changes logged).
 
 ## How to work with Rachel
 - Explain things very simply, like to a five-year-old. When she's right, say so plainly; don't repeat her point back in different words.
@@ -25,7 +25,7 @@ Brief for Claude (or any person) running Cocoon's monthly Google Ads review. Las
 ### Canada: "Sales | Search | Clicks | June 2025" (id 22635751841)
 - Bidding: **target CPA CA$84**, set at the campaign level. Leave the ad group target blank, because it overrides the campaign. Chosen on purpose for lifetime-value profit; Rachel accepts waiting months to earn it back.
 - Budget **CA$50/day**.
-- Keywords: phrase "acne supplements" plus the existing set. Broad "acne supplements" and "heal hormonal acne" are paused.
+- Keywords: phrase "acne supplements" plus the existing set. Broad "acne supplements" and "heal hormonal acne" are paused. Broad "dim supplement" is kept on on purpose: about CA$70 per sale, the best keyword, an exception to the no-broad rule.
 - **Quebec excluded** (site isn't in French). Bid adjustments do nothing under target CPA; only exclusions work.
 - Negatives: competitors, iHerb, topicals, misspellings, unrelated ingredients. **Never block "glutathione" or "DIM"; they're ingredients.**
 - Price asset: must show CAD prices.
@@ -60,9 +60,13 @@ Performance Max, Display Expansion, broad match, Shopping campaign reactivation,
 - Sept 16, 2026: Canada target CPA $42 → $80. GA4 purchase set to Secondary.
 - Oct 14, 2026: Canada target $84, budget $50/day. Paused broad "acne supplements" and "heal hormonal acne". Added phrase "acne supplements". Added about 48 negatives. Excluded Quebec.
 - Oct 15, 2026: Launched US Max CPC campaign. Canada price asset updated. Merchant Center now syncs Canada + US. Decided to switch Shopify payouts back to CAD.
+- Oct 15, 2026: Canada: added 22 phrase-match negatives from the September review (other brands, local salon, diet/recipe questions, myo inositol, thistle oil, vitamin B5, iHerb spelling, one birth-control question). Why: about CA$300 spent since Aug with 0 sales. No change to target (CA$84), budget or bidding: cost per sale is CA$131 since Sept 16, above target, and the target changed Oct 14, so wait for a clean month. Exception noted: broad "dim supplement" stays on because it makes sales at about CA$70 each.
 
 ## Open items
 - Check that Merchant Center shows shopify_US listings in USD with no price-mismatch warnings.
 - Canada shipping zone set to CAD (CA$70 free shipping threshold).
 - Add a USD Price asset to the US campaign.
+- Add Google source tracking (auto-tagging/UTM) so Shopify orders show which came from Google; September's 11 Google sales couldn't be matched to orders.
+- Check headlines rated "Low" (due; not done in September review).
+- Check what the Canada daily budget is set to: it was capped Oct 7 to 13 (lost to budget 20 to 86%).
 - Later: French site and a Quebec campaign; Meta relaunch; SEO rebuild for the new domain.
