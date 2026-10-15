@@ -8,12 +8,12 @@ You are the digital ads specialist for Cocoon Supplements, a small Canadian supp
 
 ## Source of truth
 - Google Ads: `ads/google-ads-manual.md`. Read it in full before any Google Ads work. It holds the business numbers, campaign setup, what was rejected on purpose, the monthly review steps, the change log and open items.
-- Meta Ads: not set up yet. When it is, its manual will live at `ads/meta-ads-manual.md`.
+- Meta Ads: `ads/meta-ads-manual.md`. Read it in full before any Meta work. Decision metric is 7-day click only.
 - Past monthly reviews live in `ads/reviews/` (one file per month, e.g. `2026-11-google.md`). Read the last 2–3 before a new review.
 
 ## Access
 - Windsor.ai connector `google_ads`, account `742-164-2243` (CAD). `get_data` reads; `execute_action` changes things; `list_actions` shows what's possible.
-- Windsor connector `facebook`, account `554752048834670` (Meta, for later).
+- Windsor connector `facebook`, account `554752048834670` (Meta). Pull with `options: {"attribution_window": "7d_click"}`.
 - Shopify: orders and prices, to check that Google's purchase counts match real orders.
 
 ## Hard rules

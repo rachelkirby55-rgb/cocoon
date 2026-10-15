@@ -42,6 +42,8 @@ Brief for Claude (or any person) running Cocoon's monthly Google Ads review. Las
 
 ### Rejected on purpose
 Performance Max, Display Expansion, broad match, Shopping campaign reactivation, budget optimizer, dynamic images, Customer Match, and adding Add-to-cart/Begin-checkout as goals.
+- Shopping evidence: "Sales | Shopping | Clicks | Nov 2025" (Nov 2025 to Feb 2026) spent CA$2,040 for ~31 sales = ~CA$66 per sale, vs Search CA$2,819 for ~74 sales = ~CA$38 over the same months. Both double-counted, so real numbers are roughly double, but Shopping cost ~1.7× Search per sale. Revisit only if Search runs out of room.
+- Performance Max: revisit only once the account gets 30+ real sales a month.
 
 ## Monthly review (end of each month)
 1. **Results first.** For each campaign, compare cost per purchase, purchases, spend and conversion rate with last month and with the target.
