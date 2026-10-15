@@ -17,7 +17,7 @@ Brief for Claude (or any person) running Cocoon's Meta Ads. Last updated Oct 15,
 - Meta only returns data from the last 37 months. Pass dates from about 36 months back at the earliest.
 - **Decision metric: 7-day click only.** Pull with `options: {"attribution_window": "7d_click"}`. Meta's default (7-day click + 1-day view) counts people who only saw the ad, which overstates results for Cocoon. Use it only as a side comparison.
 - Purchase field: `actions_offsite_conversion_fb_pixel_purchase`. Revenue: `action_values_offsite_conversion_fb_pixel_purchase`.
-- Windsor is on the Basic plan with 3 sources: Google Ads, Meta Ads, Search Console. Adding a fourth pauses ALL reads until one is removed.
+- Windsor is on the Basic plan (bought Oct 15, 2026) with 3 sources: Google Ads, Meta Ads, GA4. Adding a fourth pauses ALL reads until one is removed. Swap GA4 for Search Console when SEO work starts. Shopify data comes through the Shopify connector, not Windsor.
 
 ## Tracking
 - Dataset (pixel) **3561456130627090**, fed by the Shopify Facebook & Instagram app with Maximum data sharing (pixel + Conversions API). Purchase match quality 8/10 (Oct 2026).
