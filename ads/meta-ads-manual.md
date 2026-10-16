@@ -61,10 +61,11 @@ One always-on campaign per country. Never move an ad to a new campaign; that thr
 ## Copy rules
 - Never say "treat". "Acne" is fine.
 - Say "drug-free, nature-backed ingredients", not "natural". "Science-backed" is fine for headlines.
-- Excess estrogen is "a common, overlooked cause" of hormonal acne, never "the" cause.
+- Excess estrogen is "a common, overlooked cause" of hormonal acne, never "the" cause. Exception: Rachel's own story ("high estrogen was the root cause" of *her* acne) is fine.
+- Never say "Health Canada approved" (Rachel, Oct 15, 2026). "Naturopath-formulated" and the 30-day money-back guarantee are fine.
 - US: never say "Canadian-made".
 - All links must point to **cocoonsupplements.com**, never cocoonskincare.ca.
-- Ask Rachel before using "Health Canada approved" or credential claims. The domain moved because of Health Canada claim limits.
+- Ask Rachel before using any other credential claims. The domain moved because of Health Canada claim limits.
 
 ## Ad library (results from history, 7-day click, CAD)
 ### Proven winners: start here
