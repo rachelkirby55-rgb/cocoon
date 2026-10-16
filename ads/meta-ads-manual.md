@@ -23,7 +23,7 @@ Brief for Claude (or any person) running Cocoon's Meta Ads. Last updated Oct 15,
 - Dataset (pixel) **3561456130627090**, fed by the Shopify Facebook & Instagram app with Maximum data sharing (pixel + Conversions API). Purchase match quality 8/10 (Oct 2026).
 - cocoonsupplements.com is verified in Business Settings (Oct 15, 2026). Purchases fire on the new domain.
 - **Tracking broke around Feb 2026 and was working again by March 2026** (corrected Oct 16, 2026; this manual used to say "until Sept"). Evidence: from March on, Meta recorded the full funnel every month with normal checkout-to-purchase rates (28–71%, vs 34–65% in Oct 2025–Jan 2026). No ads ran in Feb, so the exact dates can't be seen. **Treat Mar–Aug 2026 results as real.**
-- **But the website converted far worse from about Feb 2026** (Shopify: visitors who buy ~2.7% in Nov–Jan → ~1.1% in Jul–Sep; new customers per month roughly halved from Feb). Ads still got clicks at about the same cost (~CA$2–3 per click); fewer clicks turned into sales. Likely cause under review: the product page default switched to the 3-month subscription (CA$159.73), see open items. Judge 2026 ad results against each other, not against 2023–2025 numbers.
+- **The website converted far worse from June 2026**, when the product page was switched to open on the 3-month subscription (CA$159.73). Search visitors' purchase rate: ~2.9% (Nov 2025–May 2026, including after the Mar 1 price rise from CA$60 to CA$68) → ~1.8% (Jun–Oct 2026). Ads still got clicks at about the same cost; fewer clicks turned into sales. Judge Jun–Aug 2026 ad results against each other, not against 2023–2025. (Fewer new customers in Feb–May was mostly because almost no Meta ads ran, not the site.) Fix in progress: `website/product-page-purchase-options-spec.md`.
 - A "data sharing restrictions" notice exists because it's a supplement. It doesn't block ads.
 
 ## Business numbers
@@ -103,7 +103,7 @@ Caution: Founder Ad and DIM Comment reran Mar–Aug 2026 at about $206 and $228 
 | Video Ad 1: DIM Comment | $1,827 | 8 | $228 |
 | Founder Montage with VO | $1,399 | 6 | $233 |
 | "No One Knows I Have the Answer" (won its Jun–Aug test group) | $1,717 | 3 | $572 |
-| Bailey Testimonial (+ quiz version) | $507 | 0 | none |
+| Bailey Testimonial (+ quiz version), Mar 2026 | $507 | 0 | none, but 15 add-to-carts and 6 checkouts from 144 clicks: twice Founder Montage's add-to-cart rate. Tracking worked (same pixel, same campaign). Worth retesting. |
 | Coffee Shop/Restaurant | $237 | 1 | $237 |
 | "Goodbye Skin, Hair & Nail Gummies" | $269 | 0 | none |
 | "Until I Fixed My Hormones" (dropped: the teaching is in the caption, not the video) | $32 | 0 | not tested |
