@@ -2,7 +2,7 @@
 
 Campaign "Balance | Sales | CA". Same videos/images as the original ads; only the text and links change. All links go to cocoonsupplements.com (same page and variant as the original ad, new domain). Updated Oct 16, 2026 after the full scorecard (`ads/meta/ad-scorecard.md`).
 
-Changes applied everywhere: removed "Health Canada approved"; general claims say "a common, overlooked cause" (Rachel's own story keeps "the root cause"); "natural" → "nature-backed"; Instagram captions (hashtags, "link in bio") replaced with ad copy.
+Changes applied everywhere: removed "Health Canada approved"; Instagram captions (hashtags, "link in bio") replaced with ad copy.
 
 **Can't check from here (Rachel, please look):** text spoken or shown inside the videos, and the text on each carousel card. Same rules apply there.
 
@@ -57,13 +57,13 @@ Source ad 23856934920440300. Meta's 2023 data wouldn't load, so the original tex
   ✨ Try it risk-free with our 30-day money-back guarantee.
 
 ### P4. Carousel Ad 2: Education + Before/After, 2025
-Source ad 120225079426660301. One change: "This root cause" → "A common, overlooked cause".
+Source ad 120225079426660301. Text unchanged (Rachel: "This root cause could be to blame" is fine).
 - Link: https://cocoonsupplements.com/products/balance?variant=39429510135872
 - Button: Shop now
 - Headline: Cocoon Acne Supplements
 - Text:
 
-Acne around your chin, mouth, or jaw? A common, overlooked cause could be to blame.
+Acne around your chin, mouth, or jaw? This root cause could be to blame.
 
 ---
 
@@ -86,7 +86,7 @@ Balance is a targeted supplement made with drug-free, nature-backed ingredients 
 ✨ Try it risk-free with our 30-day money-back guarantee.
 
 ### T2. Kaija UGC K7, Nov 2025
-Source ad 120233881284350301. Changes: removed "Health Canada approved"; "a natural compound" → "a nature-backed compound". Kaija's own story ("my hormones, especially estrogen, were out of balance") stays.
+Source ad 120233881284350301. One change: removed "Health Canada approved" (Rachel: "a natural compound" is fine).
 - Link: https://cocoonsupplements.com/products/balance?variant=39429510135872
 - Button: Shop now
 - Headline: Hormonal Acne? Try DIM
@@ -102,7 +102,7 @@ My hormones, especially estrogen, were out of balance.
 
 Why? A buildup of environmental estrogens + a sluggish detox system that couldn't clear them fast enough.
 
-💊 DIM changed everything. It's a nature-backed compound that helps your body break down excess estrogen, rebalance hormones, and reduce breakouts.
+💊 DIM changed everything. It's a natural compound that helps your body break down excess estrogen, rebalance hormones, and reduce breakouts.
 
 ✔️ Naturopath-formulated
 

@@ -61,8 +61,8 @@ One always-on campaign per country. Never move an ad to a new campaign; that thr
 
 ## Copy rules
 - Never say "treat". "Acne" is fine.
-- Say "drug-free, nature-backed ingredients", not "natural". "Science-backed" is fine for headlines.
-- Excess estrogen is "a common, overlooked cause" of hormonal acne, never "the" cause. Exception: Rachel's own story ("high estrogen was the root cause" of *her* acne) is fine.
+- Say "drug-free, nature-backed ingredients", not "natural ingredients". Describing one ingredient as "a natural compound" (e.g. DIM) is fine (Rachel, Oct 16, 2026). "Science-backed" is fine for headlines.
+- Excess estrogen is "a common, overlooked cause" of hormonal acne, never "the" cause. Exceptions (Rachel, Oct 16, 2026): her own story ("high estrogen was the root cause" of *her* acne), and hedged lines like "This root cause could be to blame", are fine.
 - Never say "Health Canada approved" (Rachel, Oct 15, 2026). "Naturopath-formulated" and the 30-day money-back guarantee are fine.
 - US: never say "Canadian-made".
 - All links must point to **cocoonsupplements.com**, never cocoonskincare.ca.
