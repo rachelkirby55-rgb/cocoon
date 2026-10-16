@@ -1,57 +1,60 @@
 # Meta ad scorecard (every ad with data, Oct 2023 – Oct 2026)
 
-Pulled Oct 16, 2026 from Meta via Windsor, **7-day click only**, CAD. Meta only keeps ~36 months, so ads before Oct 2023 can't be seen (the CA Founder Ad's earlier 2023 results are missing here).
+Pulled Oct 16, 2026 from Meta via Windsor (7-day click and 1-day view), CAD. Meta only keeps ~36 months, so ads before Oct 2023 can't be seen (the CA Founder Ad's earlier 2023 results are missing here).
 
 ## Periods
 - **Normal**: Oct 2023 – Jan 2026 and Mar – May 2026. Tracking working, product page opened on 1-month. (Price went CA$60 → CA$68 on Mar 1, 2026; search-traffic purchase rate didn't change.)
 - **Broken tracking**: ~Feb 2026. No ads ran.
 - **Weak page**: Jun – Oct 2026. Tracking working, but the page opened on the 3-month subscription and converted ~38% worse.
 
-## Fair test (proposed)
-An ad has had a fair test when all of these are true:
-1. Tracking was working.
-2. The product page opened on 1-month (Normal period).
-3. The campaign was optimized for purchases (not awareness, reach, video views or traffic).
-4. It wasn't a sale ad or retargeting ad (those reach warm people with a discount, so they look cheaper than they are; judged separately below).
-5. It spent enough to judge (see kill rule).
+## How ads are scored (agreed with Rachel, Oct 16, 2026)
+- **Sales counted:** every 7-day-click sale + **half** of each 1-day-view sale ("saw it, didn't click, bought within a day"). Why: Shopify showed view sales were partly real (Jul 2026 lift ~25 new customers vs Meta's 13 click / 36 total) and partly not (Mar–Apr 2026 orders didn't rise above Feb, when no ads ran, despite 17 view sales on Founder Montage).
+- **Fair test:** tracking working, page opened on 1-month, purchase-optimized campaign, not a sale/retargeting ad, enough spend.
+- **Failed:** no sale after CA$250, or over CA$140 per sale after CA$300.
+- **Proven-tier:** 10+ sales at CA$100 or less.
+- **Weak page (Jun–Oct 2026):** only fails if CA$250+ spent and 2× worse than the proven ads in the same weeks (benchmark CA$150 per sale). Otherwise "retest on the fixed page".
+- **Proven ad set:** the top 4 proven-tier ads by cost per sale, with at most 2 versions of the founder story. Testing gets the next best.
 
-On the weak page, an ad only fails if it spent CA$250+ and cost at least 2× the proven ads running in the same weeks.
+## Every sales ad
+Cost per sale = spend ÷ (click sales + ½ view sales). CAD.
 
-## Kill / keep (proposed)
-- No sale after **CA$250** → failed.
-- After **CA$300+**, cost per sale over **CA$140** → failed.
-- **Proven** = 10+ sales at CA$100 or less.
-- Under CA$60 scale, CA$60–100 keep, CA$100–140 watch.
+| Ad | When | Page | Spent | Click sales | View sales | Cost/sale | Verdict |
+|---|---|---|---|---|---|---|---|
+| Video Ad 3: Founder Ad (Quiz) | 2025 | Normal | 1,968 | 47 | 18 | 35 | **Proven ad set** |
+| Video Ad 1: DIM Comment | 2025 | Normal | 2,056 | 43 | 6 | 45 | **Proven ad set** |
+| CA Founder Ad (H2 2023) | 2023–24 | Normal | 7,941 | 157 | 17 | 48 | **Proven ad set** |
+| Carousel Ad 2: Education + Before/After | 2025 | Normal | 2,808 | 39 | 39 | 48 | **Proven ad set** |
+| ASMR Product Video | Jan 2026 | Normal | 250 | 5 | 5 | 33 | **Testing** (promising, not enough data; ran during New Year sale) |
+| Video Ad 4: Testimonial 1 | 2025 | Normal | 1,958 | 23 | 29 | 52 | **Testing** (proven-tier, 5th) |
+| Kaija UGC K7 | Nov 2025 | Normal | 610 | 8 | 4 | 61 | **Testing** (proven-tier, 6th) |
+| Founder Montage with VO (+ quiz) | Mar–May 2026 | Normal | 1,412 | 6 | 17 | 97 | Proven-tier, next in line (3rd founder story) |
+| Video Ad 2: Founder Ad (Shop) | 2025 | Normal | 304 | 4 | 5 | 47 | Bench (lost quiz-vs-shop test; founder) |
+| Updated Founder Ad | 2024 | Normal | 8,450 | 112 | 18 | 70 | Bench (proven-tier; founder) |
+| CA Founder Ad (July 2023 campaign) | 2024 | Normal | 1,450 | 20 | 1 | 71 | Bench (proven-tier; founder) |
+| Birth Control Ad | 2024 | Normal | 638 | 6 | 0 | 106 | Watch tier |
+| Kaija UGC K3 | Oct 2025 | Normal | 81 | 1 | 1 | 54 | Not enough data |
+| Kaija UGC K15 | Nov 2025 | Normal | 180 | 2 | 1 | 72 | Not enough data |
+| B&A Content-Agency (Quiz) | Dec 2025 | Normal | 148 | 0 | 4 | 74 | Not enough data |
+| Kim UGC CO-1 | Oct 2025 | Normal | 119 | 1 | 1 | 79 | Not enough data |
+| Rachel Product LP Q-2 | Nov 2025 | Normal | 57 | 0 | 1 | 114 | Not enough data |
+| Kaija UGC K1 | Nov 2025 | Normal | 115 | 1 | 0 | 115 | Not enough data |
+| CAM Face+Bottle Static | Nov 2025 | Normal | 97 | 0 | 1 | 194 | Not enough data |
+| Kim Quiz Q-1 | Oct 2025 | Normal | 112 | 0 | 1 | 225 | Not enough data |
+| PBYP Green Static | Nov 2025 | Normal | 118 | 0 | 1 | 235 | Not enough data |
+| May 2024 Test | 2024 | Normal | 236 | 1 | 0 | 236 | Not enough data |
+| Kaija UGC K2, B&A Content-Agency, Man Comment (Shop + Quiz) | 2025 | Normal | 17 / 14 / 14 | 0 | 0 | — | Not enough data |
+| Bailey Testimonial (+ quiz) | Mar 2026 | Normal | 507 | 0 | 4 | 253 | **Failed** (over CA$140) |
+| US Founder Ad (US) | 2024 | Normal | 286 | 0 | 0 | — | **Failed** (no sale after CA$250) |
+| Founder Ad (2026 version) | Jun–Jul 2026 | Weak | 2,065 | 10 | 9 | 142 | Retest on fixed page |
+| Carousel: Education + Before/After (2026 rerun) | Jun–Jul 2026 | Weak | 623 | 3 | 2 | 156 | Retest on fixed page |
+| Video Ad 1: DIM Comment (2026 rerun) | Jun–Aug 2026 | Weak | 1,827 | 8 | 7 | 159 | Retest on fixed page |
+| No One Knows I Have the Answer (both) | Jun–Aug 2026 | Weak | 1,834 | 3 | 17 | 159 | Retest on fixed page |
+| Coffee Shop/Restaurant (both) | Jun–Jul 2026 | Weak | 237 | 1 | 1 | 158 | Retest on fixed page |
+| Goodbye Skin, Hair & Nail Gummies | Aug 2026 | Weak | 269 | 0 | 3 | 179 | Retest on fixed page (weak sign: ~CA$7 per click) |
+| Video Ad 3: Founder Ad (Quiz) (2026 rerun) | Jun–Jul 2026 | Weak | 34 | 0 | 1 | 68 | Not enough data |
+| Until I Fixed My Hormones | Jun 2026 | Weak | 32 | 0 | 0 | — | Dropped by Rachel (teaching is in the caption) |
 
-## Ranking (all eligible ads, normal page, sales campaigns)
-| Rank | Ad | Ad ID | Spent | Sales | Cost/sale | Decision |
-|---|---|---|---|---|---|---|
-| 1 | Video Ad 3: Founder Ad (Quiz), 2025 | 120225068657950301 | 1,968 | 47 | 42 | **Proven** |
-| 2 | Video Ad 1: DIM Comment, 2025 | 120225006723890301 | 2,056 | 43 | 48 | **Proven** (note: Oct–Dec 2025 slowed to ~$150/sale) |
-| 3 | ASMR Product Video, Jan 2026 | 120237539030230301 | 250 | 5 | 50 | **Testing** (under 10 sales; ran during the New Year sale, may be flattered) |
-| 4 | CA Founder Ad, 2023 (H2 2023 campaign) | 23856934920440300 | 7,941 | 157 | 51 | **Proven** |
-| 5 | Carousel Ad 2: Education + Before/After, 2025 | 120225079426660301 | 2,808 | 39 | 72 | **Proven** |
-| 6 | Updated Founder Ad, 2024 | 120210697259880301 | 8,450 | 112 | 75 | Bench (3rd founder version; Proven already has two) |
-| 7 | Video Ad 2: Founder Ad (Shop), 2025 | 120225067155030301 | 304 | 4 | 76 | Bench (lost the 2025 quiz-vs-shop test) |
-| 8 | Kaija UGC K7 | 120233881284350301 | 610 | 8 | 76 | **Testing** |
-| 9 | Video Ad 4: Testimonial 1, 2025 | 120225080698100301 | 1,958 | 23 | 85 | **Testing** |
-| 10 | Kaija UGC K15 | 120233880653630301 | 180 | 2 | 90 | Next batch |
-| 11 | Birth Control Ad, 2024 | 120209027345400301 | 638 | 6 | 106 | Next batch (watch tier) |
-| 12 | CA Founder Ad (July 2023 campaign), May–Jun 2024 | 23855690021930300 | 1,450 | 20 | 72 | Bench (same founder ad, older run) |
-
-## Failed a fair test
-| Ad | Spent | Sales | Why |
-|---|---|---|---|
-| Bailey Testimonial (+ quiz), Mar 2026 | 507 | 0 | No sale after CA$250 |
-| Founder Montage with VO (+ quiz), Mar–May 2026 | 1,412 | 6 | CA$235 per sale |
-| US Founder Ad, 2024 (US) | 286 | 0 | No sale after CA$250 |
-| No One Knows I Have the Answer (both versions), Jun–Aug 2026 (weak page) | 1,833 | 3 | CA$611 per sale, ~3× the proven ads (~CA$215) in the same weeks |
-| Goodbye Skin, Hair & Nail Gummies, Aug 2026 (weak page) | 269 | 0 | No sale after CA$250 |
-
-## Not enough data to judge (under CA$250, or too few sales)
-PSA Video Ad (CA$173, 1 sale), May 2024 Test (CA$236, 1), Coffee Shop/Restaurant (CA$237, 1, weak page), B&A Content-Agency Quiz (CA$148, 0), PBYP Green Static (CA$118, 0), CAM Face+Bottle Static (CA$97, 0), Kim UGC CO-1 (CA$119, 1), Kim Quiz Q-1 (CA$112, 0), Kaija K1 (CA$115, 1), Kaija K3 (CA$81, 1), Kaija K2 (CA$17), Rachel Product LP Q-2 (CA$57), Until I Fixed My Hormones (CA$32; dropped by Rachel: the teaching is in the caption), each 2025 Spring Sale image (CA$60–170 each, 0), the Nov 2025 BFCM batch (21 ads, ~CA$600 total, 5 sales, none over CA$111 each).
-
-## Sale and retargeting ads (judge only for sales: Black Friday candidates)
+## Sale and retargeting ads (judge only for sales: Black Friday candidates; click sales only)
 | Ad | Spent | Sales | Cost/sale |
 |---|---|---|---|
 | Carousel Ad: Before/After (New Year Sale 2025, two versions) | 444 | 15 | 30 |
