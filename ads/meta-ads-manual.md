@@ -55,12 +55,12 @@ One always-on campaign per country. Never move an ad to a new campaign; that thr
 
 **Changes that reset learning (avoid):** budget jumps of more than about 20% at once, editing an ad's media or copy, changing targeting, adding many ads at once. After a change, leave that ad set alone for 7 days.
 
-**Advantage+ creative settings** (updated Oct 16, 2026): Website summaries **OFF** (Meta's AI wrote "hormonal acne relief", a treatment claim, and can rewrite it at any time). Website highlights ON, but untick images that suggest a topical/skin cream or show unrelated people. Site links ON only with these four, and "Identify and add relevant site links" unticked: Hormonal Acne Quiz (/pages/quiz), Customer Reviews (/pages/results), How It Works (/pages/learn), FAQs (/pages/faq). Turn Products, Promotions and all AI text/image/video/music changes OFF.
+**Advantage+ creative settings** (Rachel, Oct 16, 2026): Website summaries ON ("hormonal acne relief" is fine per Rachel). Website highlights OFF (pulled random, unhelpful images). Site links OFF (Meta's links all went to the shop page; small expected effect, not worth upkeep). Products, Promotions and all AI text/image/video/music changes OFF.
 
 **Rejected:** catalog ads (Balance is rejected in the catalog), awareness/reach and video-view campaigns (about CA$3,900 spent in 2025, zero sales).
 
 ## Copy rules
-- Never say "treat". "Acne" is fine.
+- Never say "treat". "Acne" is fine. "Acne relief" is fine (Rachel, Oct 16, 2026).
 - Say "drug-free, nature-backed ingredients", not "natural ingredients". Describing one ingredient as "a natural compound" (e.g. DIM) is fine (Rachel, Oct 16, 2026). "Science-backed" is fine for headlines.
 - Excess estrogen is "a common, overlooked cause" of hormonal acne, never "the" cause. Exceptions (Rachel, Oct 16, 2026): her own story ("high estrogen was the root cause" of *her* acne), and hedged lines like "This root cause could be to blame", are fine.
 - Never say "Health Canada approved" (Rachel, Oct 15, 2026). "Naturopath-formulated" and the 30-day money-back guarantee are fine.
