@@ -7,7 +7,7 @@ Pulled Oct 16, 2026 from Meta via Windsor (7-day click and 1-day view), CAD. Met
 - **Broken tracking**: ~Feb 2026. No ads ran.
 - **Weak page**: Jun – Oct 2026. Tracking working, but the page opened on the 3-month subscription and converted ~38% worse.
 
-## How ads are scored (agreed with Rachel, Oct 16, 2026)
+## How ads are scored (proposed Oct 16, 2026; waiting for Rachel's OK)
 - **Sales counted:** every 7-day-click sale + **half** of each 1-day-view sale ("saw it, didn't click, bought within a day"). Why: Shopify showed view sales were partly real (Jul 2026 lift ~25 new customers vs Meta's 13 click / 36 total) and partly not (Mar–Apr 2026 orders didn't rise above Feb, when no ads ran, despite 17 view sales on Founder Montage).
 - **Fair test:** tracking working, page opened on 1-month, purchase-optimized campaign, not a sale/retargeting ad, enough spend.
 - **Failed:** no sale after CA$250, or over CA$140 per sale after CA$300.
