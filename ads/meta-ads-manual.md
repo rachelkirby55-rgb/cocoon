@@ -22,7 +22,8 @@ Brief for Claude (or any person) running Cocoon's Meta Ads. Last updated Oct 15,
 ## Tracking
 - Dataset (pixel) **3561456130627090**, fed by the Shopify Facebook & Instagram app with Maximum data sharing (pixel + Conversions API). Purchase match quality 8/10 (Oct 2026).
 - cocoonsupplements.com is verified in Business Settings (Oct 15, 2026). Purchases fire on the new domain.
-- **Tracking was broken from early 2026 until Sept 2026** (the Shopify app was deleted by mistake, then reinstalled). Meta data from roughly Feb–Aug 2026 undercounts sales. Don't judge any ad on that period alone.
+- **Tracking broke around Feb 2026 and was working again by March 2026** (corrected Oct 16, 2026; this manual used to say "until Sept"). Evidence: from March on, Meta recorded the full funnel every month with normal checkout-to-purchase rates (28–71%, vs 34–65% in Oct 2025–Jan 2026). No ads ran in Feb, so the exact dates can't be seen. **Treat Mar–Aug 2026 results as real.**
+- **But the website converted far worse from about Feb 2026** (Shopify: visitors who buy ~2.7% in Nov–Jan → ~1.1% in Jul–Sep; new customers per month roughly halved from Feb). Ads still got clicks at about the same cost (~CA$2–3 per click); fewer clicks turned into sales. Likely cause under review: the product page default switched to the 3-month subscription (CA$159.73), see open items. Judge 2026 ad results against each other, not against 2023–2025 numbers.
 - A "data sharing restrictions" notice exists because it's a supplement. It doesn't block ads.
 
 ## Business numbers
@@ -77,7 +78,7 @@ One always-on campaign per country. Never move an ad to a new campaign; that thr
 | NY Sale Founder Video V1 + V2 | 120237595971690301 / 120237596511840301 | $49 | 5 | Jan 2026 |
 | ASMR Product Video | 120237539030230301 | $50 | 5 | Jan 2026 |
 
-Caution: DIM Comment and Founder Ad reran in summer 2026 at about $206–228 per sale. That was during broken tracking, but it could also mean they were tired. The relaunch tests this.
+Caution: Founder Ad and DIM Comment reran Mar–Aug 2026 at about $206 and $228 per sale (real numbers, tracking was working). They were still the best of 2026, so the drop is mostly the weaker website, not tired ads.
 
 ### Worth retesting
 | Ad | Ad ID | Cost per sale | Sales |
@@ -94,8 +95,19 @@ Caution: DIM Comment and Founder Ad reran in summer 2026 at about $206–228 per
 | Testimonials video | 120214136188380301 | $57 | 4 |
 | Educational Carousel | 120215928222020301 | $62 | 11 |
 
-### Untested (ran only while tracking was broken)
-Bailey Testimonial, Founder Montage with VO, "No One Knows I Have the Answer", Coffee Shop/Restaurant, "Goodbye Skin, Hair & Nail Gummies", "Until I Fixed My Hormones". These go through Testing like new ads.
+### Ran Mar–Aug 2026 (tracking working, weaker website), 7-day click
+| Ad | Spent | Sales | Cost per sale |
+|---|---|---|---|
+| Founder Ad (2026 version) | $2,065 | 10 | $206 |
+| Carousel: Education + Before/After | $623 | 3 | $208 |
+| Video Ad 1: DIM Comment | $1,827 | 8 | $228 |
+| Founder Montage with VO | $1,399 | 6 | $233 |
+| "No One Knows I Have the Answer" (won its Jun–Aug test group) | $1,717 | 3 | $572 |
+| Bailey Testimonial (+ quiz version) | $507 | 0 | none |
+| Coffee Shop/Restaurant | $237 | 1 | $237 |
+| "Goodbye Skin, Hair & Nail Gummies" | $269 | 0 | none |
+| "Until I Fixed My Hormones" (dropped: the teaching is in the caption, not the video) | $32 | 0 | not tested |
+| Spring sale video (sale only) | $332 | 4 | $83 |
 
 ### Don't rerun
 Awareness/video-view ads (Cocoon Anniversary, Dirty Pillowcase, Candice images, Green Background images), Black Friday 2024 (about $300 per sale), Birth Control Ad ($106), 2025 Spring Sale images, US Founder Ad 2023 (no sales), the Nov 2025 BFCM batch (no signal).
