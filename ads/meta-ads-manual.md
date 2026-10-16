@@ -15,7 +15,7 @@ Brief for Claude (or any person) running Cocoon's Meta Ads. Last updated Oct 15,
   - Through Windsor, Claude can: pause and enable campaigns, ad sets and ads; set budgets; create campaigns, ad sets and ads; upload images and videos; edit ad copy, headlines and links (`update_ad_creative`). Meta allows at most 4 budget changes per ad set per hour.
   - Claude can't: see the ads visually the way Rachel does, change Events Manager or Business Settings. Give Rachel UI steps for those.
 - Meta only returns data from the last 37 months. Pass dates from about 36 months back at the earliest.
-- **Decision metric: 7-day click only.** Pull with `options: {"attribution_window": "7d_click"}`. Meta's default (7-day click + 1-day view) counts people who only saw the ad, which overstates results for Cocoon. Use it only as a side comparison.
+- **Decision metric (Rachel, Oct 16, 2026): 7-day-click sales + half of 1-day-view sales.** Pull both windows (`options: {"attribution_window": "7d_click"}` and `"1d_view"`). Meta's default counts view-only sales fully, which overstates; click-only understates (Shopify showed view sales are partly real). Kill an ad at CA$250 with no sale, or over CA$140 per sale after CA$300. Full rules in `ads/meta/ad-scorecard.md`.
 - Purchase field: `actions_offsite_conversion_fb_pixel_purchase`. Revenue: `action_values_offsite_conversion_fb_pixel_purchase`.
 - Windsor is on the Basic plan (bought Oct 15, 2026) with 3 sources: Google Ads, Meta Ads, GA4. Adding a fourth pauses ALL reads until one is removed. Swap GA4 for Search Console when SEO work starts. Shopify data comes through the Shopify connector, not Windsor.
 

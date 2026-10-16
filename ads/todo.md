@@ -6,7 +6,6 @@ Kept up to date by the ads agent (and the weekly check). Most urgent first. Last
 | # | To-do | Why it matters | Due |
 |---|---|---|---|
 | 1 | **Edit the CA Founder Ad 2023 video** (remove the cocoonskincare.ca ending, CapCut), swap it into the paused ad "CA Founder Ad 2023", turn the ad on | It's one of the 4 proven ads; until then Proven runs on 3 | ASAP |
-| 2 | **OK the Meta scoring rule** in `ads/meta/ad-scorecard.md`: count click sales fully + view sales at half; kill an ad at CA$250 with no sale, or over CA$140 per sale after CA$300 | The weekly check uses it to say kill/keep | This week |
 | 3 | **Check Merchant Center**: US listings in USD, no price-mismatch warnings (reminder fires Oct 19, 9am) | US Google ads and price assets rely on it | Oct 19 |
 | 4 | **Black Friday decisions**: offer (% off), discount code or price drop, does it include subscriptions and the US, extra budget for Nov 23–30 | Everything else for Black Friday waits on this | Oct 30 |
 | 5 | **"How did you hear about us?" after checkout** (Shopify app) | Only clear way to see whether Google or Meta brought each new customer; Black Friday will blur the numbers | Before Nov 23 |
@@ -28,6 +27,7 @@ Kept up to date by the ads agent (and the weekly check). Most urgent first. Last
 - French site + Quebec campaign; SEO rebuild for the .com.
 
 ## Done (Oct 15–16, 2026)
+- Meta scoring rule approved (clicks + ½ views; kill at CA$250 no sale / over CA$140 after CA$300).
 - Google: September review negatives; Final URL suffix (Shopify source tracking); Canada headline swap; Canada CAD / US USD price assets split; enhanced conversions confirmed; GA4 Toronto time + CAD; Search Console .com + sitemap; Windsor on Basic (Google Ads, Meta, GA4).
 - Website: product page opens on 1-month + Subscribe & Save; "Best value" badge; equal pills.
 - Meta: "Balance | Sales | CA" live (Proven CA$50/day, Testing CA$40/day); display links → .com; Quebec excluded and Past Purchase 180 Days excluded (verified in both ad sets); old-link copies deleted; best 2025 text options added; Advantage+ settings set (summaries on, highlights off, site links off, AI enhancements off).
