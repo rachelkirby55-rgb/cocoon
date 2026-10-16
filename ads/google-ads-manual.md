@@ -53,7 +53,7 @@ Performance Max, Display Expansion, broad match, Shopping campaign reactivation,
 2. **Search terms report.** Add negatives for irrelevant searches. Add searches that convert repeatedly as new phrase keywords.
 3. **Keywords.** Pause or adjust only the ones with 2–3 months of poor data. Remember that match types include plurals and close variants.
 4. **Bidding and budget (only if it makes sense):**
-   - Raise the budget only if cost per purchase is at or under target. New budget = current ÷ (1 − Search lost IS (budget)).
+   - Budget raises: no fixed rule (Rachel, Oct 16, 2026). Bring the numbers to each monthly review and discuss. Context: the CA$84 target is chosen because Google lands ~1.5× over it (~CA$126), just under the CA$139 lifetime profit, which is the real limit. Sizing formula if a raise is agreed: new budget = current ÷ (1 − Search lost IS (budget)).
    - Revisit the target CPA if the average order or reorder behaviour has changed.
    - US (per-click): adjust the per-click cap, budget and locations. Cost per customer ≈ cost per click ÷ conversion rate (about 3%).
 5. **Every 2–3 months:** replace the headline with the worst cost per sale, if it has enough data (about CA$300+ spent). Google no longer shows "Low/Good/Best" ratings; use per-headline cost and conversions (Windsor `ad_group_ad_asset_view` fields with the ad id filter). Note that headlines share credit, so compare them against each other, not against the target.
