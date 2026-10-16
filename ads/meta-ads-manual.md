@@ -55,7 +55,7 @@ One always-on campaign per country. Never move an ad to a new campaign; that thr
 
 **Changes that reset learning (avoid):** budget jumps of more than about 20% at once, editing an ad's media or copy, changing targeting, adding many ads at once. After a change, leave that ad set alone for 7 days.
 
-**Advantage+ creative settings:** keep Website Summaries, Site Links, Website Highlights ON. Turn Products, Promotions and all AI video/text changes OFF.
+**Advantage+ creative settings** (updated Oct 16, 2026): Website summaries **OFF** (Meta's AI wrote "hormonal acne relief", a treatment claim, and can rewrite it at any time). Website highlights ON, but untick images that suggest a topical/skin cream or show unrelated people. Site links ON only with these four, and "Identify and add relevant site links" unticked: Hormonal Acne Quiz (/pages/quiz), Customer Reviews (/pages/results), How It Works (/pages/learn), FAQs (/pages/faq). Turn Products, Promotions and all AI text/image/video/music changes OFF.
 
 **Rejected:** catalog ads (Balance is rejected in the catalog), awareness/reach and video-view campaigns (about CA$3,900 spent in 2025, zero sales).
 
