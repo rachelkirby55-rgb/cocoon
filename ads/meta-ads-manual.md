@@ -132,6 +132,7 @@ Meta moves faster than Google, so check weekly, not just monthly.
 
 ## Change log
 - Oct 15, 2026: Confirmed tracking works on cocoonsupplements.com (Purchase active, 8/10 match quality) and the domain is verified. Reviewed full ad history. Agreed on one campaign per country with Proven and Testing ad sets; winners are added to Proven by existing post ID, not moved to a new campaign. Canada first, US later.
+- Oct 16, 2026: **Product page now opens on 1-month + Subscribe & Save** (was 3-month since ~June 2026). Theme "Cocoon — 1-month default + best value (preview)" (id 131597271104) published by Rachel: 1-month pill first, "Best value" badge on 3-month, pills equal height. Balance variant order changed so 1-month is first (that sets the default). Ad links with ?variant= still open the linked option (checked). Why: search-visitor purchase rate fell ~2.9% → ~1.8% after the 3-month default. **Measure:** search-traffic add-to-cart rate, purchase rate, average order, new customers for Oct 16–Nov 6 vs Jun 1–Oct 15 (baseline: add-to-cart 3.1%, purchase 1.8%). Undo: move 3-month back to first in the Balance variants.
 
 ## Open items
 - Confirm Meta daily budget (proposed: CA$45/day, $30 Proven + $15 Testing).

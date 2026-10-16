@@ -1,7 +1,7 @@
 # Product page: purchase options change (spec for the website session)
 
 Page: cocoonsupplements.com/products/balance (Shopify, product "BALANCE").
-Written Oct 16, 2026 by the ads agent, approved by Rachel before building.
+Written Oct 16, 2026 by the ads agent. **Live Oct 16, 2026** (theme id 131597271104 + variant order). Rachel dropped the "Want 3 months?" upsell line (section 3) and asked for equal-height pills.
 
 ## Why
 In June 2026 the page was changed to open on the 3-month supply (Subscribe & Save, CA$159.73). Shopify data for visitors from search (the steadiest traffic source):
