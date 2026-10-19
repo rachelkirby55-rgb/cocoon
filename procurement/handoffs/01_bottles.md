@@ -48,7 +48,7 @@ _Status as of Oct 19, 2026. Prices come from supplier websites captured Oct 9, 2
   - No materials with potential endocrine disruptors (EDCs).
 
 ## Open items
-1. **Country of origin** for the Burch 4 oz/6 oz and SKS 8 oz jars, in writing. This decides whether the surtax applies, or whether China/Canadian stock is cheaper.
+1. **Country of origin.** Burch (Caitlin, Oct 19) says its jars are "sourced overseas", so they're not US-made and Burch is likely the pick for Balance + 60ct. The exact country is still to be confirmed in writing. Burch's caps ARE US-made: 63-400 F217; 58-400 smooth PE foam or ribbed F217. Check with a broker whether the surtax covers plastic caps. SKS origin is still pending.
 2. **Samples + photos:** order regular samples of all three jars (and frosted samples if possible). Send photos to Yuliia, and pour-test real capsules (30 in 4 oz, 60 in 6 oz, 90 in 8 oz).
 3. **Dielines:** the label printer makes them from the jar samples. Get samples to him once a jar is chosen, then pass the dielines to Yuliia.
 4. **Manufacturer (Dean):** does his line handle straight-sided jars? Also his bottle + lid cost to use as the benchmark (previous max ~$3.44).
