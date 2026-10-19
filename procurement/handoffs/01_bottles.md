@@ -22,7 +22,7 @@ _Status as of Oct 19, 2026. Prices come from supplier websites captured Oct 9, 2
 | 90ct | [SKS 8 oz, 70-400](https://www.sks-bottle.com/product/305037.html) | ~$1.96 |
 
 - **Total about $4,400 (~$1.47 per jar), regular finish.** That's ~$0.32 per jar more than the packer (~$3,400).
-- **If the jars are US-made, the 50% surtax applies:** ~$4,700 (~$1.57 per jar). Burch and SKS don't state where their jars are made, so get it in writing.
+- **Burch/SKS are only the cheapest if their jars are NOT US-made.** Then they're about tied with a China order for Balance + 60ct (~$4,410 vs ~$4,430), and they avoid the ~3-month wait. If they ARE US-made, the 50% surtax pushes Burch + SKS to ~$5,600. Ordering Balance + 60ct from China (90ct still local) brings that back to ~$4,700. Burch and SKS don't state origin, so get it in writing. China prices are listing estimates until an RFQ is quoted.
 - **Finish is still open.** Yuliia will show a matte (frosted) concept and a glossy one, and Rachel picks after seeing them. Frosted runs ~$4,950 (~$1.65 per jar). It comes from China: 4 oz + 6 oz by sea (~3 months), 8 oz by DDP air (~5–7 weeks).
 - **Sizes:** Balance uses the 4 oz. The new SKUs use either 6 oz + 8 oz, or one shared size. That's decided at production, and Yuliia is designing the label to work on all three.
   - A shared size only works as the 8 oz, and only if the 60ct is size 00 (~54% full). With size 0, a 60ct looks under half full (~41%) in an 8 oz, which breaks the half-full rule.
