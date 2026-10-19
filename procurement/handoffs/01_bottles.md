@@ -37,7 +37,7 @@ _Status as of Oct 19, 2026. Prices come from supplier websites captured Oct 9, 2
   2. Glossy jar with a subtle colour treatment (Direction 3).
   Rachel chooses one combination, then Yuliia develops it across all three products.
 - **Timeline:** Yuliia needs 3–4 extra business days once packaging is confirmed. Rachel agreed.
-- **What Yuliia needs from producers:** photos of the exact jars, finishes and label paper you'll actually be supplied, not website reference images. She also needs dielines to finalise label sizes.
+- **What Yuliia needs from producers:** photos of the exact jars, finishes and label paper you'll actually be supplied, not website reference images. She also needs dielines (from the label printer) to finalise label sizes.
 
 ## Key facts
 - **Surtax (confirmed):** SOR/2026-186 puts a 50% surtax on US-ORIGIN glass jars (7010.90.00). It applies by country of origin, not where the jar ships from.
@@ -50,7 +50,7 @@ _Status as of Oct 19, 2026. Prices come from supplier websites captured Oct 9, 2
 ## Open items
 1. **Country of origin** for the Burch 4 oz/6 oz and SKS 8 oz jars, in writing. This decides whether the surtax applies, or whether China/Canadian stock is cheaper.
 2. **Samples + photos:** order regular samples of all three jars (and frosted samples if possible). Send photos to Yuliia, and pour-test real capsules (30 in 4 oz, 60 in 6 oz, 90 in 8 oz).
-3. **Dielines** for the 4, 6 and 8 oz jars, for Yuliia's label sizing.
+3. **Dielines:** the label printer makes them from the jar samples. Get samples to him once a jar is chosen, then pass the dielines to Yuliia.
 4. **Manufacturer (Dean):** does his line handle straight-sided jars? Also his bottle + lid cost to use as the benchmark (previous max ~$3.44).
 5. **Written quotes** delivered to Ontario: Burch (4 + 6 oz in one shipment) and SKS (8 oz). Add a China frosted RFQ if the matte concept wins.
 6. **EDC review** of the caps/liners for the 58, 63 and 70-400 sizes and of the PVC shrink bands. Find EDC-free alternatives.
