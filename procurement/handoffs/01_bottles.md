@@ -53,7 +53,7 @@ _Status as of Oct 19, 2026. Prices come from supplier websites captured Oct 9, 2
 3. **Dielines:** the label printer makes them from the jar samples. Get samples to him once a jar is chosen, then pass the dielines to Yuliia.
 4. **Manufacturer (Dean):** does his line handle straight-sided jars? Also his bottle + lid cost to use as the benchmark (previous max ~$3.44).
 5. **Written quotes** delivered to Ontario: Burch (4 + 6 oz in one shipment) and SKS (8 oz). Add a China frosted RFQ if the matte concept wins.
-6. **EDC review** of the caps/liners for the 58, 63 and 70-400 sizes and of the PVC shrink bands. Find EDC-free alternatives.
+6. **EDC (owner OK'd Oct 19):** PP caps with PE liners are acceptable if BPA-, phthalate- and PVC-free. Get that in writing from Burch/SKS. Use PETG or polyolefin shrink bands instead of PVC. Ask SKS for a plain PE/F217 liner instead of its induction liner.
 
 ## Files
 - `procurement/Amber_Jar_Sourcing_Analysis.xlsx`: the full analysis. The straight-sided plans are in its Final Recommendation tab (Plan B = regular; frosted = China 4/6 oz + 8 oz by DDP air), and fit is on the Capsule Sizing tab. It's very detailed; the owner prefers simple summaries.
