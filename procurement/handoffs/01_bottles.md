@@ -30,6 +30,13 @@ _Status as of Oct 19, 2026. Prices come from supplier websites captured Oct 9, 2
 - Three neck sizes means three cap sizes (58, 63 and 70-400) and three shrink-band sizes.
 - The packer route (TricorBraun 120/150/200cc, ~$3,400, China glass, no surtax) is the fallback if the jars don't work out.
 
+## Quotes in (Oct 20)
+- **Xuzhou Das (China), EXW:** 4 oz US$0.25, 8 oz US$0.51, both with a black PP lid and pull-tab inner seal. Frosting is +US$0.13/jar. Total US$755 regular or US$1,080 frosted for 2,000 + 500. Lead time 25 days + sea freight (~9–10 weeks). 50% deposit. The bank account is in Singapore, so verify it before paying. No amber 6 oz (only clear glass spray-painted brown, rejected). Asked for samples, lid/liner/seal materials, lead-free glass and a DDP quote to Sarnia.
+  - Estimated landed: ~$0.95–1.05 (4 oz) and ~$1.25–1.35 (8 oz) regular; frosted adds ~$0.19. Whole order ~$2,400 regular or ~$2,900 frosted, vs ~$4,400 regular for Burch + SKS.
+- **CPS:** 4 oz G850AM US$0.374 + US$393 freight (from KY), no lids. Landed ~$1.05–1.10 with lid. The 6 oz minimum is a full case of 6,370 and they don't stock an 8 oz, so CPS is 4 oz only. Asked about lids, freight destination, brokerage and origin.
+- **Burch:** samples ordered (5 free: one each of the 4 oz and 6 oz jars and the three lids). Quote pending. Burch's 6 oz is the only amber 6 oz option found so far.
+- Manufacturer address (RDE): 1367 Confederation St, Unit B, Sarnia, ON N7S 5P1 (loading dock).
+
 ## Labels and design (Oct 12–14)
 - **No embossing, debossing or tactile varnish, including on the logo.** We only sell online, so these effects wouldn't show in photos. Yuliia also saw soft edges on the varnish sample.
 - **Two concepts:**
