@@ -39,6 +39,12 @@ _Status as of Oct 19, 2026. Prices come from supplier websites captured Oct 9, 2
 - **Burch:** samples ordered (5 free: one each of the 4 oz and 6 oz jars and the three lids). Quote pending. Burch's 6 oz is the only amber 6 oz option found so far.
 - Manufacturer address (RDE): 1367 Confederation St, Unit B, Sarnia, ON N7S 5P1 (loading dock).
 
+## Current pick (Oct 21)
+Capsule size is only known at production, so every jar must work for size 0 OR 00. Don't ask the owner for capsule size again.
+- **Regular finish → everything from Burch in one shipment:** 4 oz (Balance), 6 oz (60ct), 9 oz (90ct), with black PP F217/PE-foam lined lids. ~$3,870 CAD (~$1.29/jar), ~2–3 weeks. Fit: 60ct in 6 oz is 54% (size 0) to 72% (size 00); 90ct in 9 oz is 54% to 72%. Splitting the 4 oz to CPS costs ~$190 more (a second shipment).
+- **Frosted finish → Das (China)** 4 oz + 8 oz frosted by sea (~$3,460, ~10 weeks), plus a frosted 6 oz for the 60ct, which is still unsourced (Chongqing Sincereal 180 ml is a lead).
+- Tell Yuliia the 90ct jar is a 9 oz (Burch) in the regular plan.
+
 ## Labels and design (Oct 12–14)
 - **No embossing, debossing or tactile varnish, including on the logo.** We only sell online, so these effects wouldn't show in photos. Yuliia also saw soft edges on the varnish sample.
 - **Two concepts:**
