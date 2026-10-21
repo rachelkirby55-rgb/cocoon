@@ -1,6 +1,8 @@
 # cocoonsupplements.com: proposed site structure
 
-Status: **DRAFT, needs Rachel's sign-off.** Full copy gets written once this is approved and the two product briefs are in.
+Status: **approved to build** (Rachel, 21 Oct 2026). Briefs are in `product-briefs/`. Product names: **Androgen Balance** (Jan 2027) and **Liver Support** (Apr 2027), both working names.
+
+Built in Shopify on 21 Oct 2026, all hidden from the live site: the unpublished collection "All Supplements" (`/collections/skin-supplements`, Balance only for now), and the menus "NEW SITE – Main menu (draft)" (`new-site-main-menu`) and "NEW SITE – Footer menu (draft)" (`new-site-footer-menu`). The Root trial theme can't be edited through the API, so choose these menus in Root's theme editor, under Header and Footer.
 Sources: `research/navigation-conversion-audit.md` (GA4 May 2023–Oct 2026, Shopify orders Nov 2022–Oct 2026, Klaviyo), `research/seo-audit.md` (Search Console Jun 2025–Oct 2026, Google Ads, Keyword Planner) and `research/current-site-copy.md` (live site, 13 Oct 2026).
 
 ## The recommendation in one paragraph
@@ -25,8 +27,8 @@ Shop ▾ | Find Your Formula (quiz) | Results | Learn | About
   Shop ▾
     All Supplements        → /collections/skin-supplements
     Balance                → /products/balance
-    [New product A]        → /products/[a]
-    [New product B]        → /products/[b]
+    Androgen Balance       → /products/androgen-balance (Jan 2027)
+    Liver Support          → /products/liver-support (Apr 2027)
     Bundles                → (only if we offer them; see Q3)
   Account ▾
     Log in / My orders
@@ -41,8 +43,8 @@ Footer: Shop links · Learn hub · Blog · FAQ · Money-back guarantee · Shippi
 | 1 | Home | `/` | supplements for hormonal acne `[CLAIM CHECK]` | Brand promise, the 3 formulas side by side, quiz CTA, proof, guarantee | Keep URL, rewrite |
 | 2 | Shop all | `/collections/skin-supplements` | clear skin supplements | Compare the formulas ("Which one is right for me?") and sell bundles | **New** |
 | 3 | Balance | `/products/balance` | DIM supplement for women / estrogen balance | Full standalone sales page | Keep URL, rewrite (H1 is just "BALANCE") |
-| 4 | [Product A] | `/products/[a]` | from the brief + keyword research | Same template as Balance | **New** |
-| 5 | [Product B] | `/products/[b]` | from the brief + keyword research | Same template as Balance | **New** |
+| 4 | Androgen Balance | `/products/androgen-balance` | from the brief + keyword research | Same template as Balance | **New** |
+| 5 | Liver Support | `/products/liver-support` | from the brief + keyword research | Same template as Balance | **New** |
 | 6 | Quiz | `/pages/quiz` | acne quiz / what type of acne do I have | Recommend the right formula, capture email | Keep URL, retitle, add ~300 words of indexable copy, add product links to result screens |
 | 7 | Results | `/pages/results` | Cocoon reviews | Before/afters + all Okendo reviews in one place | Keep. Merge `/pages/reviews` into it |
 | 8 | Learn hub | `/pages/learn` | hormonal acne | Root-cause education, linking to concern articles, quiz and products | Keep URL, rewrite, fix broken links |
@@ -67,7 +69,7 @@ Footer: Shop links · Learn hub · Blog · FAQ · Money-back guarantee · Shippi
 10. Supplement disclaimer
 
 ## Redirect map (301s)
-Shopify keeps paths across the domain change, so most `.ca → .com` redirects are automatic. Spot-check them in a browser, because the .ca domain couldn't be reached from here. Add these:
+**cocoonskincare.ca does not redirect and can't be made to** (owner, 21 Oct 2026), so the old domain's rankings won't transfer. These redirects are all *within* cocoonsupplements.com. They fix broken links and merged pages:
 
 | From | To | Why |
 |---|---|---|
@@ -83,17 +85,23 @@ Shopify keeps paths across the domain change, so most `.ca → .com` redirects a
 | `/products/dim`, `/pages/learn-1` | (already redirect) | keep |
 
 ## Before launch (not copy, but they affect results)
-- [ ] Add cocoonsupplements.com to Google Search Console and run Change of Address from the .ca property. **Most urgent:** .ca impressions fell about 85% from 4 Oct.
-- [ ] Keep cocoonskincare.ca registered and redirecting for at least a year.
+- [x] cocoonsupplements.com is in Google Search Console. Change of Address isn't possible because there's no .ca redirect.
+- [ ] Submit `https://cocoonsupplements.com/sitemap.xml` in Search Console, if it isn't already.
+- [ ] Update the US labels: they still say "Questions? Email info@cocoonskincare.ca".
 - [ ] Move Google Merchant Center to the new domain (it still sends `country=CA&currency=CAD` links).
 - [ ] Rename the Shopify product type from "Skincare" to "Supplements" and remove the "…Treatment" tags.
 - [ ] Add Organization schema with `alternateName: "Cocoon Skincare"`.
 - [ ] Update Terms and Privacy (they still say cocoonskincare.ca and Cocoon Skincare Inc.).
 
-## Decisions needed from Rachel
-1. **Canada vs US.** Canada is 72% of 2026 orders. Proposal: one site that sells to both countries, with CAD prices for Canadians through Shopify Markets. Should the copy use US spelling (my default for a .com) or Canadian spelling?
-2. **Canadian claims.** Does Balance have an NPN? Will the new products? If so, please send the licensed claims, because Canadian copy has to stay within them.
-3. **Bundles.** Will there be a stack or bundle price (e.g. Balance + new product)? This decides whether "Bundles" goes in the menu.
-4. **Naturopath.** Can we name the formulator(s)? Right now the site only says "naturopath-formulated".
-5. **Results timeline.** The site currently says "1 week to 3 months", "3–6 months" and "60–90 days" on different pages. Which is right? (FTC requires typical results.)
-6. **Product briefs** for the two new products (`product-briefs/TEMPLATE.md`).
+## Decisions (Rachel, 21 Oct 2026)
+1. Canadian spelling.
+2. Balance has an NPN. Never mention it. The new products have no NPN.
+3. Images: US packaging only.
+4. Formulator can't be named; say "naturopath-formulated".
+5. Use "acne" in copy, never "treat/treatment/cure".
+
+## Still open
+- Final product names (Androgen vs Metabolic Balance; Liver Support vs Booster).
+- Bundles/stack pricing.
+- One results timeline (the site currently gives three different ones; Alyssa to confirm for the new products).
+- Approved claims wording for the new products (Alyssa).
