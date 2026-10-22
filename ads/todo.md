@@ -1,6 +1,6 @@
 # Rachel's ads to-do list
 
-Kept up to date by the ads agent (and the weekly check). Most urgent first. Last full sweep: Oct 16, 2026.
+Kept up to date by the ads agent (and the weekly check). Most urgent first. Last full sweep: Oct 16, 2026. Weekly check Oct 19, 2026: nothing could be ticked off (see ads/reviews/weekly/2026-10-19.md).
 
 ## Open
 | # | To-do | Why it matters | Due |
