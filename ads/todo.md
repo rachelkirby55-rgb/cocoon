@@ -6,12 +6,11 @@ Kept up to date by the ads agent (and the weekly check). Most urgent first. Last
 | # | To-do | Why it matters | Due |
 |---|---|---|---|
 | 1 | **Edit the CA Founder Ad 2023 video** (remove the cocoonskincare.ca ending, CapCut), swap it into the paused ad "CA Founder Ad 2023", turn the ad on | It's one of the 4 proven ads; until then Proven runs on 3 | ASAP |
-| 3 | **Fix Merchant Center US listings**: only the Canadian (CA$) listings show in the US, both "Limited" for mismatched shipping currency. Shopify support asked (Oct 22) why the Google & YouTube app makes no US products; send their answer to the agent before changing anything. Keep "Countries and languages" automatic sync OFF (Canada + US) | US shoppers see free Google listings at the wrong price, or not at all | Before Nov 16 |
-| 4 | **Black Friday decisions**: offer (% off), discount code or price drop, does it include subscriptions and the US, extra budget for Nov 23–30 | Everything else for Black Friday waits on this | Oct 30 |
-| 5 | **"How did you hear about us?" after checkout** (Shopify app) | Only clear way to see whether Google or Meta brought each new customer; Black Friday will blur the numbers | Before Nov 23 |
-| 6 | **Black Friday creative**: ASMR video with a BF overlay; Education + Before/After carousel with a sale slide; sale versions of the best ads (offer in the first 3 seconds) | Needed to build the BF campaign by Nov 16 | Nov 9 |
-| 7 | Optional: Founder Ad (Quiz) video with the cocoonskincare.ca address bar blurred → add as a new ad in Proven | Small; the .ca isn't clickable | Any time |
-| 8 | Fresh creative for Meta Testing: 2–4 new ads a month (testimonials and founder story have won before) | Testing needs new ads once the current 3 are judged (~Nov 6) | November |
+| 3 | **Black Friday decisions**: offer (% off), discount code or price drop, does it include subscriptions and the US, extra budget for Nov 23–30 | Everything else for Black Friday waits on this | Oct 30 |
+| 4 | **"How did you hear about us?" after checkout** (Shopify app) | Only clear way to see whether Google or Meta brought each new customer; Black Friday will blur the numbers | Before Nov 23 |
+| 5 | **Black Friday creative**: ASMR video with a BF overlay; Education + Before/After carousel with a sale slide; sale versions of the best ads (offer in the first 3 seconds) | Needed to build the BF campaign by Nov 16 | Nov 9 |
+| 6 | Optional: Founder Ad (Quiz) video with the cocoonskincare.ca address bar blurred → add as a new ad in Proven | Small; the .ca isn't clickable | Any time |
+| 7 | Fresh creative for Meta Testing: 2–4 new ads a month (testimonials and founder story have won before) | Testing needs new ads once the current 3 are judged (~Nov 6) | November |
 
 ## Agent's upcoming (no action from Rachel)
 - Oct 19 / 26, Nov 2…: weekly check (email).
@@ -25,6 +24,7 @@ Kept up to date by the ads agent (and the weekly check). Most urgent first. Last
 - Partnership ads for creator content (e.g. Kaija).
 - Swap GA4 for Search Console in Windsor when SEO work starts.
 - French site + Quebec campaign; SEO rebuild for the .com.
+- US free Google listings (parked Oct 22): the Google & YouTube app only makes one country's listings (Canada, CA$) and stretches them to the US, so they show "Limited". Free listings got 0 clicks anyway. Revisit only if we start Shopping ads in the US; the fix then is a feed app that makes separate US$ listings. Keep the app's automatic country sync OFF.
 
 ## Done (Oct 15–16, 2026)
 - Meta scoring rule approved (clicks + ½ views; kill at CA$250 no sale / over CA$140 after CA$300).
