@@ -6,7 +6,7 @@ Kept up to date by the ads agent (and the weekly check). Most urgent first. Last
 | # | To-do | Why it matters | Due |
 |---|---|---|---|
 | 1 | **Edit the CA Founder Ad 2023 video** (remove the cocoonskincare.ca ending, CapCut), swap it into the paused ad "CA Founder Ad 2023", turn the ad on | It's one of the 4 proven ads; until then Proven runs on 3 | ASAP |
-| 3 | **Check Merchant Center**: US listings in USD, no price-mismatch warnings (reminder fires Oct 19, 9am) | US Google ads and price assets rely on it | Oct 19 |
+| 3 | **Fix Merchant Center US listings**: only the Canadian (CA$) listings show in the US, both "Limited" for mismatched shipping currency. Get the Shopify Google & YouTube app to sync the US market in USD | US shoppers see free Google listings at the wrong price, or not at all | Before Nov 16 |
 | 4 | **Black Friday decisions**: offer (% off), discount code or price drop, does it include subscriptions and the US, extra budget for Nov 23–30 | Everything else for Black Friday waits on this | Oct 30 |
 | 5 | **"How did you hear about us?" after checkout** (Shopify app) | Only clear way to see whether Google or Meta brought each new customer; Black Friday will blur the numbers | Before Nov 23 |
 | 6 | **Black Friday creative**: ASMR video with a BF overlay; Education + Before/After carousel with a sale slide; sale versions of the best ads (offer in the first 3 seconds) | Needed to build the BF campaign by Nov 16 | Nov 9 |
