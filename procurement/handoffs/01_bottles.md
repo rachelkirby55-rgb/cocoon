@@ -46,7 +46,7 @@ Capsule size is only known at production, so every jar must work for size 0 OR 0
 - Tell Yuliia the 90ct jar is a 9 oz (Burch) in the regular plan.
 
 ## Update (Oct 23)
-- **Rachel picked Concept 2 with a matte/frosted jar.** Yuliia recommends matte. Her long-term idea is a white matte jar with print directly on the glass. A hybrid is also on the table: the logo printed on the jar, plus a small product label.
+- **Rachel picked Concept 2 with a matte/frosted jar.** Yuliia recommends matte. Her long-term idea is a white matte jar with print directly on the glass. Rachel also asked Yuliia to explore a Monat-style hybrid: the logo printed on the jar, plus a small product label. Yuliia hasn't responded to that yet.
 - **Dean confirmed straight-sided jars work on his line, and amber glass is no longer required.** Jar colour and finish are now open in Yuliia's round-1 revisions (amber frosted, clear frosted or white).
 - So frosted means China (Das). Before sampling, ask Das which colours/finishes they offer in 4/6/8 oz, whether the frosting is acid-etched glass or a sprayed coating (sprayed = an EDC question and can scuff), whether a clear frosted 6 oz exists (that would solve the 6 oz gap), and their screen-printing MOQ/cost. Then sample the 2–3 finishes Yuliia shortlists in one US$47 DDP air shipment.
 - The Burch regular plan is now the fallback only.
