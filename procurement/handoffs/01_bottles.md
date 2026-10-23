@@ -45,6 +45,12 @@ Capsule size is only known at production, so every jar must work for size 0 OR 0
 - **Frosted finish → Das (China)** 4 oz + 8 oz frosted by sea (~$3,460, ~10 weeks), plus a frosted 6 oz for the 60ct, which is still unsourced (Chongqing Sincereal 180 ml is a lead).
 - Tell Yuliia the 90ct jar is a 9 oz (Burch) in the regular plan.
 
+## Update (Oct 23)
+- **Rachel picked Concept 2 with a matte/frosted jar.** Yuliia recommends matte. Her long-term idea is a white matte jar with print directly on the glass. A hybrid is also on the table: the logo printed on the jar, plus a small product label.
+- **Dean confirmed straight-sided jars work on his line, and amber glass is no longer required.** Jar colour and finish are now open in Yuliia's round-1 revisions (amber frosted, clear frosted or white).
+- So frosted means China (Das). Before sampling, ask Das which colours/finishes they offer in 4/6/8 oz, whether the frosting is acid-etched glass or a sprayed coating (sprayed = an EDC question and can scuff), whether a clear frosted 6 oz exists (that would solve the 6 oz gap), and their screen-printing MOQ/cost. Then sample the 2–3 finishes Yuliia shortlists in one US$47 DDP air shipment.
+- The Burch regular plan is now the fallback only.
+
 ## Labels and design (Oct 12–14)
 - **No embossing, debossing or tactile varnish, including on the logo.** We only sell online, so these effects wouldn't show in photos. Yuliia also saw soft edges on the varnish sample.
 - **Two concepts:**
