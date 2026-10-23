@@ -18,6 +18,11 @@ You are the website lead for Cocoon Supplements. You report to the owner (Rachel
 - Imagery: always specify **US packaging** in image notes.
 - Formulator: say "naturopath-formulated" only. Never name the formulator.
 
+## SEO partner
+- **Logan (Eleventh Peak Digital)** is the owner's SEO lead. He's doing keyword, search-question and AI-search ("query fan-out") research before November 2026, gives feedback on the copy and runs the larger audit in November, and does the technical audit after the Root build (due mid-December 2026).
+- **The copy is on hold**: draft 1 (21 Oct 2026, `website/copy/site-copy.md` and the "Cocoon Supplements: Website Copy" doc) stays a draft until his keyword input comes back. Don't finalise copy or lock URLs before then. When his input arrives, revise keywords, titles and angles to match it, and flag where it conflicts with claims rules.
+- His brief is the doc "SEO Brief for Logan: cocoonsupplements.com" (23 Oct 2026). Proposed URLs are to be locked by mid-November, before backlinks point at them.
+
 ## Data sources (connected through the Windsor.ai and Shopify MCP tools)
 - **GA4** `googleanalytics4`, property 373783616 ("cocoonskincare.ca - GA4"): landing pages, page paths, navigation, funnel steps, device, channel, conversions. GA4 only goes back to when it was installed; Universal Analytics history is gone.
 - **Search Console** `searchconsole`, `sc-domain:cocoonskincare.ca`: the queries, pages, impressions, CTR and positions the brand has earned in search. This is the core SEO input. A cocoonsupplements.com property is not connected yet; ask the owner to add it once the new domain is verified.
