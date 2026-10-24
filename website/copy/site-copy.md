@@ -65,9 +65,9 @@ Rotate 2 to 3 messages. Swap the first one by launch phase.
 ### Header (menus as already built: "NEW SITE – Main menu (draft)")
 - Logo → `/`
 - **Shop** ▾: All Supplements · Balance · Androgen Balance · Liver Support · Bundles *(show each new product only from its launch; show Bundles only if you offer them)*
-- **Find Your Formula** → `/pages/quiz`
-- **Results** → `/pages/results`
-- **Learn** → `/pages/learn`
+- **Quiz** → `/pages/quiz` (the page itself and its buttons say "Find your formula")
+- **Reviews** → `/pages/results`
+- **Learn** ▾: How Hormonal Acne Works → `/pages/learn` · Articles → `/blogs/cocoon-blog`
 - **About** → `/pages/about`
 - Icons: Search · **Account** ▾ (Log in / My orders · Manage subscription → Appstle portal) · Cart
 
@@ -80,8 +80,8 @@ Search box placeholder text: *Search supplements, ingredients, FAQs*
 > **Cocoon Supplements**, formerly Cocoon Skincare. Naturopath-formulated supplements for hormonal acne-prone skin. Internal skincare that gets to a root cause.* `[CLAIM CHECK]`
 
 **Columns**
-- **Shop:** All Supplements · Balance · Androgen Balance · Liver Support · Find Your Formula
-- **Learn:** Learn hub · Blog · Results
+- **Shop:** All Supplements · Balance · Androgen Balance · Liver Support · Quiz
+- **Learn:** How Hormonal Acne Works · Articles · Reviews
 - **Help:** FAQ · Money-back guarantee · Shipping · Contact · Manage subscription
 - **Company:** About · Affiliates · Wholesale
 - **Policies:** Terms · Privacy · Refund policy

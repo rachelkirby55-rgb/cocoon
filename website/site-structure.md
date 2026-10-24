@@ -23,7 +23,7 @@ Keep every URL that already ranks or sells, and add a range layer on top. The **
 ## Main navigation (mobile first)
 ```
 [Logo]                                    [Search] [Account ▾] [Cart]
-Shop ▾ | Find Your Formula (quiz) | Results | Learn | About | FAQ | Guide (blog)   ← FAQ and Guide added at Rachel's request, 23 Oct 2026
+Shop ▾ | Quiz | Reviews | Learn ▾ | About   (one-word labels, 24 Oct 2026; FAQ lives in the footer and on product pages, the blog under Learn ▾ Articles)
   Shop ▾
     All Supplements        → /collections/skin-supplements
     Balance                → /products/balance
