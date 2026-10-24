@@ -65,10 +65,10 @@ Rotate 2 to 3 messages. Swap the first one by launch phase.
 ### Header (menus as already built: "NEW SITE – Main menu (draft)")
 - Logo → `/`
 - **Shop** ▾: All Supplements · Balance · Androgen Balance · Liver Support · Bundles *(show each new product only from its launch; show Bundles only if you offer them)*
-- **Quiz** → `/pages/quiz` (the page itself and its buttons say "Find your formula")
 - **Reviews** → `/pages/results`
-- **Learn** ▾: How Hormonal Acne Works → `/pages/learn` · Articles → `/blogs/cocoon-blog`
+- **Learn** ▾: How Hormonal Acne Works → `/pages/learn` · Articles → `/blogs/learn`
 - **About** → `/pages/about`
+- **[Find Your Formula]** → `/pages/quiz`: styled as a button at the right of the header (on mobile, a button at the top of the menu drawer), so it reads as the main action rather than a fifth menu word
 - Icons: Search · **Account** ▾ (Log in / My orders · Manage subscription → Appstle portal) · Cart
 
 Search box placeholder text: *Search supplements, ingredients, FAQs*
@@ -80,7 +80,7 @@ Search box placeholder text: *Search supplements, ingredients, FAQs*
 > **Cocoon Supplements**, formerly Cocoon Skincare. Naturopath-formulated supplements for hormonal acne-prone skin. Internal skincare that gets to a root cause.* `[CLAIM CHECK]`
 
 **Columns**
-- **Shop:** All Supplements · Balance · Androgen Balance · Liver Support · Quiz
+- **Shop:** All Supplements · Balance · Androgen Balance · Liver Support · Find Your Formula
 - **Learn:** How Hormonal Acne Works · Articles · Reviews
 - **Help:** FAQ · Money-back guarantee · Shipping · Contact · Manage subscription
 - **Company:** About · Affiliates · Wholesale
@@ -827,7 +827,7 @@ Disclaimer.
 ## 9. Concern hubs
 
 ### 9a. Estrogen dominance & acne (existing post, retitle only)
-- **URL:** `/blogs/cocoon-blog/estrogen-dominance-in-women-symptoms-causes-and-natural-treatment` (keep the URL even though the slug says "treatment"; changing it would lose its history)
+- **URL:** `/blogs/learn/estrogen-dominance-acne` (renamed from estrogen-dominance-in-women-symptoms-causes-and-natural-treatment, with a 301)
 - **Page goal:** Rank for estrogen dominance + acne and feed Balance.
 - **Primary keyword:** estrogen dominance acne (GSC 371 impressions at 11.0)
 - **Secondary:** estrogen dominance (US 8,100); low progesterone acne (~450 at ~20); female too much estrogen (720); supplements for estrogen dominance (320)
@@ -837,7 +837,7 @@ Disclaimer.
 - Add a product module after the "causes" section: "**H3:** Made for estrogen-linked breakouts. Balance pairs DIM, glutathione and calcium D-glucarate to support healthy estrogen metabolism.* **[Meet Balance]**" + disclaimer. Body copy stays; remove "treatment" from the headings.
 
 ### 9b. High androgens in women (new)
-- **URL (proposed):** `/blogs/cocoon-blog/high-androgens-in-women` (a blog post, like the estrogen hub, so both hubs sit together in the Learn hub) `[NEED FROM RACHEL: OK on URL]`
+- **URL (proposed):** `/blogs/learn/high-androgens-in-women` (a blog post, like the estrogen hub, so both hubs sit together in the Learn hub) `[NEED FROM RACHEL: OK on URL]`
 - **Page goal:** Rank for androgen symptoms and feed Androgen Balance.
 - **Primary keyword:** high androgens (US 1,000/mo, CA 110)
 - **Secondary:** high androgen levels (US 1,300); elevated androgen levels (1,300); signs of high testosterone in a woman (2,400); excess androgen symptoms (170); supplements to lower androgens (50)
@@ -885,7 +885,7 @@ High androgens are one of the main features of PCOS (polycystic ovary syndrome).
 Disclaimer.
 
 ### 9c. Your liver and your skin (new)
-- **URL (proposed):** `/blogs/cocoon-blog/liver-and-skin-health` `[NEED FROM RACHEL: OK on URL]`
+- **URL (proposed):** `/blogs/learn/liver-and-skin-health` `[NEED FROM RACHEL: OK on URL]`
 - **Page goal:** Explain the liver–hormone–skin link and feed Liver Support as the add-on.
 - **Primary keyword:** liver and skin health *(best-practice assumption: Keyword Planner shows only ~10 searches a month each for "liver detox for skin", "liver detox for hormone balance" and "detox estrogen from liver", and acne terms are suppressed. This page's job is education and internal linking, not volume. The product page takes the big liver terms.)*
 - **Secondary:** liver detox for skin; liver detox for hormone balance; detox estrogen from liver; milk thistle for liver health (US 8,100)
@@ -938,16 +938,16 @@ Only the posts flagged in the SEO audit (section 8e). Keep every URL. Add a quiz
 
 | # | Post (URL) | Primary keyword | New SEO title (≤60) | New meta description (≤155) | Notes |
 |---|---|---|---|---|---|
-| 1 | `/blogs/cocoon-blog/best-teas-for-hormone-balance` (refresh) | tea for hormonal acne | 7 Best Teas for Hormonal Acne & Hormone Balance | Spearmint, green tea, dandelion and more: the best teas for hormonal acne and hormone balance, what each one does and how much to drink. | Biggest SEO asset (156,535 impressions). Add spearmint and an estrogen-tea section. CTA: quiz. |
-| 2 | `/blogs/cocoon-blog/can-coffee-make-hormonal-acne-worse` | does coffee cause acne | Does Coffee Cause Acne? Caffeine and Hormonal Skin | Does coffee cause acne? How caffeine affects cortisol, blood sugar and your liver, and how to enjoy coffee without the breakouts. | 48,320 impressions at 0.1% CTR. CTA: Liver Support (from Apr 2027), quiz before then. |
-| 3 | Merge `/blogs/cocoon-blog/balancing-hormones-with-food` into `/blogs/cocoon-blog/hormonal-acne-diet-building-hormone-balancing-meals` | hormonal acne diet | Hormonal Acne Diet: Foods That Support Clearer Skin | What to eat for hormonal acne: the foods that support hormone balance and clearer-looking skin, plus easy hormone-balancing meal ideas. | Recommend keeping the slug with "hormonal-acne-diet" in it and 301-ing the other `[NEED FROM RACHEL: OK]`. |
-| 4 | New post (proposed `/blogs/cocoon-blog/hormonal-acne-pills-vs-supplements`) | hormonal acne pills | Hormonal Acne Pills vs Supplements: How They Differ | Spironolactone, the pill or a supplement? How prescription pills and supplements for hormonal acne differ, and questions to ask your doctor. | Product mentions stay structure/function `[CLAIM CHECK]`. |
-| 5 | New post (proposed `/blogs/cocoon-blog/dim-for-hormonal-acne`) | DIM for hormonal acne | DIM for Hormonal Acne: What It Does & Who It Suits | What DIM is, how it supports healthy estrogen metabolism, who it may suit, and what to know before you try a DIM supplement. | `[CLAIM CHECK]`. CTA: Balance. |
-| 6 | New post (proposed `/blogs/cocoon-blog/calcium-d-glucarate-benefits`) | calcium d glucarate benefits | Calcium D-Glucarate Benefits for Estrogen Balance | What calcium D-glucarate is, how it supports estrogen elimination through the gut, and why it pairs with DIM. | CTA: Balance. |
-| 7 | `/blogs/cocoon-blog/can-hormonal-acne-be-caused-by-stress` (refresh) | cortisol acne | Cortisol Acne: How Stress Triggers Hormonal Breakouts | Can stress cause hormonal acne? How cortisol affects your hormones and skin, the signs of stress breakouts, and what helps. | CTA: Androgen Balance (stress angle) from Jan 2027. |
-| 8 | `/blogs/cocoon-blog/hormone-safe-sunscreens` (refresh) | hormone safe sunscreen | Hormone-Safe Sunscreen: How to Choose One | How to choose a sunscreen that doesn't mess with your hormones: which filters to avoid, which to look for, and what the labels mean. | |
-| 9 | `/blogs/cocoon-blog/how-to-know-what-type-of-hormonal-acne-you-have` (refresh) | hormonal acne types | Hormonal Acne Types: Which One Do You Have? | Estrogen, androgen, stress or post-pill? Learn the main types of hormonal acne, how to spot yours, and take our free 2-minute quiz. | Replaces "How To Identify and Treat…". CTA: quiz. |
-| 10 | `/blogs/cocoon-blog/how-to-treat-hormonal-acne-in-2026` (target of the 2025 → 2026 301) | how to clear hormonal acne | Hormonal Acne in 2026: 7 Habits for Clearer Skin | Seven realistic habits for clearer skin in 2026, from blood sugar to your liver, plus how to find the root cause of your breakouts. | Retitles out "treat". Long term, move to an evergreen slug with a 301. |
+| 1 | `/blogs/learn/best-teas-for-hormone-balance` (refresh) | tea for hormonal acne | 7 Best Teas for Hormonal Acne & Hormone Balance | Spearmint, green tea, dandelion and more: the best teas for hormonal acne and hormone balance, what each one does and how much to drink. | Biggest SEO asset (156,535 impressions). Add spearmint and an estrogen-tea section. CTA: quiz. |
+| 2 | `/blogs/learn/can-coffee-make-hormonal-acne-worse` | does coffee cause acne | Does Coffee Cause Acne? Caffeine and Hormonal Skin | Does coffee cause acne? How caffeine affects cortisol, blood sugar and your liver, and how to enjoy coffee without the breakouts. | 48,320 impressions at 0.1% CTR. CTA: Liver Support (from Apr 2027), quiz before then. |
+| 3 | Merge `/blogs/learn/balancing-hormones-with-food` into `/blogs/learn/hormonal-acne-diet-building-hormone-balancing-meals` | hormonal acne diet | Hormonal Acne Diet: Foods That Support Clearer Skin | What to eat for hormonal acne: the foods that support hormone balance and clearer-looking skin, plus easy hormone-balancing meal ideas. | Recommend keeping the slug with "hormonal-acne-diet" in it and 301-ing the other `[NEED FROM RACHEL: OK]`. |
+| 4 | New post (proposed `/blogs/learn/hormonal-acne-pills-vs-supplements`) | hormonal acne pills | Hormonal Acne Pills vs Supplements: How They Differ | Spironolactone, the pill or a supplement? How prescription pills and supplements for hormonal acne differ, and questions to ask your doctor. | Product mentions stay structure/function `[CLAIM CHECK]`. |
+| 5 | New post (proposed `/blogs/learn/dim-for-hormonal-acne`) | DIM for hormonal acne | DIM for Hormonal Acne: What It Does & Who It Suits | What DIM is, how it supports healthy estrogen metabolism, who it may suit, and what to know before you try a DIM supplement. | `[CLAIM CHECK]`. CTA: Balance. |
+| 6 | New post (proposed `/blogs/learn/calcium-d-glucarate-benefits`) | calcium d glucarate benefits | Calcium D-Glucarate Benefits for Estrogen Balance | What calcium D-glucarate is, how it supports estrogen elimination through the gut, and why it pairs with DIM. | CTA: Balance. |
+| 7 | `/blogs/learn/can-hormonal-acne-be-caused-by-stress` (refresh) | cortisol acne | Cortisol Acne: How Stress Triggers Hormonal Breakouts | Can stress cause hormonal acne? How cortisol affects your hormones and skin, the signs of stress breakouts, and what helps. | CTA: Androgen Balance (stress angle) from Jan 2027. |
+| 8 | `/blogs/learn/hormone-safe-sunscreens` (refresh) | hormone safe sunscreen | Hormone-Safe Sunscreen: How to Choose One | How to choose a sunscreen that doesn't mess with your hormones: which filters to avoid, which to look for, and what the labels mean. | |
+| 9 | `/blogs/learn/how-to-know-what-type-of-hormonal-acne-you-have` (refresh) | hormonal acne types | Hormonal Acne Types: Which One Do You Have? | Estrogen, androgen, stress or post-pill? Learn the main types of hormonal acne, how to spot yours, and take our free 2-minute quiz. | Replaces "How To Identify and Treat…". CTA: quiz. |
+| 10 | `/blogs/learn/how-to-clear-hormonal-acne` (target of the 2025 → 2026 301) | how to clear hormonal acne | Hormonal Acne in 2026: 7 Habits for Clearer Skin | Seven realistic habits for clearer skin in 2026, from blood sugar to your liver, plus how to find the root cause of your breakouts. | Renamed to an evergreen slug without "treat", with 301s from the 2025 and 2026 URLs. |
 
 Other live post titles that still use "treat", "treatment" or "heal" (not in 8e, but they break your rule): "The Best Natural Topical Acne Treatments" → **Natural Topical Ingredients for Acne-Prone Skin**; "Does Endometriosis Cause Adult Acne?" (blurb: "treat both at the root") → reword the blurb; "Can You Balance Hormones Through Diet?" (blurb: "heal your hormonal acne") → merged in row 3.
 
@@ -1261,7 +1261,7 @@ Scanned 21 Oct 2026 from each brand's own product page. **These are observed phr
 4. **Guarantee scope:** one bottle per customer, or one per customer per product? Does it cover the new products? Where do returns of US-shipped products go?
 5. **Launch offers** for waitlist members and quiz sign-ups, if any.
 6. **Diet post merge:** keep `hormonal-acne-diet-building-hormone-balancing-meals`, 301 `balancing-hormones-with-food` to it (adds one row to the redirect map).
-7. **Concern hub URLs:** `/blogs/cocoon-blog/high-androgens-in-women` and `/blogs/cocoon-blog/liver-and-skin-health`.
+7. **Concern hub URLs:** `/blogs/learn/high-androgens-in-women` and `/blogs/learn/liver-and-skin-health`.
 8. **Quiz changes:** new liver-load question, extra androgen options, outcome D with or without Liver Support, Typeform end-screen buttons. Nothing has been edited.
 9. **Pre-launch product pages:** OK to publish waitlist versions 4 to 6 weeks before each launch? Klaviyo waitlist lists need setting up.
 

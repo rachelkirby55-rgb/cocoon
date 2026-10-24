@@ -23,7 +23,7 @@ Keep every URL that already ranks or sells, and add a range layer on top. The **
 ## Main navigation (mobile first)
 ```
 [Logo]                                    [Search] [Account ▾] [Cart]
-Shop ▾ | Quiz | Reviews | Learn ▾ | About   (one-word labels, 24 Oct 2026; FAQ lives in the footer and on product pages, the blog under Learn ▾ Articles)
+Shop ▾ | Reviews | Learn ▾ | About   [Find Your Formula] button   (24 Oct 2026: one-word menu labels, with the quiz as a header button; FAQ in the footer and on product pages; the blog under Learn ▾ Articles)
   Shop ▾
     All Supplements        → /collections/skin-supplements
     Balance                → /products/balance
@@ -82,6 +82,9 @@ Footer: Shop links · Learn hub · Blog · FAQ · Money-back guarantee · Shippi
 | `/pages/reviews` | `/pages/results` | merged |
 | the diet post we drop | the diet post we keep | merged |
 | `/collections/all` | `/collections/skin-supplements` | one shop page |
+| `/blogs/cocoon-blog` and every `/blogs/cocoon-blog/<slug>` | `/blogs/learn` and `/blogs/learn/<slug>` | blog handle renamed while the .com URLs are new (owner, 24 Oct 2026) |
+| `/blogs/cocoon-blog/estrogen-dominance-in-women-symptoms-causes-and-natural-treatment` | `/blogs/learn/estrogen-dominance-acne` | drops "treatment" |
+| `/blogs/cocoon-blog/how-to-treat-hormonal-acne-in-2026` (and the 2025 version) | `/blogs/learn/how-to-clear-hormonal-acne` | drops "treat" and the year |
 | `/products/dim`, `/pages/learn-1` | (already redirect) | keep |
 
 ## Before launch (not copy, but they affect results)
