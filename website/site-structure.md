@@ -23,7 +23,13 @@ Keep every URL that already ranks or sells, and add a range layer on top. The **
 ## Main navigation (mobile first)
 ```
 [Logo]                                    [Search] [Account ▾] [Cart]
-Shop ▾ | Reviews | Learn ▾ | About   [Find Your Formula] button   (24 Oct 2026: one-word menu labels, with the quiz as a header button; FAQ in the footer and on product pages; the blog under Learn ▾ Articles)
+Shop ▾ | Reviews | Learn ▾ | About   [Find Your Formula] button   (24 Oct 2026: one-word menu labels, with the quiz as a header button; FAQ in the footer and on product pages)
+  Learn ▾
+    How Hormonal Acne Works → /pages/learn (general overview + the three root causes)
+    Estrogen Dominance      → /blogs/learn/estrogen-dominance-acne
+    High Androgens          → /blogs/learn/high-androgens-in-women
+    Liver & Skin            → /blogs/learn/liver-and-skin-health
+    All Articles            → /blogs/learn
   Shop ▾
     All Supplements        → /collections/skin-supplements
     Balance                → /products/balance
