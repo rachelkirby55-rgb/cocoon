@@ -84,14 +84,14 @@ Footer: Shop links · Learn hub · Blog · FAQ · Money-back guarantee · Shippi
 | 7 old/malformed tea slugs (listed in SEO audit §4) | `/blogs/cocoon-blog/best-teas-for-hormone-balance` | 404 today |
 | `/blogs/cocoon-blog/goodbye-hair-skin-nail-gummies-why-hormonal-acne-needs-more-specif` | full slug | 404, truncated |
 | `/blogs/cocoon-blog/the-truth-authorization-prescription-acne-medications` | `/blogs/cocoon-blog/the-truth-about-prescription-acne-medications` | 404, malformed |
-| `/pages/results-1` | `/pages/results` | duplicate page, delete it |
-| `/pages/reviews` | `/pages/results` | duplicate page, delete it |
+| `/pages/results-1` | (none) | duplicate page: just delete it (owner, 24 Oct 2026) |
+| `/pages/reviews` | (none) | duplicate page: just delete it (owner, 24 Oct 2026) |
 | the diet post we drop | the diet post we keep | merged |
 | `/collections/all` | `/collections/skin-supplements` | one shop page |
 | `/blogs/cocoon-blog` and every `/blogs/cocoon-blog/<slug>` | `/blogs/learn` and `/blogs/learn/<slug>` | blog handle renamed while the .com URLs are new (owner, 24 Oct 2026) |
 | `/blogs/cocoon-blog/estrogen-dominance-in-women-symptoms-causes-and-natural-treatment` | `/blogs/learn/estrogen-dominance-acne` | drops "treatment" |
 | `/blogs/cocoon-blog/how-to-treat-hormonal-acne-in-2026` (and the 2025 version) | `/blogs/learn/how-to-clear-hormonal-acne` | drops "treat" and the year |
-| `/products/balance` | `/products/estrogen-balance` | product renamed (owner, 24 Oct 2026) |
+| `/products/balance` | `/products/estrogen-balance` | product renamed (owner, 24 Oct 2026). Keep Shopify's automatic redirect: emails, ads, the Merchant Center feed, affiliate and social links have pointed at the .com URL since Sept 2026 |
 | `/products/dim`, `/pages/learn-1` | (already redirect) | keep; point `/products/dim` straight at `/products/estrogen-balance` to avoid a chain |
 
 ## Before launch (not copy, but they affect results)
