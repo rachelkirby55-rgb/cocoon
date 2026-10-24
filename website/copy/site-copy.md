@@ -4,6 +4,8 @@
 **Built on:** `website/site-structure.md` (approved 21 Oct 2026), the product briefs and US label copy in `website/product-briefs/source/`, the live-site copy capture (13 Oct 2026), the SEO audit and the navigation/conversion audit.
 **Status:** nothing here is live. Every change to Shopify, Typeform or Klaviyo still needs your sign-off.
 
+**Revision note (24 Oct 2026):** this draft predates two decisions, which the next revision applies once Logan's keyword input is in. Balance is now **Estrogen Balance** (`/products/estrogen-balance`), and the brand is just **Cocoon**: no "Cocoon Supplements" and no "formerly Cocoon Skincare" anywhere on the site. The three new-article rows in the blog section are out of scope for now.
+
 ---
 
 ## How to read this doc

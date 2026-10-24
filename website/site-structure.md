@@ -32,7 +32,7 @@ Shop ▾ | Reviews | Learn ▾ | About   [Find Your Formula] button   (24 Oct 20
     All Articles            → /blogs/learn
   Shop ▾
     All Supplements        → /collections/skin-supplements
-    Balance                → /products/balance
+    Estrogen Balance       → /products/estrogen-balance (renamed from /products/balance, 301)
     Androgen Balance       → /products/androgen-balance (Jan 2027)
     Liver Support          → /products/liver-support (Apr 2027)
     Bundles                → (only if we offer them; see Q3)
@@ -48,7 +48,7 @@ Footer: Shop links · Learn hub · Blog · FAQ · Money-back guarantee · Shippi
 |---|---|---|---|---|---|
 | 1 | Home | `/` | supplements for hormonal acne `[CLAIM CHECK]` | Brand promise, the 3 formulas side by side, quiz CTA, proof, guarantee | Keep URL, rewrite |
 | 2 | Shop all | `/collections/skin-supplements` | clear skin supplements | Compare the formulas ("Which one is right for me?") and sell bundles | **New** |
-| 3 | Balance | `/products/balance` | DIM supplement for women / estrogen balance | Full standalone sales page | Keep URL, rewrite (H1 is just "BALANCE") |
+| 3 | Estrogen Balance | `/products/estrogen-balance` (301 from `/products/balance`) | DIM supplement for women / estrogen balance | Full standalone sales page | Keep URL, rewrite (H1 is just "BALANCE") |
 | 4 | Androgen Balance | `/products/androgen-balance` | from the brief + keyword research | Same template as Balance | **New** |
 | 5 | Liver Support | `/products/liver-support` | from the brief + keyword research | Same template as Balance | **New** |
 | 6 | Quiz | `/pages/quiz` | acne quiz / what type of acne do I have | Recommend the right formula, capture email | Keep URL, retitle, add ~300 words of indexable copy, add product links to result screens |
@@ -84,14 +84,15 @@ Footer: Shop links · Learn hub · Blog · FAQ · Money-back guarantee · Shippi
 | 7 old/malformed tea slugs (listed in SEO audit §4) | `/blogs/cocoon-blog/best-teas-for-hormone-balance` | 404 today |
 | `/blogs/cocoon-blog/goodbye-hair-skin-nail-gummies-why-hormonal-acne-needs-more-specif` | full slug | 404, truncated |
 | `/blogs/cocoon-blog/the-truth-authorization-prescription-acne-medications` | `/blogs/cocoon-blog/the-truth-about-prescription-acne-medications` | 404, malformed |
-| `/pages/results-1` | `/pages/results` | duplicate |
-| `/pages/reviews` | `/pages/results` | merged |
+| `/pages/results-1` | `/pages/results` | duplicate page, delete it |
+| `/pages/reviews` | `/pages/results` | duplicate page, delete it |
 | the diet post we drop | the diet post we keep | merged |
 | `/collections/all` | `/collections/skin-supplements` | one shop page |
 | `/blogs/cocoon-blog` and every `/blogs/cocoon-blog/<slug>` | `/blogs/learn` and `/blogs/learn/<slug>` | blog handle renamed while the .com URLs are new (owner, 24 Oct 2026) |
 | `/blogs/cocoon-blog/estrogen-dominance-in-women-symptoms-causes-and-natural-treatment` | `/blogs/learn/estrogen-dominance-acne` | drops "treatment" |
 | `/blogs/cocoon-blog/how-to-treat-hormonal-acne-in-2026` (and the 2025 version) | `/blogs/learn/how-to-clear-hormonal-acne` | drops "treat" and the year |
-| `/products/dim`, `/pages/learn-1` | (already redirect) | keep |
+| `/products/balance` | `/products/estrogen-balance` | product renamed (owner, 24 Oct 2026) |
+| `/products/dim`, `/pages/learn-1` | (already redirect) | keep; point `/products/dim` straight at `/products/estrogen-balance` to avoid a chain |
 
 ## Before launch (not copy, but they affect results)
 - [x] cocoonsupplements.com is in Google Search Console. Change of Address isn't possible because there's no .ca redirect.
