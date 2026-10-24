@@ -96,7 +96,7 @@ Footer: Shop links · Learn hub · Blog · FAQ · Money-back guarantee · Shippi
 ## Before launch (not copy, but they affect results)
 - [x] cocoonsupplements.com is in Google Search Console. Change of Address isn't possible because there's no .ca redirect.
 - [ ] Submit `https://cocoonsupplements.com/sitemap.xml` in Search Console, if it isn't already.
-- [ ] Update the US labels: they still say "Questions? Email info@cocoonskincare.ca".
+- [x] US labels updated to info@cocoonsupplements.com (24 Oct 2026). They still say "Manufactured for: Cocoon Skincare Inc.", which is fine if that remains the legal entity.
 - [ ] Move Google Merchant Center to the new domain (it still sends `country=CA&currency=CAD` links).
 - [ ] Rename the Shopify product type from "Skincare" to "Supplements" and remove the "…Treatment" tags.
 - [ ] Add Organization schema with `alternateName: "Cocoon Skincare"`.
@@ -110,7 +110,6 @@ Footer: Shop links · Learn hub · Blog · FAQ · Money-back guarantee · Shippi
 5. Use "acne" in copy, never "treat/treatment/cure".
 
 ## Still open
-- Final product names (Androgen vs Metabolic Balance; Liver Support vs Booster).
 - Bundles/stack pricing.
 - One results timeline (the site currently gives three different ones; Alyssa to confirm for the new products).
 - Approved claims wording for the new products (Alyssa).

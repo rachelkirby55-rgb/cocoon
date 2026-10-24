@@ -1,3 +1,14 @@
+**<u>Front of Pack:  
+</u>  
+**Liver Support
+
+Milk Thistle Complex  
+Clear Skin Support<sup>†</sup>
+
+Dietary Supplement \| 60 Capsules**  
+  
+<u>Back of Pack:</u>**
+
 **Serving Size:** 2 capsules
 
 **Servings Per Container:** 30
@@ -22,7 +33,7 @@ M6G 2H7, Canada
 
 1-866-795-3241
 
-**Questions?** Email <info@cocoonskincare.ca>
+**Questions?** Email <info@cocoonsupplements.com>
 
 **Made in Canada from imported ingredients.**
 
@@ -32,4 +43,4 @@ Store in original container, well-closed, away from moisture, light and heat. On
 
 This product is made in a facility that handles milk products, gluten, shellfish, soy, peanuts and other tree nuts.
 
-This statement has not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.
+<sup>†</sup>This statement has not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.
