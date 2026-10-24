@@ -2,7 +2,7 @@
 
 Status: **approved to build** (Rachel, 21 Oct 2026). Briefs are in `product-briefs/`. Product names: **Androgen Balance** (Jan 2027) and **Liver Support** (Apr 2027), both working names.
 
-Built in Shopify on 21 Oct 2026, all hidden from the live site: the unpublished collection "All Supplements" (`/collections/skin-supplements`, Balance only for now), and the menus "NEW SITE – Main menu (draft)" (`new-site-main-menu`) and "NEW SITE – Footer menu (draft)" (`new-site-footer-menu`). The Root trial theme can't be edited through the API, so choose these menus in Root's theme editor, under Header and Footer.
+Built in Shopify on 21 Oct 2026, all hidden from the live site: the unpublished collection "All Supplements" (`/collections/supplements`, Balance only for now), and the menus "NEW SITE – Main menu (draft)" (`new-site-main-menu`) and "NEW SITE – Footer menu (draft)" (`new-site-footer-menu`). The Root trial theme can't be edited through the API, so choose these menus in Root's theme editor, under Header and Footer.
 Sources: `research/navigation-conversion-audit.md` (GA4 May 2023–Oct 2026, Shopify orders Nov 2022–Oct 2026, Klaviyo), `research/seo-audit.md` (Search Console Jun 2025–Oct 2026, Google Ads, Keyword Planner) and `research/current-site-copy.md` (live site, 13 Oct 2026).
 
 ## The recommendation in one paragraph
@@ -31,7 +31,7 @@ Shop ▾ | Reviews | Learn ▾ | About   [Find Your Formula] button   (24 Oct 20
     Liver & Skin            → /blogs/learn/liver-and-skin-health
     All Articles            → /blogs/learn
   Shop ▾
-    All Supplements        → /collections/skin-supplements
+    All Supplements        → /collections/supplements
     Estrogen Balance       → /products/estrogen-balance (renamed from /products/balance, 301)
     Androgen Balance       → /products/androgen-balance (Jan 2027)
     Liver Support          → /products/liver-support (Apr 2027)
@@ -47,7 +47,7 @@ Footer: Shop links · Learn hub · Blog · FAQ · Money-back guarantee · Shippi
 | # | Page | URL | Primary keyword | Page's job | Status |
 |---|---|---|---|---|---|
 | 1 | Home | `/` | supplements for hormonal acne `[CLAIM CHECK]` | Brand promise, the 3 formulas side by side, quiz CTA, proof, guarantee | Keep URL, rewrite |
-| 2 | Shop all | `/collections/skin-supplements` | clear skin supplements | Compare the formulas ("Which one is right for me?") and sell bundles | **New** |
+| 2 | Shop all | `/collections/supplements` | clear skin supplements | Compare the formulas ("Which one is right for me?") and sell bundles | **New** |
 | 3 | Estrogen Balance | `/products/estrogen-balance` (301 from `/products/balance`) | DIM supplement for women / estrogen balance | Full standalone sales page | Keep URL, rewrite (H1 is just "BALANCE") |
 | 4 | Androgen Balance | `/products/androgen-balance` | from the brief + keyword research | Same template as Balance | **New** |
 | 5 | Liver Support | `/products/liver-support` | from the brief + keyword research | Same template as Balance | **New** |
@@ -87,7 +87,7 @@ Footer: Shop links · Learn hub · Blog · FAQ · Money-back guarantee · Shippi
 | `/pages/results-1` | (none) | duplicate page: just delete it (owner, 24 Oct 2026) |
 | `/pages/reviews` | (none) | duplicate page: just delete it (owner, 24 Oct 2026) |
 | the diet post we drop | the diet post we keep | merged |
-| `/collections/all` | `/collections/skin-supplements` | one shop page |
+| `/collections/all` | `/collections/supplements` | one shop page (handle set to `supplements` 24 Oct 2026: no "acne" in a URL, since URLs are hard to change and the keyword adds little) |
 | `/blogs/cocoon-blog` and every `/blogs/cocoon-blog/<slug>` | `/blogs/learn` and `/blogs/learn/<slug>` | blog handle renamed while the .com URLs are new (owner, 24 Oct 2026) |
 | `/blogs/cocoon-blog/estrogen-dominance-in-women-symptoms-causes-and-natural-treatment` | `/blogs/learn/estrogen-dominance-acne` | drops "treatment" |
 | `/blogs/cocoon-blog/how-to-treat-hormonal-acne-in-2026` (and the 2025 version) | `/blogs/learn/how-to-clear-hormonal-acne` | drops "treat" and the year |

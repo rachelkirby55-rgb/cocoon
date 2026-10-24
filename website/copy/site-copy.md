@@ -35,7 +35,7 @@
 **Contents**
 - Global elements (announcement bar, header, footer, disclaimers)
 1. Home `/`
-2. Shop All `/collections/skin-supplements`
+2. Shop All `/collections/supplements`
 3. Balance `/products/balance`
 4. Androgen Balance `/products/androgen-balance`
 5. Liver Support `/products/liver-support`
@@ -126,7 +126,7 @@ Search box placeholder text: *Search supplements, ingredients, FAQs*
 - **H1:** Internal skincare for hormonal acne `[CLAIM CHECK]`
 - Body: Naturopath-formulated supplements that target a root cause of hormonal breakouts: estrogen, androgens, or a liver that needs backup.*
 - **[Find my formula]** → `/pages/quiz`
-- **[Shop supplements]** → `/collections/skin-supplements`
+- **[Shop supplements]** → `/collections/supplements`
 
 ### Trust strip (4 icons, one line each)
 - ★ 4.6 from 92 reviews *(Okendo, pulled live; Balance only)*
@@ -225,7 +225,7 @@ Waitlist sign-ups go to a Klaviyo list per product (I haven't created anything; 
 
 ## 2. Shop All
 
-- **URL:** `/collections/skin-supplements` (new; built, unpublished)
+- **URL:** `/collections/supplements` (new; built, unpublished)
 - **Page goal:** Help her choose between the three formulas and add one to cart.
 - **Primary keyword:** clear skin supplements (US 1,000/mo)
 - **Secondary:** acne supplements `[CLAIM CHECK]`; supplements for pimples (US 2,900); vitamins for pimples (2,400); best skin supplements (1,600); skin supplements (1,000); acne supplements canada (GSC 796 impressions)
@@ -314,7 +314,7 @@ Body: Balance is for adults whose breakouts are linked to high estrogen. You mig
 
 `[CLAIM CHECK: these are listed as signs, not as things Balance relieves. The old list's ovarian cysts, fibroids, anxiety, depression, migraines and insomnia are removed because they're disease states.]`
 
-If your breakouts come with oily skin, unwanted hair or long cycles, androgens may be involved. → **Compare formulas** (`/collections/skin-supplements`)
+If your breakouts come with oily skin, unwanted hair or long cycles, androgens may be involved. → **Compare formulas** (`/collections/supplements`)
 - **[Not sure? Take the quiz]**
 
 ### Section 3: H2: How Balance works
@@ -716,7 +716,7 @@ Every result screen: heading · explanation · piped symptoms · match · email 
 **End screen E3: Thank you**
 - **Heading:** Thanks for taking the quiz.
 - Body: Check your inbox for your results. Your 10% code is in there too.
-- **[Shop all formulas]** → `/collections/skin-supplements`
+- **[Shop all formulas]** → `/collections/supplements`
 
 Disclaimer on every screen: \*These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. This quiz is not medical advice.
 
