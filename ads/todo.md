@@ -7,15 +7,18 @@ Kept up to date by the ads agent (and the weekly check). Most urgent first. Last
 |---|---|---|---|
 | 1 | **Edit the CA Founder Ad 2023 video** (remove the cocoonskincare.ca ending, CapCut), swap it into the paused ad "CA Founder Ad 2023", turn the ad on | It's one of the 4 proven ads; until then Proven runs on 3 | ASAP |
 | 2 | **Swap your TikToks into "Testing – TikTok"** (Meta): replace the video and text in the 3 paused placeholder ads, rename them, leave them paused | Fair test of the viral TikToks before Black Friday; launch early next week | Mon Oct 26 |
-| 3 | **Black Friday decisions**: offer (% off), discount code or price drop, does it include subscriptions and the US, extra budget for Nov 23–30 | Everything else for Black Friday waits on this | Oct 30 |
+| 3 | **Share the Black Friday plan doc** (Rachel has it planned) so the agent can build from it; replaces the open decisions below once shared. Original list: **Black Friday decisions**: offer (% off), discount code or price drop, does it include subscriptions and the US, extra budget for Nov 23–30 | Everything else for Black Friday waits on this | Oct 30 |
 | 4 | **"How did you hear about us?" after checkout** (Shopify app) | Only clear way to see whether Google or Meta brought each new customer; Black Friday will blur the numbers | Before Nov 23 |
 | 5 | **Black Friday creative**: ASMR video with a BF overlay; Education + Before/After carousel with a sale slide; sale versions of the best ads (offer in the first 3 seconds) | Needed to build the BF campaign by Nov 16 | Nov 9 |
 | 6 | Optional: Founder Ad (Quiz) video with the cocoonskincare.ca address bar blurred → add as a new ad in Proven | Small; the .ca isn't clickable | Any time |
 | 7 | Fresh creative for Meta Testing: 2–4 new ads a month (testimonials and founder story have won before) | Testing needs new ads once the current 3 are judged (~Nov 6) | November |
 
-## Waiting for Rachel's OK (from Oct 26 weekly check)
-- Pause Meta ad "DIM Comment 2025" (CA$319, no sale).
-- Pause Google US Max CPC campaign (~CA$467, 0 sales; kill rule ~CA$500).
+## Waiting for Rachel's OK
+- Proposed Google Canada watch rule (see Oct 26 weekly reply): after CA$600 spent since the Oct 14 target change, if cost per sale is over ~CA$126, propose a fix.
+
+## Done Oct 26, 2026 (Rachel OK)
+- Paused Meta ad "DIM Comment 2025" (CA$319, no sale).
+- Paused Google US Max CPC campaign (~CA$467, 0 sales).
 
 ## Agent's upcoming (no action from Rachel)
 - Oct 19 / 26, Nov 2…: weekly check (email).
@@ -23,6 +26,10 @@ Kept up to date by the ads agent (and the weekly check). Most urgent first. Last
 - ~Nov 6: first per-ad Meta verdicts; product-page before/after.
 - By Nov 16: build the Black Friday Meta campaign (paused) and Google promotion assets (needs #4).
 - Nov 20: Google seasonality adjustment for Nov 23–30.
+
+## Notes (Oct 26)
+- Rachel is setting up and launching "Testing - TikTok" herself today; agent verifies the launch checklist at the next check.
+- Logan can't help with Google Ads until Dec. Rachel is looking for a Meta ads expert to take over.
 
 ## Later
 - US Meta campaign once Canada proves out (cost per sale under ~CA$100 for 2 weeks).
