@@ -14,11 +14,12 @@ Kept up to date by the ads agent (and the weekly check). Most urgent first. Last
 | 7 | Fresh creative for Meta Testing: 2–4 new ads a month (testimonials and founder story have won before) | Testing needs new ads once the current 3 are judged (~Nov 6) | November |
 
 ## Waiting for Rachel's OK
-- Proposed Google Canada watch rule (see Oct 26 weekly reply): after CA$600 spent since the Oct 14 target change, if cost per sale is over ~CA$126, propose a fix.
+- Nothing right now.
 
 ## Done Oct 26, 2026 (Rachel OK)
 - Paused Meta ad "DIM Comment 2025" (CA$319, no sale).
 - Paused Google US Max CPC campaign (~CA$467, 0 sales).
+- Added Google Canada watch rule (CA$600 spent and over ~CA$126 per sale → propose a fix).
 
 ## Agent's upcoming (no action from Rachel)
 - Oct 19 / 26, Nov 2…: weekly check (email).
