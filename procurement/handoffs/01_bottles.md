@@ -51,6 +51,13 @@ Capsule size is only known at production, so every jar must work for size 0 OR 0
 - So frosted means China (Das). Before sampling, ask Das which colours/finishes they offer in 4/6/8 oz, whether the frosting is acid-etched glass or a sprayed coating (sprayed = an EDC question and can scuff), whether a clear frosted 6 oz exists (that would solve the 6 oz gap), and their screen-printing MOQ/cost. Then sample the 2–3 finishes Yuliia shortlists in one US$47 DDP air shipment.
 - The Burch regular plan is now the fallback only.
 
+## Update (Oct 26)
+- **SKS:** jars are US-made (50% surtax). Out.
+- **Das:** no 6 oz stock model. The 4 oz and 8 oz come in clear, brown or blue, and frosting can be done on the body. Screen-print MOQ is 2,000. They haven't answered whether the frosting is acid-etched or sprayed.
+- **Sincereal (Emma):** replied with photos of a 4 oz (62 × 68 mm) and an 8 oz (72 × 91 mm) amber jar. Their 180 ml (6 oz) is still unconfirmed, and it's now the main hope for a frosted 6 oz.
+- **Yuliia:** round 1 refines Concept 2 only. Jar colour, printed glass and the hybrid label are set aside. Rachel picks the jar finish herself (frosted; clear vs. amber still to decide).
+- Next: get technical drawings from whichever China supplier is chosen, for Guy's dielines.
+
 ## Labels and design (Oct 12–14)
 - **No embossing, debossing or tactile varnish, including on the logo.** We only sell online, so these effects wouldn't show in photos. Yuliia also saw soft edges on the varnish sample.
 - **Two concepts:**
