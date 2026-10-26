@@ -1,6 +1,6 @@
 # Rachel's ads to-do list
 
-Kept up to date by the ads agent (and the weekly check). Most urgent first. Last full sweep: Oct 16, 2026. Weekly check Oct 19, 2026: nothing could be ticked off (see ads/reviews/weekly/2026-10-19.md).
+Kept up to date by the ads agent (and the weekly check). Most urgent first. Last full sweep: Oct 16, 2026. Weekly check Oct 26, 2026: nothing could be ticked off with my tools (see ads/reviews/weekly/2026-10-26.md). #2 is due today; Testing - TikTok still has no spend.
 
 ## Open
 | # | To-do | Why it matters | Due |
@@ -12,6 +12,10 @@ Kept up to date by the ads agent (and the weekly check). Most urgent first. Last
 | 5 | **Black Friday creative**: ASMR video with a BF overlay; Education + Before/After carousel with a sale slide; sale versions of the best ads (offer in the first 3 seconds) | Needed to build the BF campaign by Nov 16 | Nov 9 |
 | 6 | Optional: Founder Ad (Quiz) video with the cocoonskincare.ca address bar blurred → add as a new ad in Proven | Small; the .ca isn't clickable | Any time |
 | 7 | Fresh creative for Meta Testing: 2–4 new ads a month (testimonials and founder story have won before) | Testing needs new ads once the current 3 are judged (~Nov 6) | November |
+
+## Waiting for Rachel's OK (from Oct 26 weekly check)
+- Pause Meta ad "DIM Comment 2025" (CA$319, no sale).
+- Pause Google US Max CPC campaign (~CA$467, 0 sales; kill rule ~CA$500).
 
 ## Agent's upcoming (no action from Rachel)
 - Oct 19 / 26, Nov 2…: weekly check (email).
