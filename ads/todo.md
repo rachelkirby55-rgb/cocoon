@@ -6,12 +6,11 @@ Kept up to date by the ads agent (and the weekly check). Most urgent first. Last
 | # | To-do | Why it matters | Due |
 |---|---|---|---|
 | 1 | **Edit the CA Founder Ad 2023 video** (remove the cocoonskincare.ca ending, CapCut), swap it into the paused ad "CA Founder Ad 2023", turn the ad on | It's one of the 4 proven ads; until then Proven runs on 3 | ASAP |
-| 2 | **Swap your TikToks into "Testing – TikTok"** (Meta): replace the video and text in the 3 paused placeholder ads, rename them, leave them paused | Fair test of the viral TikToks before Black Friday; launch early next week | Mon Oct 26 |
-| 3 | **Share the Black Friday plan doc** (Rachel has it planned) so the agent can build from it; replaces the open decisions below once shared. Original list: **Black Friday decisions**: offer (% off), discount code or price drop, does it include subscriptions and the US, extra budget for Nov 23–30 | Everything else for Black Friday waits on this | Oct 30 |
-| 4 | **"How did you hear about us?" after checkout** (Shopify app) | Only clear way to see whether Google or Meta brought each new customer; Black Friday will blur the numbers | Before Nov 23 |
-| 5 | **Black Friday creative**: ASMR video with a BF overlay; Education + Before/After carousel with a sale slide; sale versions of the best ads (offer in the first 3 seconds) | Needed to build the BF campaign by Nov 16 | Nov 9 |
-| 6 | Optional: Founder Ad (Quiz) video with the cocoonskincare.ca address bar blurred → add as a new ad in Proven | Small; the .ca isn't clickable | Any time |
-| 7 | Fresh creative for Meta Testing: 2–4 new ads a month (testimonials and founder story have won before) | Testing needs new ads once the current 3 are judged (~Nov 6) | November |
+| 2 | **Share the Black Friday plan doc** (Rachel has it planned) so the agent can build from it; replaces the open decisions below once shared. Original list: **Black Friday decisions**: offer (% off), discount code or price drop, does it include subscriptions and the US, extra budget for Nov 23–30 | Everything else for Black Friday waits on this | Oct 30 |
+| 3 | **"How did you hear about us?" after checkout** (Shopify app) | Only clear way to see whether Google or Meta brought each new customer; Black Friday will blur the numbers | Before Nov 23 |
+| 4 | **Black Friday creative**: ASMR video with a BF overlay; Education + Before/After carousel with a sale slide; sale versions of the best ads (offer in the first 3 seconds) | Needed to build the BF campaign by Nov 16 | Nov 9 |
+| 5 | Optional: Founder Ad (Quiz) video with the cocoonskincare.ca address bar blurred → add as a new ad in Proven | Small; the .ca isn't clickable | Any time |
+| 6 | Fresh creative for Meta Testing: 2–4 new ads a month (testimonials and founder story have won before) | Testing needs new ads once the current 3 are judged (~Nov 6) | November |
 
 ## Waiting for Rachel's OK
 - Nothing right now.
