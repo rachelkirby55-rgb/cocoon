@@ -26,9 +26,9 @@ Keep every URL that already ranks or sells, and add a range layer on top. The **
 Shop ▾ | Reviews | Learn ▾ | About   [Find Your Formula] button   (24 Oct 2026: one-word menu labels, with the quiz as a header button; FAQ in the footer and on product pages)
   Learn ▾
     How Hormonal Acne Works → /pages/learn (general overview + the three root causes)
-    Estrogen Dominance      → /blogs/learn/estrogen-dominance-acne
-    High Androgens          → /blogs/learn/high-androgens-in-women
-    Liver & Skin            → /blogs/learn/liver-and-skin-health
+    Estrogen Dominance      → /blogs/learn/estrogen-dominance-and-acne
+    High Androgens          → /blogs/learn/high-androgens-and-acne
+    Liver Health            → /blogs/learn/liver-health-and-acne
     All Articles            → /blogs/learn
   Shop ▾
     All Supplements        → /collections/supplements
@@ -89,7 +89,7 @@ Footer: Shop links · Learn hub · Blog · FAQ · Money-back guarantee · Shippi
 | the diet post we drop | the diet post we keep | merged |
 | `/collections/all` | `/collections/supplements` | one shop page (handle set to `supplements` 24 Oct 2026: no "acne" in a URL, since URLs are hard to change and the keyword adds little) |
 | `/blogs/cocoon-blog` and every `/blogs/cocoon-blog/<slug>` | `/blogs/learn` and `/blogs/learn/<slug>` | blog handle renamed while the .com URLs are new (owner, 24 Oct 2026) |
-| `/blogs/cocoon-blog/estrogen-dominance-in-women-symptoms-causes-and-natural-treatment` | `/blogs/learn/estrogen-dominance-acne` | drops "treatment" |
+| `/blogs/cocoon-blog/estrogen-dominance-in-women-symptoms-causes-and-natural-treatment` | `/blogs/learn/estrogen-dominance-and-acne` | drops "treatment" |
 | `/blogs/cocoon-blog/how-to-treat-hormonal-acne-in-2026` (and the 2025 version) | `/blogs/learn/how-to-clear-hormonal-acne` | drops "treat" and the year |
 | `/products/balance` | `/products/estrogen-balance` | product renamed (owner, 24 Oct 2026). Keep Shopify's automatic redirect: emails, ads, the Merchant Center feed, affiliate and social links have pointed at the .com URL since Sept 2026 |
 | `/products/dim`, `/pages/learn-1` | (already redirect) | keep; point `/products/dim` straight at `/products/estrogen-balance` to avoid a chain |

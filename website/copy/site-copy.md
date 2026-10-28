@@ -829,7 +829,7 @@ Disclaimer.
 ## 9. Concern hubs
 
 ### 9a. Estrogen dominance & acne (existing post, retitle only)
-- **URL:** `/blogs/learn/estrogen-dominance-acne` (renamed from estrogen-dominance-in-women-symptoms-causes-and-natural-treatment, with a 301)
+- **URL:** `/blogs/learn/estrogen-dominance-and-acne` (renamed from estrogen-dominance-in-women-symptoms-causes-and-natural-treatment, with a 301)
 - **Page goal:** Rank for estrogen dominance + acne and feed Balance.
 - **Primary keyword:** estrogen dominance acne (GSC 371 impressions at 11.0)
 - **Secondary:** estrogen dominance (US 8,100); low progesterone acne (~450 at ~20); female too much estrogen (720); supplements for estrogen dominance (320)
@@ -839,7 +839,7 @@ Disclaimer.
 - Add a product module after the "causes" section: "**H3:** Made for estrogen-linked breakouts. Balance pairs DIM, glutathione and calcium D-glucarate to support healthy estrogen metabolism.* **[Meet Balance]**" + disclaimer. Body copy stays; remove "treatment" from the headings.
 
 ### 9b. High androgens in women (new)
-- **URL (proposed):** `/blogs/learn/high-androgens-in-women` (a blog post, like the estrogen hub, so both hubs sit together in the Learn hub) `[NEED FROM RACHEL: OK on URL]`
+- **URL (proposed):** `/blogs/learn/high-androgens-and-acne` (a blog post, like the estrogen hub, so both hubs sit together in the Learn hub) `[NEED FROM RACHEL: OK on URL]`
 - **Page goal:** Rank for androgen symptoms and feed Androgen Balance.
 - **Primary keyword:** high androgens (US 1,000/mo, CA 110)
 - **Secondary:** high androgen levels (US 1,300); elevated androgen levels (1,300); signs of high testosterone in a woman (2,400); excess androgen symptoms (170); supplements to lower androgens (50)
@@ -887,7 +887,7 @@ High androgens are one of the main features of PCOS (polycystic ovary syndrome).
 Disclaimer.
 
 ### 9c. Your liver and your skin (new)
-- **URL (proposed):** `/blogs/learn/liver-and-skin-health` `[NEED FROM RACHEL: OK on URL]`
+- **URL (proposed):** `/blogs/learn/liver-health-and-acne` `[NEED FROM RACHEL: OK on URL]`
 - **Page goal:** Explain the liver–hormone–skin link and feed Liver Support as the add-on.
 - **Primary keyword:** liver and skin health *(best-practice assumption: Keyword Planner shows only ~10 searches a month each for "liver detox for skin", "liver detox for hormone balance" and "detox estrogen from liver", and acne terms are suppressed. This page's job is education and internal linking, not volume. The product page takes the big liver terms.)*
 - **Secondary:** liver detox for skin; liver detox for hormone balance; detox estrogen from liver; milk thistle for liver health (US 8,100)
@@ -1263,7 +1263,7 @@ Scanned 21 Oct 2026 from each brand's own product page. **These are observed phr
 4. **Guarantee scope:** one bottle per customer, or one per customer per product? Does it cover the new products? Where do returns of US-shipped products go?
 5. **Launch offers** for waitlist members and quiz sign-ups, if any.
 6. **Diet post merge:** keep `hormonal-acne-diet-building-hormone-balancing-meals`, 301 `balancing-hormones-with-food` to it (adds one row to the redirect map).
-7. **Concern hub URLs:** `/blogs/learn/high-androgens-in-women` and `/blogs/learn/liver-and-skin-health`.
+7. **Concern hub URLs:** `/blogs/learn/high-androgens-and-acne` and `/blogs/learn/liver-health-and-acne`.
 8. **Quiz changes:** new liver-load question, extra androgen options, outcome D with or without Liver Support, Typeform end-screen buttons. Nothing has been edited.
 9. **Pre-launch product pages:** OK to publish waitlist versions 4 to 6 weeks before each launch? Klaviyo waitlist lists need setting up.
 
