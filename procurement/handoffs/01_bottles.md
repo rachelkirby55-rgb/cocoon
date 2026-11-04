@@ -58,6 +58,10 @@ Capsule size is only known at production, so every jar must work for size 0 OR 0
 - **Yuliia:** round 1 refines Concept 2 only. Jar colour, printed glass and the hybrid label are set aside. Rachel picks the jar finish herself (frosted; clear vs. amber still to decide).
 - Next: get technical drawings from whichever China supplier is chosen, for Guy's dielines.
 
+## Samples ordered (Nov 4)
+- **Das samples paid:** US$117 via Alibaba Trade Assurance, order 320741538501025725, per the Nov 2 PI. 5 × 4 oz + 5 × 8 oz frosted brown + 1 × 4 oz + 1 × 8 oz frosted clear go to Toronto (UPS). 1 × 4 oz + 1 × 8 oz frosted brown go to Guy at IMPSJ, 1851 rue Nobel, Sainte-Julie QC J3E 1Z6 (FedEx; Guy may get a small customs fee, which Rachel will reimburse). All with smooth black PP lids. Frosting is acid-etched. Waiting on two tracking numbers.
+- **Burch samples** (4, 6 and 9 oz jars + two 58-400 lids) are on their way to Toronto. CPS samples: cancel or ignore.
+
 ## Labels and design (Oct 12–14)
 - **No embossing, debossing or tactile varnish, including on the logo.** We only sell online, so these effects wouldn't show in photos. Yuliia also saw soft edges on the varnish sample.
 - **Two concepts:**
