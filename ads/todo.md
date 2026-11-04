@@ -13,7 +13,10 @@ Kept up to date by the ads agent (and the weekly check). Most urgent first. Last
 | 6 | Fresh creative for Meta Testing: 2–4 new ads a month (testimonials and founder story have won before) | Testing needs new ads once the current 3 are judged (~Nov 6) | November |
 
 ## Waiting for Rachel's OK
-- Pause Meta ad "Carousel: Education + Before/After 2025" (Proven): CA$328 spent, 1 sale (kill rule: over CA$140 per sale after CA$300). Proven would be left with Founder Ad (Quiz) only.
+- Nothing right now.
+
+## Done Nov 4, 2026 (Rachel OK)
+- Paused Meta ad "Carousel: Education + Before/After 2025" (CA$328, 1 sale). Proven now has Founder Ad (Quiz) only; leave it alone for 7 days. #1 (CA Founder Ad 2023 video) is now the fix.
 
 ## Done Nov 2, 2026 (verified by weekly check)
 - Testing - TikTok launched Oct 26 and spending (3 ads, CA$45/day, targeting checked).
