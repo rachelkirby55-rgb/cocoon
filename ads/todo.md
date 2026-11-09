@@ -1,6 +1,6 @@
 # Rachel's ads to-do list
 
-Kept up to date by the ads agent (and the weekly check). Most urgent first. Last full sweep: Oct 16, 2026. Weekly check Nov 2, 2026 (ads/reviews/weekly/2026-11-02.md): ticked off Testing - TikTok (launched Oct 26, verified). #1 is overdue/ASAP, #2 was due Oct 30.
+Kept up to date by the ads agent (and the weekly check). Most urgent first. Last full sweep: Oct 16, 2026. Weekly check Nov 9, 2026 (ads/reviews/weekly/2026-11-09.md): nothing new could be ticked off. #1 is ASAP, #2 overdue since Oct 30, #4 due Nov 9.
 
 ## Open
 | # | To-do | Why it matters | Due |
@@ -27,6 +27,9 @@ Kept up to date by the ads agent (and the weekly check). Most urgent first. Last
 - Added Google Canada watch rule (CA$600 spent and over ~CA$126 per sale → propose a fix).
 
 ## Agent's upcoming (no action from Rachel)
+- Nov 11+: propose pausing Meta Founder Ad (Quiz) and Testimonial 1 (both meet the kill rule; ad sets changed Nov 4). Founder Montage and TikTok (Product) decide at CA$300.
+- Google Canada watch rule: CA$522 spent since Oct 14, ~CA$130 per sale; triggers at CA$600 (~Nov 15).
+- Nov 16: build BFCM Meta campaign (paused) + Google Promotion assets (needs #2 and #4).
 - Nov 9, 16…: weekly check (email).
 - Nov 1 monthly review: no November review file found on this branch (Nov 2 check); needs a rerun. Will propose the DIM-only Google ad group.
 - Watch: Meta Kaija UGC K7 likely hits the kill rule next week; Founder Ad (Quiz) hits the no-sale line (~CA$250) in ~1 week; Google Canada watch rule at CA$600 (CA$517 now).
