@@ -28,3 +28,10 @@ Sale: Monday Nov 23 to Cyber Monday Nov 30, 2026 (US Thanksgiving is Thu Nov 26,
 - No new prospecting campaign or broad cold test during BF (2024 showed ~CA$300 per sale).
 - No editing the always-on ads to add sale text; that resets learning. Sale ads live in their own campaign.
 - No Performance Max or Shopping "just for BF".
+
+## Rachel's sale brief (shared Nov 10, 2026; Google Doc "Cocoon BF/CM 2026 Sale Brief")
+- Offer (one-time prices, CA / US): 1-month 15% off (CA$68 → 57.80; US$50 → 42.50); 3-month 30% off (CA$177.48 → 124.24; US$130.50 → 91.35); new subscription first shipment 30% off (CA$61.20 → 42.84; US$45 → 31.50). Recurring shipments stay at regular price. No stacking except the 10% welcome code for new customers. Applies to Canada and US. Free shipping over $70 as usual.
+- Dates: pre-sale emails Nov 10 and Nov 17; early access for the email list Nov 19 (code applied manually); public launch Nov 23 12:00 am (code applied automatically at checkout); Black Friday reminder Nov 27; ends Cyber Monday Nov 30 11:59 pm.
+- Refer-a-friend (subscribers only): friend gets 40% off first order, subscriber gets next shipment free (up to 3 referrals); codes valid Nov 19 to Dec 14.
+- Still missing from the brief: extra ad budget for Nov 23–30, and the creative direction.
+- Impact on ads: it's a code, not a price drop, so Merchant Center and Google price assets don't change; Google Promotion assets can say 15% / 30% off with the Nov 23–30 dates (early access Nov 19–22 is email-only, so ads shouldn't advertise it).
