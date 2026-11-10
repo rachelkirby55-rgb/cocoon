@@ -15,6 +15,9 @@ Kept up to date by the ads agent (and the weekly check). Most urgent first. Last
 ## Waiting for Rachel's OK
 - Nothing right now.
 
+## Done Nov 10, 2026 (Rachel OK)
+- Paused Meta ads "Founder Ad (Quiz) 2025" (CA$372, ~CA$744 per sale) and "Testimonial 1 2025 (.com)" (CA$421, ~CA$281 per sale), both over the kill rule. Proven now has no live ads; #1 (CA Founder Ad 2023 video) is the fix. Testing has Founder Montage; TikTok has 3 ads.
+
 ## Done Nov 4, 2026 (Rachel OK)
 - Paused Meta ad "Carousel: Education + Before/After 2025" (CA$328, 1 sale). Proven now has Founder Ad (Quiz) only; leave it alone for 7 days. #1 (CA Founder Ad 2023 video) is now the fix.
 
@@ -27,7 +30,7 @@ Kept up to date by the ads agent (and the weekly check). Most urgent first. Last
 - Added Google Canada watch rule (CA$600 spent and over ~CA$126 per sale → propose a fix).
 
 ## Agent's upcoming (no action from Rachel)
-- Nov 11+: propose pausing Meta Founder Ad (Quiz) and Testimonial 1 (both meet the kill rule; ad sets changed Nov 4). Founder Montage and TikTok (Product) decide at CA$300.
+- Founder Montage and TikTok (Product) decide at CA$300 spent.
 - Google Canada watch rule: CA$522 spent since Oct 14, ~CA$130 per sale; triggers at CA$600 (~Nov 15).
 - Nov 16: build BFCM Meta campaign (paused) + Google Promotion assets (needs #2 and #4).
 - Nov 9, 16…: weekly check (email).
