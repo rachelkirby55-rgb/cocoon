@@ -76,6 +76,7 @@ Footer: Shop links · Learn hub · Blog · FAQ · Money-back guarantee · Shippi
 
 ## LIVE as of 15 Nov 2026 (Logan's URL sign-off, 4 Nov)
 Done in Shopify: blog handle `cocoon-blog` → `learn`; 11 article slugs changed per Logan; product `balance` → `estrogen-balance`; `/pages/reviews` and `/pages/results-1` deleted; the old unpublished refund-policy page renamed out of the way; Logan's 33 redirects created (all tested 301 → final URL, no chains); `/products/dim`, `/products/hello`, `/instagram-shop` and 11 creator discount links repointed straight at `/products/estrogen-balance`. Source files: `research/logan-2026-11-05/`.
+Also fixed 15 Nov: 24 GoAffPro short links (/ghp/*) and /lovelynsilvano + /shanellehanson pointed at the dead cocoonskincare.ca; now /?ref=<code> and /products/estrogen-balance?ref=LOVELYNSILVANO (/shanellehanson uses Lovelyn's code — check). Shopify policy pages can't be edited via the API (no write_legal_policies scope): owner to replace info@cocoonskincare.ca / cocoonskincare.ca in Settings › Policies. Affiliate page still links to the old cocoonskincare.goaffpro.com portal.
 Not done (owner decisions): waitlist pages for Androgen Balance / Liver Support (waiting on final label design); Balance (Thermae) listing (used by the /peggyparsai link); Shopify policy pages (Settings › Policies) still mention cocoonskincare.ca; merge `balancing-hormones-with-food` into `hormonal-acne-diet`, then delete it (its old URL already redirects); add the `/period-acne` redirect when that article goes live.
 
 ## Redirect map (301s)
