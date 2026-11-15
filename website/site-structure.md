@@ -27,7 +27,7 @@ Shop ▾ | Reviews | Learn ▾ | About   [Find Your Formula] button   (24 Oct 20
   Learn ▾
     How Hormonal Acne Works → /pages/learn (general overview + the three root causes)
     Estrogen Dominance      → /blogs/learn/estrogen-dominance-and-acne
-    High Androgens          → /blogs/learn/high-androgens-and-acne
+    High Testosterone       → /blogs/learn/high-testosterone-and-acne
     Liver Health            → /blogs/learn/liver-health-and-acne
     All Articles            → /blogs/learn
   Shop ▾
@@ -74,6 +74,10 @@ Footer: Shop links · Learn hub · Blog · FAQ · Money-back guarantee · Shippi
 9. Guarantee + subscription details
 10. Supplement disclaimer
 
+## LIVE as of 15 Nov 2026 (Logan's URL sign-off, 4 Nov)
+Done in Shopify: blog handle `cocoon-blog` → `learn`; 11 article slugs changed per Logan; product `balance` → `estrogen-balance`; `/pages/reviews` and `/pages/results-1` deleted; the old unpublished refund-policy page renamed out of the way; Logan's 33 redirects created (all tested 301 → final URL, no chains); `/products/dim`, `/products/hello`, `/instagram-shop` and 11 creator discount links repointed straight at `/products/estrogen-balance`. Source files: `research/logan-2026-11-05/`.
+Not done (owner decisions): waitlist pages for Androgen Balance / Liver Support (waiting on final label design); Balance (Thermae) listing (used by the /peggyparsai link); Shopify policy pages (Settings › Policies) still mention cocoonskincare.ca; merge `balancing-hormones-with-food` into `hormonal-acne-diet`, then delete it (its old URL already redirects); add the `/period-acne` redirect when that article goes live.
+
 ## Redirect map (301s)
 **cocoonskincare.ca does not redirect and can't be made to** (owner, 21 Oct 2026), so the old domain's rankings won't transfer. These redirects are all *within* cocoonsupplements.com. They fix broken links and merged pages:
 
@@ -90,7 +94,7 @@ Footer: Shop links · Learn hub · Blog · FAQ · Money-back guarantee · Shippi
 | `/collections/all` | `/collections/supplements` | one shop page (handle set to `supplements` 24 Oct 2026: no "acne" in a URL, since URLs are hard to change and the keyword adds little) |
 | `/blogs/cocoon-blog` and every `/blogs/cocoon-blog/<slug>` | `/blogs/learn` and `/blogs/learn/<slug>` | blog handle renamed while the .com URLs are new (owner, 24 Oct 2026) |
 | `/blogs/cocoon-blog/estrogen-dominance-in-women-symptoms-causes-and-natural-treatment` | `/blogs/learn/estrogen-dominance-and-acne` | drops "treatment" |
-| `/blogs/cocoon-blog/how-to-treat-hormonal-acne-in-2026` (and the 2025 version) | `/blogs/learn/how-to-clear-hormonal-acne` | drops "treat" and the year |
+| `/blogs/cocoon-blog/how-to-treat-hormonal-acne-in-2026` (and the 2025 version) | `/blogs/learn/how-to-get-rid-of-hormonal-acne` | drops "treat" and the year |
 | `/products/balance` | `/products/estrogen-balance` | product renamed (owner, 24 Oct 2026). Keep Shopify's automatic redirect: emails, ads, the Merchant Center feed, affiliate and social links have pointed at the .com URL since Sept 2026 |
 | `/products/dim`, `/pages/learn-1` | (already redirect) | keep; point `/products/dim` straight at `/products/estrogen-balance` to avoid a chain |
 
