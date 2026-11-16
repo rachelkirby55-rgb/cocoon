@@ -13,8 +13,9 @@ Kept up to date by the ads agent (and the weekly check). Most urgent first. Last
 | 5 | Optional: Founder Ad (Quiz) video with the cocoonskincare.ca address bar blurred → add as a new ad in Proven | Small; the .ca isn't clickable | Any time |
 
 ## Waiting for Rachel's OK (weekly check Nov 16)
-3. By Nov 20: Google seasonality adjustment on Canada for Nov 23–30 (Black Friday plan).
-4. Build paused BFCM 2026 Meta campaign + Google Promotion assets once #4 and #2 above arrive.
+3. Google seasonality adjustment: **agent now advises skipping it** (Nov 16). Canada loses money at ~CA$169 per sale and is capped at CA$15/day; telling Google to bid higher would mostly cost more. Rachel to confirm.
+4. Meta BFCM: Rachel has no sale creative and no budget number. Agent proposes CA$20/day extra Nov 23–30 (~CA$160), warm audiences only, built from ads already in the account (High Estrogen video + Before/After carousel) with the offer in the text. Needs her yes by ~Nov 19 for Meta review.
+5. Google Promotion asset (15% / 30% off, Nov 23–30, auto on/off): Rachel clicks it in Google Ads (Windsor can't make promotion assets); agent walks her through it step by step.
 
 ## Done Nov 16, 2026 (Rachel OK)
 - Paused Meta ad "Founder Montage w VO (.com)" (CA$512, ~CA$341 per sale). Proven and Testing now have no live ads; only Testing – TikTok spends. New ads (#1, #6) are the fix.
