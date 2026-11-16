@@ -116,10 +116,5 @@ Also mentioned: vitamin D (56), probiotics (59), omega-3 (50), vitamin C (40), e
 - An image every 150 to 300 words with alt text, including one chart of your own data.
 - A credentialed byline and a "last updated" date.
 
-**Where it conflicts with Cocoon's rules**
-1. **"Definitive language, cut 'may' and 'helps'"**: this suits educational facts ("DIM is a compound from cruciferous vegetables"), but product outcomes must keep "supports" or "helps maintain" plus the † disclaimer.
-2. **Answer-style headers**: "DIM clears hormonal acne" would be a disease claim. Write the answer about the body or the ingredient, not about the product fixing acne.
-3. **Credentialed byline**: this clashes with "naturopath-formulated only, never name the formulator". `[NEED FROM RACHEL: byline approach]`
-4. **"Lead with your own data" and "a chart of your own data"**: only use real, named, dated Cocoon data. Customer results must show typical results (FTC), and no invented statistics.
-5. **Title tags**: the guide allows 70 characters, but Cocoon's limit is 60. Use 60 or fewer (with the main concept in the first 40) and 140 to 155 characters for metas to satisfy both.
-6. **"No qualifiers in the opening sentence"**: keep claim hedges and the † marker, and put the disclaimer at the foot of the page.
+**How to apply it (owner feedback, 16 Nov 2026)**
+Follow Logan's guide as written. The claims rules were the website agent's own interpretation of FDA rules, not owner decisions, and were applied too strictly here. The one firm line: never say a product treats, cures or heals acne. Definitive language, answer-style headers and a credentialed byline are all fine. The byline doesn't have to be the formulator. `[NEED FROM RACHEL: who authors or reviews articles]`
