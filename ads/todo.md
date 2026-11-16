@@ -1,19 +1,22 @@
 # Rachel's ads to-do list
 
-Kept up to date by the ads agent (and the weekly check). Most urgent first. Last full sweep: Oct 16, 2026. Weekly check Nov 9, 2026 (ads/reviews/weekly/2026-11-09.md): nothing new could be ticked off. #1 is ASAP, #2 overdue since Oct 30, #4 due Nov 9.
+Kept up to date by the ads agent (and the weekly check). Most urgent first. Last full sweep: Oct 16, 2026. Weekly check Nov 16, 2026 (ads/reviews/weekly/2026-11-16.md): nothing new could be ticked off. #4 overdue since Nov 9 and #2 since Nov 13; both block the Black Friday build that was due today.
 
 ## Open
 | # | To-do | Why it matters | Due |
 |---|---|---|---|
-| 1 | **Edit the CA Founder Ad 2023 video** (remove the cocoonskincare.ca ending, CapCut), swap it into the paused ad "CA Founder Ad 2023", turn the ad on | It's one of the 4 proven ads; until then Proven runs on 3 | ASAP |
-| 2 | ~~Share the Black Friday plan~~ **Done Nov 10** (brief read, saved in the BF plan). Still needed: extra ad budget for Nov 23–30 and creative direction | The Nov 16 campaign build needs the budget | Nov 13 |
+| 4 | **Black Friday creative**: ASMR video with a BF overlay; Education + Before/After carousel with a sale slide; sale versions of the best ads (offer in the first 3 seconds) | Blocks the BFCM build (due Nov 16). Meta needs 1–2 days to review; after ~Nov 20 the Nov 23 start is at risk | Overdue (Nov 9); latest Nov 18 |
+| 2 | **Extra ad budget for Nov 23–30** and creative direction (the rest of the sale brief is saved in the BF plan) | Needed to build the BFCM campaign and set sale budgets | Overdue (Nov 13) |
+| 1 | **Edit the CA Founder Ad 2023 video** (remove the cocoonskincare.ca ending, CapCut), swap it into the paused ad "CA Founder Ad 2023", turn the ad on | Proven has had no live ads since Nov 10 | ASAP |
+| 6 | Fresh creative for Meta Testing: 2–4 new ads (testimonials, founder story and the TikTok High Estrogen style have worked) | If Founder Montage is paused, Testing has no live ads; only the TikTok ad set spends | ASAP |
 | 3 | **"How did you hear about us?" after checkout** (Shopify app) | Only clear way to see whether Google or Meta brought each new customer; Black Friday will blur the numbers | Before Nov 23 |
-| 4 | **Black Friday creative**: ASMR video with a BF overlay; Education + Before/After carousel with a sale slide; sale versions of the best ads (offer in the first 3 seconds) | Needed to build the BF campaign by Nov 16 | Nov 9 |
 | 5 | Optional: Founder Ad (Quiz) video with the cocoonskincare.ca address bar blurred → add as a new ad in Proven | Small; the .ca isn't clickable | Any time |
-| 6 | Fresh creative for Meta Testing: 2–4 new ads a month (testimonials and founder story have won before) | Testing needs new ads once the current 3 are judged (~Nov 6) | November |
 
-## Waiting for Rachel's OK
-- Nothing right now.
+## Waiting for Rachel's OK (weekly check Nov 16)
+1. Pause Meta ad "Founder Montage w VO (.com)": CA$512 for 1.5 sales (~CA$341 each); CA$255 last week, 0 sales.
+2. Google Canada budget CA$50 → CA$15/day (watch rule triggered: CA$676 since Oct 14, ~CA$169 per sale). Back to CA$50 for Nov 23–30 if #3 is approved.
+3. By Nov 20: Google seasonality adjustment on Canada for Nov 23–30 (Black Friday plan).
+4. Build paused BFCM 2026 Meta campaign + Google Promotion assets once #4 and #2 above arrive.
 
 ## Done Nov 10, 2026 (Rachel OK)
 - Paused Meta ads "Founder Ad (Quiz) 2025" (CA$372, ~CA$744 per sale) and "Testimonial 1 2025 (.com)" (CA$421, ~CA$281 per sale), both over the kill rule. Proven now has no live ads; #1 (CA Founder Ad 2023 video) is the fix. Testing has Founder Montage; TikTok has 3 ads.
@@ -30,6 +33,7 @@ Kept up to date by the ads agent (and the weekly check). Most urgent first. Last
 - Added Google Canada watch rule (CA$600 spent and over ~CA$126 per sale → propose a fix).
 
 ## Agent's upcoming (no action from Rachel)
+- Nov 16 status: TikTok High Estrogen (Product) is the only working Meta ad (~CA$108 per sale, all 3 sales last week). Google Canada watch rule triggered (proposal above).
 - Founder Montage and TikTok (Product) decide at CA$300 spent.
 - Google Canada watch rule: CA$522 spent since Oct 14, ~CA$130 per sale; triggers at CA$600 (~Nov 15).
 - Nov 16: build BFCM Meta campaign (paused) + Google Promotion assets (needs #2 and #4).
