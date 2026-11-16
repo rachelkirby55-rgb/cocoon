@@ -13,10 +13,12 @@ Kept up to date by the ads agent (and the weekly check). Most urgent first. Last
 | 5 | Optional: Founder Ad (Quiz) video with the cocoonskincare.ca address bar blurred → add as a new ad in Proven | Small; the .ca isn't clickable | Any time |
 
 ## Waiting for Rachel's OK (weekly check Nov 16)
-1. Pause Meta ad "Founder Montage w VO (.com)": CA$512 for 1.5 sales (~CA$341 each); CA$255 last week, 0 sales.
-2. Google Canada budget CA$50 → CA$15/day (watch rule triggered: CA$676 since Oct 14, ~CA$169 per sale). Back to CA$50 for Nov 23–30 if #3 is approved.
 3. By Nov 20: Google seasonality adjustment on Canada for Nov 23–30 (Black Friday plan).
 4. Build paused BFCM 2026 Meta campaign + Google Promotion assets once #4 and #2 above arrive.
+
+## Done Nov 16, 2026 (Rachel OK)
+- Paused Meta ad "Founder Montage w VO (.com)" (CA$512, ~CA$341 per sale). Proven and Testing now have no live ads; only Testing – TikTok spends. New ads (#1, #6) are the fix.
+- Google Canada budget CA$50 → CA$15/day (watch rule: ~CA$169 per sale since Oct 14). Still on for Black Friday.
 
 ## Done Nov 10, 2026 (Rachel OK)
 - Paused Meta ads "Founder Ad (Quiz) 2025" (CA$372, ~CA$744 per sale) and "Testimonial 1 2025 (.com)" (CA$421, ~CA$281 per sale), both over the kill rule. Proven now has no live ads; #1 (CA Founder Ad 2023 video) is the fix. Testing has Founder Montage; TikTok has 3 ads.
