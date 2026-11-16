@@ -10,7 +10,7 @@ Check this before drafting anything for Rachel or Logan. Update it whenever a st
 4. Root site build. Then Logan does the technical audit (without photos mid-to-late Nov, with photos mid-Dec).
 5. Logan runs Google Ads from December.
 
-We are NOT waiting on Logan for keyword research. Don't ask him for it.
+We are NOT waiting on Logan for keyword research. He delivered it on 12 Nov as a shared Drive folder, "SEO/AI Findings & Resources" (ID 1QeDzKicOfR7MY5wSWeDozrL9l-fnU47w). It wasn't in the email thread, so it was missed until 16 Nov. It holds 11 folders: URL sign-off, the plan and action tracker (~970 to-dos, including a "Do first" tab and 164 "Fix now" items), the content roadmap (46 articles), **60 page briefs (write the copy from these)**, best practices, keyword research, AI visibility, customer profiles, customer questions, Reddit, and competitors. Folder 07 answers the "other AI platforms" question.
 
 ## Open items for Rachel or us
 - **Logan reply email:** drafted 16 Nov; Rachel is finalizing it.
