@@ -321,17 +321,13 @@ Yes. [NEED: final terms in one sentence, word for word as on the guarantee page:
 
 Contact us with your order number and answer a few quick questions. You don't need to send the bottle back. [NEED: refund timing and method]
 
-## About Cocoon: a Canadian company, now at cocoonsupplements.com {#about-cocoon}
+## About Cocoon: a Canadian company {#about-cocoon}
 
-About Cocoon in brief: we're a Canadian company that makes naturopath-formulated supplements for hormonal acne. Balance is now called Estrogen Balance, and our site moved from cocoonskincare.ca to cocoonsupplements.com in 2026 [NEED: your OK].
+About Cocoon in brief: we're a Canadian company that makes naturopath-formulated supplements for hormonal acne. Balance is now called Estrogen Balance.
 
 ### Is Estrogen Balance the same as Balance?
 
 Yes. Balance is now called Estrogen Balance. It's the same formula [NEED: confirm unchanged], with a new name and product page, and old links redirect. If someone mentioned Cocoon's hormone balance supplement for acne, this is it, sold at cocoonsupplements.com.
-
-### Is Cocoon the same company as cocoonskincare.ca?
-
-Yes. Cocoon moved from cocoonskincare.ca to cocoonsupplements.com in 2026. It's the same store, so your products, orders and reviews carried over. [NEED: your OK]
 
 ### Is Cocoon a Vietnamese brand, or related to Cocoon Original or Cocoon Apothecary?
 
@@ -396,7 +392,6 @@ These statements have not been evaluated by the Food and Drug Administration. Th
 - Guarantee window (30 or 90 days) and the final terms, word for word.
 - Whether the guarantee covers skin that got worse.
 - Refund timing and method.
-- Your OK to name cocoonskincare.ca (2 places).
 - Confirm Balance and Estrogen Balance are the same formula.
 - NIH zinc fact sheet link.
 
@@ -415,5 +410,6 @@ These statements have not been evaluated by the Food and Drug Administration. Th
 - The shipping section keeps to 3 H3s, so the per-order limit and mixed-parcel points sit in the duties answer as [NEED] lines.
 - The price table puts 3-month prices "per month" first and the total in brackets, so no one reads the total as the monthly price.
 - The NIH zinc fact sheet has no link in the brief, so it's marked [NEED] rather than guessed.
+- A few answers run under the brief's 40-word floor (for example the teenagers and "buy yet" answers), because the facts behind them are short and padding would weaken them for AI quoting. Easy to lengthen if Logan prefers.
 
-**Word count:** about 3,850 words of visible copy, including the four tables. Without the tables it's about 3,000 words, inside the 2,800-3,500 range. The medications table is the main reason for the overrun; once the naturopath fills it, the repeated "Check with your doctor or pharmacist" can move into the header row if Logan agrees.
+**Word count:** about 3,330 words of visible copy including its six tables, about 2,700 without. Inside the 2,800-3,500 range with tables. The medications table repeats "Check with your doctor or pharmacist" in every cell, as the brief asks; if Logan agrees, it could move to the header row once the naturopath fills the table.

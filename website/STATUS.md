@@ -5,7 +5,7 @@ Check this before drafting anything for Rachel or Logan. Update it whenever a st
 ## The plan with Logan (Eleventh Peak Digital)
 1. Logan signs off on final URLs. **Done** (4 Nov). URLs and 33 redirects live 15 Nov.
 2. **Rachel sends Logan the website copy for review.** ← NEXT, and it's on us, not him.
-   - 23 Nov: rewriting from Logan's page briefs (14 core pages + 3 deep-dives) into `website/copy/v2/`. Draft 1 (`website/copy/site-copy.md`) is superseded. Articles (43 briefs) come later, per his content plan.
+   - 23 Nov: DONE. Written from Logan's page briefs (14 core pages + 3 deep-dives) in `website/copy/v2/`, combined in `website/copy/Cocoon-Website-Copy-v2.docx` (for Logan, internal notes stripped). Facts still to gather: `website/copy/v2-facts-to-gather.md`. Draft 1 (`website/copy/site-copy.md`) is superseded. Articles (43 briefs) come later, per his content plan.
    - Rachel is holding her reply to Logan until the copy is ready.
 3. Logan gives copy feedback and runs the larger audit (November).
 4. Root site build. Then Logan does the technical audit (without photos mid-to-late Nov, with photos mid-Dec).

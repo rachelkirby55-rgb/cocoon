@@ -88,7 +88,7 @@ Cocoon is a Canadian company, founded in [NEED: year], that sells naturopath-for
 | Testing | Third-party tested for purity [NEED: what's tested and by whom] · [Certificate of analysis] [NEED: PDF link] |
 | Ships to | Canada and the US |
 | Guarantee | [Cocoon's money-back guarantee](/pages/money-back-guarantee): [NEED: final terms] |
-| Website | cocoonsupplements.com, moved from cocoonskincare.ca in 2026 [NEED: your OK to name the old address] |
+| Website | cocoonsupplements.com |
 | Not related to | Cocoon Original (a Vietnamese cosmetics brand), Cocoon Apothecary or Cocooncenter |
 | Last updated | [NEED: date] |
 
@@ -124,10 +124,6 @@ People ask most about which Cocoon this is, who formulates the supplements, wher
 ### Is Cocoon related to Cocoon Original or Cocoon Apothecary?
 
 No. Cocoon is a Canadian company making supplements for hormonal acne. Cocoon Original is a Vietnamese cosmetics brand, and Cocoon Apothecary and Cocooncenter are separate businesses. We're not connected to any of them.
-
-### Is Cocoon the same company as cocoonskincare.ca?
-
-Yes. Cocoon moved from cocoonskincare.ca to cocoonsupplements.com in 2026: same company, same products. cocoonsupplements.com is our online store. [NEED: your OK to name the old address]
 
 ### Who formulates Cocoon's supplements?
 
@@ -171,7 +167,6 @@ No supplement is. The FDA doesn't approve dietary supplements before they're sol
 - Where Estrogen Balance ships from.
 - Testing details and the certificate-of-analysis PDF (facts table, image and FAQ).
 - Final guarantee terms.
-- Your OK to name cocoonskincare.ca (facts table and FAQ).
 - "Last updated" date.
 - Timeline dates for the graphic.
 - Confirm skip, pause and cancel on the new site.
@@ -191,9 +186,9 @@ No supplement is. The FDA doesn't approve dietary supplements before they're sol
 
 **Where I differed from the brief, and why**
 - Both new formulas' US labels say "Made in Canada from imported ingredients", while they ship from the US. I haven't put that on the page, because stating it invites the "why ship from the US?" question the brief says never to answer. Your call.
-- The site-move line and FAQ name "cocoonskincare.ca". That sits close to your rule against the old brand name in visible copy, so it's flagged [NEED] in both places.
+- Removed the brief's mentions of the old address (cocoonskincare.ca) to follow your rule: "Cocoon" only, no reference to the old name in visible copy. Logan may push back for AI-search reasons.
 - I added a one-line "results vary" note under your story, because it describes a personal result (FTC).
 - The range table uses "Join the waitlist" for the two new formulas, per your customer-facing wording.
 - I kept integrity, simplicity and empowerment as one line tied to the promises, as the brief allows.
 
-**Word count:** about 1,250 words of visible copy, including tables. That's slightly above the 900-1,200 range; once the [NEED] lines become short facts, it should land near 1,150.
+**Word count:** about 1,160 words of visible copy including tables, about 1,000 without. Inside the 900-1,200 range.

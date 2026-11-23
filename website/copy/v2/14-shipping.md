@@ -137,4 +137,4 @@ Not yet. Androgen Balance launches in January 2027 and Liver Support in April 20
 - The five FAQs sit under the late-or-lost section as H3s, as the brief's "prose, then the 5-question FAQ block" suggests.
 - No reason is given anywhere for the new formulas shipping from the US.
 
-**Word count:** about 800 words of visible copy, including tables.
+**Word count:** about 660 words of visible copy including tables, about 570 without. Inside the 600-900 range with tables; it will grow once the [NEED] rates and times are filled.

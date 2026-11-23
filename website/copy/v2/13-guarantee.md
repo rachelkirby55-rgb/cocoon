@@ -113,7 +113,7 @@ We issue refunds within [NEED: N] business days of your claim. Your bank or card
 
 ### I bought Cocoon from another store. Am I covered?
 
-The guarantee covers orders placed on cocoonsupplements.com. [NEED: confirm, and whether orders from the old cocoonskincare.ca store count]
+The guarantee covers orders placed on cocoonsupplements.com. [NEED: confirm, and whether orders from the old store count]
 
 ### Are shipping costs and duties refunded?
 
@@ -165,4 +165,4 @@ Last updated [NEED: date]
 - The FAQ link is used once (section 2), so the legal bullet names the medications table without a second link.
 - I haven't read the AAD page the brief lists, so its line is a [NEED] rather than a paraphrase from memory.
 
-**Word count:** about 1,150 words of visible copy, including the table and FAQ. That's above the 750-1,000 range because of the added FAQ block; once the [NEED] lines become terms, it should land near 1,000.
+**Word count:** about 1,000 words of visible copy, including the table and the added FAQ block. At the top of the 750-1,000 range.

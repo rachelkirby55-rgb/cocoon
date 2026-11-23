@@ -49,8 +49,8 @@ Estrogen Balance, Androgen Balance and Liver Support do three different jobs: br
 | **Key ingredients per serving** | DIM 150 mg, L-glutathione 176 mg, calcium D-glucarate 150 mg | NAC 600 mg, berberine HCl 500 mg, saw palmetto extract 320 mg, sarsaparilla extract 120 mg, zinc 20 mg | Milk thistle extract 200 mg, dandelion root 120 mg, burdock root 100 mg, R-alpha lipoic acid 100 mg, schisandra 80 mg |
 | **Capsules a day** | 1 | 3, with food (each holds one-third) | 2 (each holds half) |
 | **Capsules per bottle** | 30 | 90 | 60 |
-| **Price, 1 month** | $68 CAD / $50 USD | At launch [NEED: price] | At launch [NEED: price] |
-| **Price, 3 months** | $177.48 CAD / $130.50 USD | At launch | At launch |
+| **Price, 1 month** | $68 CAD / $50 USD | $68 CAD / $50 USD at launch | $68 CAD / $50 USD at launch |
+| **Price, 3 months** | $177.48 CAD / $130.50 USD | $177.48 CAD / $130.50 USD at launch | $177.48 CAD / $130.50 USD at launch |
 | **Status** | Available now | January 2027 | April 2027 |
 | **Ships from** | Canada | US | US |
 | **Made in** | Canada | Canada, from imported ingredients | Canada, from imported ingredients |

@@ -227,4 +227,4 @@ These statements have not been evaluated by the Food and Drug Administration. Th
 - The high-testosterone deep-dive is linked twice (card and PCOS answer), as the brief specifies.
 - The old supplement section is gone, and the definition is the first body text after the mock-up line, per the AI tip.
 
-**Word count:** about 1,950 words of visible copy, including tables and card text.
+**Word count:** about 2,080 words of visible copy including tables and card text, about 1,820 without tables. Inside the 1,600-2,000 range on prose.

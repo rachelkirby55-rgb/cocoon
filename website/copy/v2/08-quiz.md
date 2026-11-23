@@ -28,14 +28,14 @@ If you're choosing for someone else, take it together or send her the link.
 
 ## What does the hormonal acne quiz ask?
 
-The hormonal acne quiz asks when and where you break out, about contraception and other signs, and about your life stage. Those answers separate the two patterns. It covers six groups of questions:
+The hormonal acne quiz asks when and where you break out, about contraception and other signs, and about your life stage. Those answers separate the two patterns.
 
 - **Timing:** the week before your period, around ovulation, or no clear pattern.
 - **Your skin:** where breakouts sit, the type of bump and any scarring.
-- **Contraception:** which pill or hormonal IUD you use or stopped, when, and whether the pill cleared your skin. More on [acne after stopping birth control](/blogs/learn/acne-after-stopping-birth-control). [Developer: switch this link on when the article goes live, by 18 December]
+- **Contraception:** which pill or IUD you use or stopped, when, and whether the pill cleared your skin. Read about [acne after stopping birth control](/blogs/learn/acne-after-stopping-birth-control). [Developer: switch this link on when the article goes live, by 18 December]
 - **What you've tried:** DIM, spearmint, vitex or spironolactone.
 - **Other signs:** oily skin, hair shedding, new facial hair, cycles over 35 days, tender breasts, bloating or heavy periods.
-- **Life stage and safety:** when breakouts started, a recent baby, pregnancy or trying to conceive, breastfeeding, perimenopause or HRT, your age and any medications.
+- **Life stage and safety:** when breakouts started, a recent baby, pregnancy, breastfeeding, perimenopause or HRT, age and medications.
 
 ## Your answers point to one of four results
 
@@ -43,16 +43,16 @@ Your answers point to one of four results: a high-estrogen pattern, a high-testo
 
 | Result | The skin and timing signs behind it | What you'll see |
 |---|---|---|
-| A. High-estrogen pattern | Breakouts the week before your period, often with tender breasts or bloating | Estrogen Balance |
-| B. High-testosterone pattern | Oily skin and breakouts on the jaw, chin or body, often after stopping the pill | The Androgen Balance waitlist, until it launches in January 2027 |
-| C. Both patterns, or neither clearly | A mix of signs, or too few to call | One formula to start, or hormone labs first |
-| D. See your doctor first | Pregnancy, breastfeeding, under 18, or signs a doctor should check | No product: a next step with your doctor or a dermatologist |
+| A. High-estrogen pattern | Breakouts before your period, tender breasts or bloating | Estrogen Balance |
+| B. High-testosterone pattern | Oily skin; jaw, chin or body breakouts; often after the pill | Androgen Balance waitlist until January 2027 |
+| C. Both, or neither clearly | Mixed signs, or too few to call | One formula, or hormone labs first |
+| D. See your doctor first | Pregnancy, breastfeeding, under 18, or signs a doctor should check | None |
 
-If the pill cleared your skin and your skin is oily, you'll likely land on the testosterone side. Each result suggests one formula, never two. For more on each pattern, read about [the two main types of hormonal acne](/blogs/learn/types-of-hormonal-acne).
+If the pill cleared your skin and your skin is oily, you'll likely land on the testosterone side. Each result suggests one formula, never two. Read more about [the two main types of hormonal acne](/blogs/learn/types-of-hormonal-acne).
 
 ## What can't a quiz tell you about a hormone imbalance?
 
-A quiz can't measure your hormones or diagnose a hormone imbalance, and some breakouts need a doctor before any supplement. Ours reads patterns in your answers, not hormone levels. See a dermatologist first for deep, painful or scarring acne, or if it might be rosacea, perioral dermatitis or fungal acne. See a doctor for very irregular or missing periods, sudden new facial or body hair, or fast hair loss. [NEED: naturopath confirms this list]
+A quiz can't measure your hormones or diagnose a hormone imbalance, and some breakouts need a doctor before any supplement. Ours reads patterns, not hormone levels. See a dermatologist first for deep, painful or scarring acne, or if it might be rosacea, perioral dermatitis or fungal acne. See a doctor for very irregular or missing periods, sudden new facial or body hair, or fast hair loss. [NEED: naturopath confirms this list]
 
 ## What do women ask before taking the quiz?
 
@@ -60,15 +60,15 @@ Women ask four things before taking the quiz: is it hormonal, do I need bloodwor
 
 ### Is my acne hormonal?
 
-It's likely hormonal if it follows your cycle, sits on your chin and jawline as deep, tender bumps, or started after you stopped the pill. Our guide to [how hormonal acne works](/pages/learn) walks through every sign.
+It's likely hormonal if it follows your cycle, sits on your chin and jawline as deep, tender bumps, or started after you stopped the pill. See [how hormonal acne works](/pages/learn).
 
 ### Do I need bloodwork before taking the quiz?
 
-No. The quiz reads the pattern in your answers. Hormone labs can add detail, but normal results don't rule out a hormonal pattern. Here's [which hormone tests to ask for](/blogs/learn/hormone-tests-for-acne). [Developer: switch this link on when the article goes live in February; until then, end the answer after "hormonal pattern."]
+No. The quiz reads the pattern in your answers. Labs add detail, but normal results don't rule out a hormonal pattern. Here's [which hormone tests to ask for](/blogs/learn/hormone-tests-for-acne). [Developer: switch this link on when the article goes live in February; until then, end the answer after "hormonal pattern."]
 
 ### Can I take the quiz if I'm on birth control or have a hormonal IUD?
 
-Yes. The quiz asks which method you use or stopped, and when. Check with your doctor or pharmacist before starting any supplement, and see [Cocoon's FAQ on medications and birth control](/pages/faq#birth-control).
+Yes. It asks which method you use or stopped, and when. Check with your doctor or pharmacist before any supplement, and see [Cocoon's FAQ on medications and birth control](/pages/faq#birth-control).
 
 ### How accurate is the quiz?
 
@@ -186,10 +186,10 @@ These follow the six groups on the page. Scoring and routing need your naturopat
 - $68.00 CAD from the brief; $50.00 USD from the 13 Oct live capture. Both need a check before launch.
 
 **Where I differed from the brief, and why**
-- The landing text runs a little over the brief's 400-word ceiling, because the section specs add up to about 420-450 words. Cut the "Prefer to look first?" line or the partner line if you want to land under 400.
+- The landing text runs over the brief's 250-400 range: about 620 words with the results table, 540 without. The brief's own per-section lengths (intro, 6-item list, results, limits, 4 FAQs of 30-45 words) add up to about 450-500 before headings and the table, so the range can't be met without dropping a section. Worth raising with Logan; the partner line and "Prefer to look first?" line are the easiest cuts.
 - I wrote a draft question set and routing notes, since the brief lists the question groups but not the wording. Treat both as a starting point for the naturopath.
 - Result A runs about 130 words, slightly over the 60-120 range, to fit the doses, price, guarantee, stop rule and medication line the brief asks for.
 - The quiz-limits section is 4 sentences, as asked, but runs about 65 words rather than 45-55, so it can name every look-alike and every see-a-doctor sign.
 - Result D's two links use my own anchor words, since the brief names the pages but not the wording.
 
-**Word count:** about 520 words on the landing page (H1 to "Last reviewed", including the table), about 680 words across the four result screens, and about 330 words of draft questions and logic.
+**Word count:** about 620 words on the landing page (H1 to "Last reviewed", including the table), about 650 words across the four result screens, and about 450 words of draft questions and logic (not page copy).

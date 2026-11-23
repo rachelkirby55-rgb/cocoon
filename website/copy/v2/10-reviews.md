@@ -64,7 +64,7 @@ Yes. Cocoon is a Canadian company that has sold naturopath-formulated Estrogen B
 | Guarantee | [NEED: final terms, 30 or 90 days, and what's covered] |
 | Refunds | [NEED: to your original payment method, if adopted] |
 | Ships to | Canada and the US |
-| Website | cocoonsupplements.com, moved from cocoonskincare.ca in 2026 [NEED: your OK to name the old address] |
+| Website | cocoonsupplements.com |
 
 Want the full story? Read about [who's behind Cocoon](/pages/about).
 
@@ -104,14 +104,6 @@ We publish critical reviews and reply in public: every 1- to 3-star review stays
 [Featured: NEED: one 1-star review, verbatim, with its rewritten public reply]
 
 If your first weeks are rough, here's what we tell every reviewer. A mild adjustment period can happen early on. Stop and contact us if you get new or deeper cysts in new areas, a rash, or skin that's still worse after 6-8 weeks. We'll walk you through [Cocoon's money-back guarantee](/pages/money-back-guarantee). Here's our guide to [telling an early flare from a reaction](/blogs/learn/skin-purging-vs-breakout).
-
-**Reply template for the six replies to rewrite (Lain, Jennifer, Alina, Shawndra, Lauren, Sian).** Base each on the February 2026 reply to Carly [NEED: paste that reply so the six match it]. Not visible copy until you've edited each one.
-
-> Hi [first name], thank you for telling us, and I'm sorry your skin has been worse. A mild adjustment period can happen in the first weeks. If you get new or deeper cysts in new areas, a rash, or skin that's still worse after 6-8 weeks, please stop and contact us. We'll look at it with you and talk through the guarantee. Rachel, Cocoon founder
-
-> **Jennifer (different reply):** Hi Jennifer, I'm sorry. What your doctors described, red bumps and patches, sounds like a possible reaction rather than an adjustment period. Please stop taking Estrogen Balance and contact us so we can help under the guarantee. Rachel, Cocoon founder
-
-[Note for your team, not visible copy: no reply promises a refund beyond the 30-day guarantee. NEED: update if the window changes.]
 
 ## What happens after 3, 6 and 12 months, and when you stop?
 
@@ -185,7 +177,6 @@ These statements have not been evaluated by the Food and Drug Administration. Th
 - Year Cocoon started selling Estrogen Balance, and founding year.
 - Third-party testing details and certificate link.
 - Final guarantee terms and refund method.
-- Your OK to name cocoonskincare.ca.
 - Before-and-after policy: consent, no retouching (section 3 and FAQ).
 - Consent, age, months and situation for every pair except Hanna's.
 - Whether Okendo can tag reviews by situation.
@@ -206,10 +197,20 @@ These statements have not been evaluated by the Food and Drug Administration. Th
 - Paloma's breakouts after a break, and Maddie's year without breakouts after stopping: live results page and Home quotes.
 
 **Where I differed from the brief, and why**
-- The site-move line keeps "cocoonskincare.ca" from the brief, but it sits close to your rule against naming the old brand in visible copy. It's flagged [NEED]; cut it if you'd rather keep the old name out entirely.
+- Removed the brief's mentions of the old address (cocoonskincare.ca) to follow your rule: "Cocoon" only, no reference to the old name in visible copy. Logan may push back for AI-search reasons.
 - I drafted a reply template and a separate Jennifer reply, since I don't have the Carly reply or the six reviews. Edit each before posting.
 - The highlights are placeholders, because the full Okendo review text isn't in my source files and the brief asks for verbatim quotes.
 - The Reddit answer avoids quoting or summarizing forum comments, as the brief asks.
 - "Fading marks" in "what changed" comes from the brief; check it against the reviews before publishing.
 
-**Word count:** about 1,250 words of visible copy (including tables, the reply drafts and the FAQ). That's above the 800-1,100 range; once the placeholders fill and the reply drafts move to Okendo, it should land near 1,100.
+**Draft replies for Okendo (not page copy)**
+
+**Reply template for the six replies to rewrite (Lain, Jennifer, Alina, Shawndra, Lauren, Sian).** Base each on the February 2026 reply to Carly [NEED: paste that reply so the six match it]. These are drafts for Okendo, not page copy.
+
+> Hi [first name], thank you for telling us, and I'm sorry your skin has been worse. A mild adjustment period can happen in the first weeks. If you get new or deeper cysts in new areas, a rash, or skin that's still worse after 6-8 weeks, please stop and contact us. We'll look at it with you and talk through the guarantee. Rachel, Cocoon founder
+
+> **Jennifer (different reply):** Hi Jennifer, I'm sorry. What your doctors described, red bumps and patches, sounds like a possible reaction rather than an adjustment period. Please stop taking Estrogen Balance and contact us so we can help under the guarantee. Rachel, Cocoon founder
+
+[Note for your team, not visible copy: no reply promises a refund beyond the 30-day guarantee. NEED: update if the window changes.]
+
+**Word count:** about 1,250 words of visible copy, including tables and the FAQ (the draft replies above aren't counted). That's above the 800-1,100 range, mostly because the brief asks for 9 FAQs plus a facts table; the [NEED] placeholders will shrink a little once filled. If Logan wants it shorter, the easiest cuts are the Reddit FAQ and the timeline bullet list (the chart carries the same numbers).
