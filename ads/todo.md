@@ -5,19 +5,21 @@ Kept up to date by the ads agent (and the weekly check). Most urgent first. Last
 ## Open
 | # | To-do | Why it matters | Due |
 |---|---|---|---|
-| 2 | **Extra ad budget for the sale** (agent proposes CA$20/day Nov 25–30, ~CA$120, warm only, existing ads) | Sale started Nov 23. Without a yes today, Meta sits out the sale | Today (Nov 23) |
+| 8 | **Ask the new ads manager for their BFCM plan** (draft message in ads/reviews/weekly/2026-11-23.md): Meta warm-only sale ads? Keep Google on, add the sale offer (Promotion asset), budget back to CA$50 for the sale? | All Meta ads are off since Nov 23; the sale runs to Nov 30 | Today (Nov 23) |
+| 2 | **Extra ad budget for the sale** (agent proposed CA$20/day Nov 25–30, warm only); now part of #8 | Decide with the new manager | Nov 23–24 |
 | 4 | **Black Friday creative** (sale versions of the best ads) | Too late for most of the sale; the fallback is existing ads with the offer in the text | Overdue (Nov 9) |
 | 1 | **Edit the CA Founder Ad 2023 video** (remove the cocoonskincare.ca ending, CapCut), swap it into the paused ad "CA Founder Ad 2023", turn the ad on | Proven has had no live ads since Nov 10 | ASAP |
-| 6 | Fresh creative for Meta Testing: 2–4 new ads (testimonials, founder story and the TikTok High Estrogen style have worked) | Testing has no live ads since Nov 16; if Testing – TikTok is paused, Meta has none at all | ASAP |
+| 6 | Fresh creative for Meta Testing: 2–4 new ads (testimonials, founder story and the TikTok High Estrogen style have worked) | Meta has no live ads at all since Nov 23 | ASAP |
 | 3 | **"How did you hear about us?" after checkout** (Shopify app) | Only clear way to see whether Google or Meta brought each new customer; the sale blurs the numbers | Overdue (was before Nov 23) |
 | 7 | Black Friday reminder email (Klaviyo) | Part of the sale brief | Nov 27 |
 | 5 | Optional: Founder Ad (Quiz) video with the cocoonskincare.ca address bar blurred → add as a new ad in Proven | Small; the .ca isn't clickable | Any time |
 
 ## Waiting for Rachel's OK (weekly check Nov 23)
-1. Pause Meta ad set "Testing – TikTok" (all 3 ads) once High Estrogen (Product) is over CA$140 per sale (CA$138.65 on Nov 23). Agent checks the number first.
-2. Meta BFCM: CA$20/day Nov 25–30 (~CA$120), warm only, existing ads + offer in the text. Today or drop it.
-3. Google Promotion asset (15% / 30% off, to Nov 30): Rachel clicks it, agent walks her through. Optional.
+2. Meta BFCM (CA$20/day Nov 25–30, warm only, existing ads) and 3. Google Promotion asset (15% / 30% off, to Nov 30): Rachel is asking the new ads manager first (#8).
 - Dropped: Google seasonality adjustment (agent advised skipping Nov 16; no answer, and the sale has started).
+
+## Done Nov 23, 2026 (Rachel OK)
+- Paused Meta ad set "Testing – TikTok" (all 3 ads). High Estrogen (Product) went over the kill line: CA$779 for 5.5 sales = ~CA$142 per sale. **All Meta ads are now off.**
 
 ## Done Nov 16, 2026 (Rachel OK)
 - Paused Meta ad "Founder Montage w VO (.com)" (CA$512, ~CA$341 per sale). Proven and Testing now have no live ads; only Testing – TikTok spends. New ads (#1, #6) are the fix.
