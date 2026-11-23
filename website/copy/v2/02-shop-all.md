@@ -160,11 +160,11 @@ Start with one, matched to your pattern, so you can tell what's working. The two
 
 **Done differently from the brief, and why**
 - "What's not in it" for the new formulas says only "no proprietary blend" and names the vegetable capsule. Their labels say they're made in a facility that handles milk, gluten, shellfish, soy, peanuts and tree nuts, so I didn't claim gluten-free or vegan for them. Their product briefs say "assume all same as Balance"; confirm before we add more.
-- The doses are given per serving, as on the labels, with a "per capsule" row (one-third or half). This avoids awkward decimals such as 166.7 mg.
-- The "Not for" row adds "trying to conceive" to both new formulas because the brief asks for one row. Their labels only say pregnant or breastfeeding.
+- Doses are per serving, as on the labels. The capsules-a-day row says each capsule holds one-third (Androgen Balance) or half (Liver Support). This avoids decimals such as 166.7 mg.
+- The "Not for" row became one sentence under the table, to save words. It covers all three formulas, so it adds "trying to conceive" and "under 18" for the new ones. Their labels say pregnant or breastfeeding and "keep out of reach of children". Please confirm.
 - FAQ 1 adds the Androgen Balance label's antibiotics and nitroglycerin warning, and FAQ 4 adds its spacing direction. Both come from the US label.
 - The AAD "Supplements for your skin" source isn't cited. I couldn't check its wording, and the brief already has two external links in the right places (JCAD, MSKCC). Add it to FAQ 2 if Logan wants a third.
 - I used † rather than an asterisk, and the stop rule is the same sentence as on Home and Estrogen Balance.
 - Links to switch on later: "what DIM is…" (by 18 December) and "the evidence on hormonal acne supplements" (January).
 
-**Approximate word count:** see the summary line below.
+**Approximate word count:** about 1,210 words of visible copy (not counting image notes, buttons and [NEED] markers). About 285 of those are in the two tables, leaving about 930 words of prose. Either way it's over the brief's 600-850. The comparison table alone needs the 14 rows the brief asks for. To cut further, drop the per-day price line in section 7 and shorten the hero to the two opening sentences.

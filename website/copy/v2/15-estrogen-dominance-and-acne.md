@@ -285,4 +285,4 @@ Not in the way the phrase suggests. Foods like broccoli, and ingredients like DI
 - The 2024 JCAD review also flags rare reports of a severe drug rash (DRESS) with DIM. I left it off the page because the brief doesn't ask for it. Say if you'd like a line in the FAQ.
 - The Sources list shows the 2016 review and the Cleveland Clinic page without "Treatment" in their link words, as the brief asks.
 
-**Approximate word count:** about 2,600 words of page copy (H1 to the end of the FAQ, not counting the metadata table, sources or these notes). The brief's range is 2,300 to 2,700.
+**Approximate word count:** about 2,490 words of page copy, H1 to the end of the FAQ, including tables and the product module (about 2,600 with the [NEED]/[CHECK] markers; not counting the metadata table, sources or these notes). The brief's range is 2,300 to 2,700.

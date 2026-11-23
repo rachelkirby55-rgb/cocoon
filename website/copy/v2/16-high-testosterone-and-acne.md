@@ -350,4 +350,4 @@ Androgen Balance is an acne supplement with 5 ingredients, built around berberin
 - "Can you have high androgens without PCOS?" is answered once, as the H3 in Section 4, not repeated in the FAQ, to stay inside the word range.
 - Photos: 9 in-body photos plus the bottle and the diagram, about 1 every 300 words.
 
-**Approximate word count:** about 3,300 words of page copy (H1 to the end of the module, not counting the metadata table, sources or these notes). The brief's range is 3,000 to 3,400.
+**Approximate word count:** about 3,290 words of page copy, H1 to the end of the module, including tables (about 3,450 with the [NEED]/[CHECK] markers; not counting the metadata table, sources or these notes). The brief's range is 3,000 to 3,400.
