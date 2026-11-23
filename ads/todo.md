@@ -5,7 +5,7 @@ Kept up to date by the ads agent (and the weekly check). Most urgent first. Last
 ## Open
 | # | To-do | Why it matters | Due |
 |---|---|---|---|
-| 8 | **Ask the new ads manager for their BFCM plan** (draft message in ads/reviews/weekly/2026-11-23.md): Meta warm-only sale ads? Keep Google on, add the sale offer (Promotion asset), budget back to CA$50 for the sale? | All Meta ads are off since Nov 23; the sale runs to Nov 30 | Today (Nov 23) |
+| 8 | **Reply to Melissa (Everlign) for Abhi's BFCM plan** (draft reply in ads/reviews/weekly/2026-11-23.md): Meta warm-only sale ads? Keep Google on, add the sale offer (Promotion asset), budget back to CA$50 for the sale? | All Meta ads are off since Nov 23; the sale runs to Nov 30 | Today (Nov 23) |
 | 2 | **Extra ad budget for the sale** (agent proposed CA$20/day Nov 25–30, warm only); now part of #8 | Decide with the new manager | Nov 23–24 |
 | 4 | **Black Friday creative** (sale versions of the best ads) | Too late for most of the sale; the fallback is existing ads with the offer in the text | Overdue (Nov 9) |
 | 1 | **Edit the CA Founder Ad 2023 video** (remove the cocoonskincare.ca ending, CapCut), swap it into the paused ad "CA Founder Ad 2023", turn the ad on | Proven has had no live ads since Nov 10 | ASAP |
