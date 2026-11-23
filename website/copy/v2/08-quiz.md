@@ -128,7 +128,7 @@ Your answers point to both patterns, or to neither clearly, and that's common. P
 
 ### Result D: Check in with a doctor before starting a supplement
 
-Check in with your doctor or a dermatologist before starting a supplement: based on your answers, that's the best next step. Our formulas aren't for anyone pregnant, trying to conceive, breastfeeding or under 18. Severe, painful nodules or scarring need a dermatologist first. So do signs it might not be acne: lasting redness or flushing, itchy bumps that all look alike, or a rash around your mouth or nose. [NEED: naturopath signs off the whole list]
+Check in with your doctor or a dermatologist before starting a supplement: based on your answers, that's the best next step. Our formulas aren't for anyone pregnant, trying to conceive, breastfeeding or under 18. Severe, painful nodules or scarring need a dermatologist first. So do signs it might not be acne. Look for lasting redness or flushing, itchy bumps that all look alike, or a rash around your mouth or nose. [NEED: naturopath signs off the whole list]
 
 If you've had a baby, retake the quiz once breastfeeding has ended.
 

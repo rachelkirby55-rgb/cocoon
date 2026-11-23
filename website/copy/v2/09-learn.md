@@ -30,7 +30,7 @@ Your acne is likely hormonal if it sits on your lower face, follows your cycle a
 - **Chin, jawline and mouth.** It clusters on the lower third of your face.
 - **Same point in your cycle.** It flares at a predictable time each month.
 - **Deep, tender bumps.** Spots sit under the skin, hurt to touch and linger.
-- **Keeps coming back.** It returns despite a good routine and a patient dermatologist.
+- **Keeps coming back.** It returns despite a good skincare routine.
 
 ### Where it shows up: the chin, jaw and lower face
 
@@ -42,7 +42,7 @@ Hormonal breakouts usually appear in the week before a period or around ovulatio
 
 ### How it feels: deep, tender bumps
 
-Hormonal breakouts feel like deep, tender bumps under the skin rather than small surface whiteheads. They often hurt before you can see them, and they're slow to settle. Squeezing rarely helps and can leave marks.
+Hormonal breakouts feel like deep, tender bumps under the skin rather than small surface whiteheads. They often hurt before you can see them, and they're slow to settle.
 
 ### Location and timing are the clearest tells
 
@@ -144,7 +144,7 @@ For the full picture, start with our guide to [the most common hormonal acne tri
 
 ## What helps hormonal acne: four routes, often used together
 
-What helps hormonal acne depends on your pattern, and four routes are worth knowing: topicals, food and lifestyle, targeted supplements and prescriptions. Topicals work on the surface, and food and lifestyle changes support your skin day to day. Spironolactone and the pill are what dermatologists recommend for hormonal acne, alongside topical retinoids and isotretinoin for severe acne. Targeted supplements are the fourth route, though the research is thin: a 2024 review in the Journal of Clinical and Aesthetic Dermatology (JCAD) found no acne trials of DIM.
+What helps hormonal acne depends on your pattern, and four routes are worth knowing: topicals, food and lifestyle, targeted supplements and prescriptions. Topicals work on the surface, and food and lifestyle changes support your skin day to day. Spironolactone and the pill are what dermatologists recommend for hormonal acne, alongside topical retinoids and isotretinoin for severe acne. Targeted supplements are the fourth route, though the research is thin. A 2024 review in the Journal of Clinical and Aesthetic Dermatology (JCAD) found no acne trials of DIM.
 
 If you've stopped a prescription, you still have options. Judge any supplement over about 3 cycles, or about 3 months, then check in. Stop and contact us if you get new or deeper cysts in new areas, a rash, or skin that's still worse after 6-8 weeks.
 
@@ -158,7 +158,7 @@ Women also ask whether hormonal acne is genetic, what PCOS acne looks like and w
 
 ### Is hormonal acne genetic? {#is-hormonal-acne-genetic}
 
-Partly. Acne often runs in families, and your genes shape how much oil your skin makes and how strongly it responds to androgens. Genes aren't the whole story, though. Your cycle, life stage, stress and diet still move breakouts up and down, so the same skin can be calm one year and breaking out the next.
+Partly. Acne often runs in families, and your genes shape how much oil your skin makes and how strongly it responds to androgens. Genes aren't the whole story, though. Your cycle, life stage, stress and diet still move breakouts up and down. The same skin can be calm one year and breaking out the next.
 
 ### What does PCOS acne look like?
 

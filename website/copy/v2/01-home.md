@@ -27,7 +27,7 @@ Cocoon's supplements for hormonal acne are naturopath-formulated and matched to 
 Cocoon is for women whose acne outlasted everything else they tried: salicylic acid, benzoyl peroxide, retinol, antibiotics, even Accutane or spironolactone. Prescriptions help many women; Cocoon is for those who can't take them, don't want them or have stopped.
 
 ### Your skin changed after the pill or a hormonal IUD
-Breakouts started when you stopped the pill or got an IUD.
+Breakouts started when you stopped the pill or got a hormonal IUD.
 
 ### You can't take spironolactone, or you'd rather not
 You still want support from the inside.
@@ -43,7 +43,7 @@ Your skin hasn't settled since.
 
 [IMAGE: calm lifestyle photos for the cards, women in their 20s to 40s, natural light, no close-ups of severe breakouts. Any bottle shown in US packaging]
 
-Cocoon works alongside dermatology care; on a prescription, ask your doctor first. If you're buying for someone else, send her the quiz.
+Cocoon works alongside dermatology care. If you're on a prescription, ask your doctor first. If you're buying for someone else, send her the quiz.
 
 ## Which formula matches your breakouts?
 

@@ -103,7 +103,7 @@ We publish critical reviews and reply in public: every 1- to 3-star review stays
 
 [Featured: NEED: one 1-star review, verbatim, with its rewritten public reply]
 
-If your first weeks are rough, here's what we tell every reviewer. A mild adjustment period can happen early on. Stop and contact us if you get new or deeper cysts in new areas, a rash, or skin that's still worse after 6-8 weeks, and we'll walk you through [Cocoon's money-back guarantee](/pages/money-back-guarantee). Here's our guide to [telling an early flare from a reaction](/blogs/learn/skin-purging-vs-breakout).
+If your first weeks are rough, here's what we tell every reviewer. A mild adjustment period can happen early on. Stop and contact us if you get new or deeper cysts in new areas, a rash, or skin that's still worse after 6-8 weeks. We'll walk you through [Cocoon's money-back guarantee](/pages/money-back-guarantee). Here's our guide to [telling an early flare from a reaction](/blogs/learn/skin-purging-vs-breakout).
 
 **Reply template for the six replies to rewrite (Lain, Jennifer, Alina, Shawndra, Lauren, Sian).** Base each on the February 2026 reply to Carly [NEED: paste that reply so the six match it]. Not visible copy until you've edited each one.
 
@@ -111,7 +111,7 @@ If your first weeks are rough, here's what we tell every reviewer. A mild adjust
 
 > **Jennifer (different reply):** Hi Jennifer, I'm sorry. What your doctors described, red bumps and patches, sounds like a possible reaction rather than an adjustment period. Please stop taking Estrogen Balance and contact us so we can help under the guarantee. Rachel, Cocoon founder
 
-No reply promises a refund beyond the 30-day guarantee [NEED: update if the window changes].
+[Note for your team, not visible copy: no reply promises a refund beyond the 30-day guarantee. NEED: update if the window changes.]
 
 ## What happens after 3, 6 and 12 months, and when you stop?
 
@@ -155,7 +155,7 @@ No. Cocoon is a Canadian company making supplements for hormonal acne. Cocoon Or
 
 [NEED: confirm the policy] For example: No. Each photo is shared with written permission and only cropped to match in size. Lighting and angles vary.
 
-### What do people on Reddit say about Cocoon supplements for acne?
+### What do people on Reddit say about Cocoon's supplements for acne?
 
 We don't quote forum posts here. You'll find independent opinions on Reddit, TikTok and Google by searching "Cocoon Estrogen Balance". The most useful posts name the product, give a timeline and describe the writer's situation.
 

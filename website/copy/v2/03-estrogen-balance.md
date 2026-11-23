@@ -63,11 +63,11 @@ Estrogen Balance is right for your breakouts if they arrive before your period, 
 
 If your breakouts started after you stopped the pill or got a hormonal IUD, or the pill once cleared your skin, take [the hormonal acne quiz](/pages/quiz) first. Those patterns often point to androgens.
 
-It also fits after a baby, once breastfeeding has ended, and cycle-linked flares in your late 30s or 40s. On HRT, or periods stopped? Ask your doctor first.
+It also fits after a baby, once breastfeeding has ended, and cycle-linked flares in your late 30s or 40s. If you're on HRT or your periods have stopped, ask your doctor first.
 
 Dermatologists prescribe spironolactone and some combined birth control pills for hormonal acne in women, according to the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne/derm-treat/hormonal-therapy). Estrogen Balance is for women who can't take them, don't want them or have stopped.
 
-This list sorts the two groups.
+This table sorts the two groups.
 
 | Sounds like you | Take the quiz first |
 |---|---|
@@ -118,7 +118,7 @@ Most Estrogen Balance reviewers who mention timing first noticed a change at abo
 
 That's [NEED: n] of 92 reviews. Overall, customers rate it 4.6 out of 5, and 93% would recommend it (Okendo, 5 October 2026).
 
-[IMAGE: bar chart, when reviewers first noticed a change, by week band. Caption: "n = [NEED], Okendo reviews, pulled [NEED: date]"]
+[IMAGE: bar chart, when reviewers first noticed a change, by week band. Caption: "n = [NEED: n], Okendo reviews, pulled [NEED: date]"]
 
 Here are two reviews in full, one of them a partial result.
 
@@ -137,14 +137,14 @@ Quotes appear in full; any cut is marked. Critical reviews stay up, with our rep
 
 Our guide covers [telling an early flare from a reaction](/blogs/learn/skin-purging-vs-breakout). The first 8 weeks usually run like this.
 
-1. **Weeks 1-2:** some women notice a mild headache, upset stomach or darker urine. [NEED: naturopath to confirm]
+1. **Weeks 1-2:** some women notice a mild headache, upset stomach or darker urine. [NEED: naturopath to confirm these side effects]
 2. **Weeks 3-6:** first changes, for most reviewers who mention timing.
 3. **Weeks 6-8:** the stop-rule check, against how your skin looked before.
 4. **About week 12:** check in with us.
 
 [IMAGE: timeline graphic of the first 3 cycles, matching the list above, with the US-packaging bottle]
 
-Unlike a retinoid, Estrogen Balance doesn't speed up skin turnover. [NEED: naturopath to confirm] Spotting, or a longer or later period, isn't a sign it's working: stop and check with your doctor. [NEED: naturopath to confirm]
+Unlike a retinoid, Estrogen Balance doesn't speed up skin turnover. [NEED: naturopath to confirm the retinoid comparison] Spotting, or a longer or later period, isn't a sign it's working: stop and check with your doctor. [NEED: naturopath to confirm the spotting and period advice]
 
 The guarantee covers one bottle for 30 days from delivery. It doesn't stretch to the 6-8 week check.
 
@@ -156,7 +156,7 @@ Take one capsule a day for about 3 cycles (about 3 months), then check in with u
 2. **Check in.** Count your breakouts, and note how deep they are and where they appear.
 3. **Taper or continue, with us.** [NEED: naturopath's taper method]
 
-Some women's breakouts come back when they stop, so plan the taper with us. You can skip, reschedule, pause or cancel your subscription at any time. [NEED: confirm] If you're planning a pregnancy, stop and talk to your clinician. [NEED: naturopath to confirm]
+Some women's breakouts come back when they stop, so plan the taper with us. You can skip, reschedule, pause or cancel your subscription at any time. [NEED: confirm these four subscription options] If you're planning a pregnancy, stop and talk to your clinician. [NEED: naturopath to confirm the pregnancy-planning advice]
 
 Some women find dairy, whey protein or sugar makes breakouts worse, so track those too.
 
@@ -187,7 +187,7 @@ Subscribe and save, with delivery every 1 or 3 months. [NEED: confirm skip, paus
 These are the questions women ask most, starting with dose.
 
 ### How much DIM should a woman take daily?
-Estrogen Balance gives 150 mg in one capsule a day. No acne trial has set a dose (2024 JCAD review). [NEED: naturopath's reason for 150 mg] Don't add a second DIM or I3C product. [NEED: confirm]
+Estrogen Balance gives 150 mg in one capsule a day. No acne trial has set a dose (2024 JCAD review). [NEED: naturopath's reason for 150 mg] Don't add a second DIM or I3C product. [NEED: confirm this advice with the naturopath]
 
 ### Can DIM help with acne?
 No acne trial has tested DIM yet (2024 JCAD review). DIM changes how your body breaks down estrogen, which is why reviewers' timing and the 3-cycle check-in matter.
@@ -196,10 +196,10 @@ No acne trial has tested DIM yet (2024 JCAD review). DIM changes how your body b
 Talk to your doctor or pharmacist before you start; Memorial Sloan Kettering advises the same. [NEED: naturopath-signed answer for the pill and hormonal IUDs]
 
 ### What if my estrogen is already low?
-If your estrogen may already be low (you're on HRT or testosterone therapy, or your periods have stopped), ask your prescriber first. [NEED: naturopath to confirm] We can't promise where your levels end up.
+If your estrogen may already be low (you're on HRT or testosterone therapy, or your periods have stopped), ask your prescriber first. [NEED: naturopath to confirm the low-estrogen advice] We can't promise where your levels end up.
 
 ### What side effects might I notice, and how long do they last?
-A mild headache, upset stomach or darker urine can show up in weeks 1-2. [NEED: naturopath to confirm] Spotting, or a later or longer period: stop and check with your doctor. For your skin: stop and contact us if you get new or deeper cysts in new areas, a rash, or skin still worse after 6-8 weeks.
+A mild headache, upset stomach or darker urine can show up in weeks 1-2. [NEED: naturopath to confirm these side effects] Spotting, or a later or longer period: stop and check with your doctor. For your skin: stop and contact us if you get new or deeper cysts in new areas, a rash, or skin still worse after 6-8 weeks.
 
 ### How long until I see a difference?
 Most reviewers who mention timing first noticed a change at about 3-6 weeks [NEED: confirm with review data]. Judge it at about 3 cycles (about 3 months).
@@ -211,7 +211,7 @@ The first weeks can be an adjustment period. Stop and contact us if you get new 
 No. Take it daily for about 3 cycles, check in, then taper or continue. [NEED: naturopath to confirm taper] Breakouts can come back when you stop. Subscriptions can be paused or cancelled.
 
 ### Why does Estrogen Balance include glutathione?
-Glutathione is an antioxidant your liver makes and uses in normal liver processing. [NEED: naturopath to confirm] Its acne evidence is limited. Estrogen Balance uses the S-acetylglutathione form.
+Glutathione is an antioxidant your liver makes and uses in normal liver processing. [NEED: naturopath to confirm this description] Its acne evidence is limited. Estrogen Balance uses the S-acetylglutathione form.
 
 ### Does Estrogen Balance contain vitamin A, 5-HTP or biotin?
 No. It contains only DIM, L-glutathione and calcium D-glucarate in a vegetable (hypromellose) capsule. It's vegan and gluten-free.
@@ -235,5 +235,59 @@ Estrogen Balance is formulated to support hormonal breakouts.† [NEED: naturopa
 
 ## Notes for Rachel
 
-**[NEED] items on this page**
-NOTES_PLACEHOLDER
+**[NEED] items on this page (38 markers; repeats grouped)**
+1. Real stock status as plain text, beside the price (opener).
+2. CAD subscription prices: 1 month and 3 months (opener and price table, 3 markers).
+3. Naturopath's reasons: why these 3 ingredients together, why 150 mg DIM, why DIM rather than I3C (section 1).
+4. Which third-party tests are run (section 1).
+5. Naturopath-signed "What to know" note for each row of the medicines table (section 3).
+6. Naturopath to confirm low estrogen, estrogen-sensitive cancer history and liver disease as "don't take" (section 3).
+7. Review timing: the number of reviews behind "about 3-6 weeks", the month of the data pull, and whether to keep or retitle the section heading (section 5, 5 markers).
+8. Chart caption: n and pull date (section 5).
+9. Alanah L.'s full, unedited review text (section 5).
+10. Laura B.'s full, unedited review text (section 5).
+11. Confirm no reviews are held back before we say critical reviews stay up (section 5).
+12. Naturopath to confirm weeks 1-2 side effects (section 6 and FAQ, 2 markers).
+13. Naturopath to confirm the retinoid comparison (section 6).
+14. Naturopath to confirm the spotting and period advice (section 6).
+15. Naturopath's taper method (section 7 and FAQ, 2 markers).
+16. Confirm subscriptions can be skipped, rescheduled, paused and cancelled (section 7 and price section, 2 markers).
+17. Naturopath to confirm the pregnancy-planning advice (section 7).
+18. Free-shipping rule and currency for Canadian orders (price section).
+19. US delivery times and any duties (price section).
+20. Naturopath's reason for 150 mg (FAQ 1).
+21. Confirm "don't add a second DIM or I3C product" (FAQ 1).
+22. Naturopath-signed answer for the pill and hormonal IUDs (FAQ 3).
+23. Naturopath to confirm the low-estrogen advice (FAQ 4).
+24. Confirm the 3-6 weeks figure with review data (FAQ 6).
+25. Naturopath to confirm the glutathione description (FAQ 9).
+26. Confirm the Results page has reviews from women who came off the pill (FAQ 11).
+27. Naturopath-confirmed line on glutathione's known side effects and downsides (FAQ 12).
+28. Naturopath's reason for 176 mg glutathione (FAQ 13).
+29. Naturopath to confirm what can be said about PMS and periods (FAQ 15).
+
+**Filled from source files (the brief had [need])**
+- 176 mg L-glutathione and its form: the live Supplement Facts panel gives 175.94 mg L-glutathione from 200 mg S-acetylglutathione (`research/current-site-copy.md`). The live page rounds it to 176 mg. Please check the US label says the same.
+- Forms for DIM (3,3'-diindolylmethane) and calcium D-glucarate (13 mg calcium): same Supplement Facts panel.
+- 30 capsules per bottle; 3-month supply is 1 bottle and 2 refill pouches: Supplement Facts panel and Shopify SKU (`BAL-SET-1B2R`). The 90-capsule total assumes each pouch holds 30; please confirm.
+- USD prices: $50 (1 month), $130.50 (3 months), subscriptions $45 and $117.45 (live page, 13 Oct 2026). Per-month and per-capsule figures are worked out from these.
+- No fillers, vitamin A, 5-HTP, biotin or proprietary blend: the Supplement Facts panel lists only the three actives and a hypromellose capsule. Vegan and gluten-free: live product page and FAQ.
+- Made in Canada, GMP-compliant facility, third-party tested for purity: live product page and FAQ. I left out "Health Canada licensed facility", as per your rule.
+- Guarantee terms (30 days from carrier-confirmed delivery, one bottle or refill, no return, contact form with order number, feedback asked): live guarantee page. I used 30 days for the brief's "[30 or 90]" because those are today's terms.
+- Free shipping on subscriptions and orders of $70 USD or more, 24-48 hour processing and 4 to 10 business days: live shipping policy.
+- 4.6 from 92 reviews, 93% would recommend: Okendo aggregate, 5 Oct 2026. Refresh before publishing.
+- Review titles, dates and star ratings for Alanah L. and Laura B.: Okendo summary on the live page. The review bodies weren't captured, so they stay as [NEED].
+
+**Done differently from the brief, and why**
+- I used the † marker (as on the US labels) rather than an asterisk.
+- I added an FAQ section ("What do women ask before starting Estrogen Balance?") after section 8 to hold the brief's 10 questions and the 5 from the question map. The brief lists the questions but no section for them.
+- The medicines table has two columns for now. The "What to know" column comes back once the naturopath signs it off, so the page doesn't carry 11 empty cells. I grouped some rows (HRT or testosterone; tamoxifen or aromatase inhibitors; blood thinners or seizure medicines; metformin or GLP-1 medicines; the four supplements) to keep the table short. Split them again if the naturopath's notes differ.
+- I used only the two reviews the brief names (Alanah L. and Laura B.). I didn't add a third, because I have no other review text confirmed as unedited and dated.
+- The section 2 "Take the quiz first" column includes "breakouts on your body, with oily skin", from the Androgen Balance product brief. It describes skin only.
+- The stop rule is the same sentence on all three of my pages, and it appears word for word in the box and in two FAQs.
+- The optional 3-row evidence table in section 4 is left out to save words.
+- The diet line reads "dairy, whey protein or sugar" with no link, as the brief asks.
+- Links to switch on later: "what DIM is and what the research shows" and "telling an early flare from a reaction" (both by 18 December).
+- The page title, description and H1 are as in the brief. "Estrogen Balance (formerly Balance)" appears once, in the opening sentence.
+
+**Approximate word count:** about 2,130 words of visible copy (not counting image notes, buttons and [NEED] markers). About 320 of those are in tables, leaving about 1,810 words of prose, inside the brief's 1,600-1,900. If the range includes tables, the FAQ is the place to cut: questions 6, 7 and 8 repeat sections 5 to 7.

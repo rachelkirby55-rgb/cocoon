@@ -56,7 +56,7 @@ No. Androgen Balance is for breakouts linked to high testosterone. If you have P
 
 Birth control and medications are the questions we're asked most, so each formula has a table of the medicines to check with your doctor or pharmacist. Never change a prescription without your prescriber.
 
-The table below shows which medicines to raise with your doctor or pharmacist for each formula. A naturopathic doctor reviewed every cell. [NEED: naturopath reviews and signs off every cell] Androgen Balance and Liver Support columns are completed at launch.
+The table below shows which medicines to raise with your doctor or pharmacist for each formula. Every cell is reviewed by a naturopathic doctor [NEED: naturopath reviews and signs off every cell]. Androgen Balance and Liver Support columns are completed at launch.
 
 | Medicine | Estrogen Balance | Androgen Balance (at launch) | Liver Support (at launch) |
 |---|---|---|---|
@@ -95,7 +95,7 @@ Never start, stop or change spironolactone without your prescriber. Cocoon isn't
 
 ### I'm coming off the pill. Should I start before or after I stop?
 
-[NEED: naturopath's timing.] Talk to your prescriber before you stop. Breakouts often start a few months after stopping the pill, not right away. Estrogen Balance can be part of your plan if your pattern fits, alongside your doctor's advice.
+[NEED: naturopath's timing.] Talk to your prescriber before you stop. Breakouts often start a few months after stopping the pill, not right away. Give your skin time to show its pattern before you choose a formula.
 
 ### Is it safe with an antidepressant like Lexapro or Zoloft?
 
@@ -273,11 +273,11 @@ The 3-month supply matches the 3 cycles we ask you to give it before you decide.
 
 ### How much does Cocoon cost per month?
 
-Estrogen Balance is $68.00 CAD or $50.00 USD for a month, or $61.20 CAD or $45.00 USD a month on Subscribe & Save. [NEED: confirm whether discount codes exist] The 3-month supply on Subscribe & Save is the lowest price per month.
+Estrogen Balance is $68.00 CAD or $50.00 USD for a month. On Subscribe & Save, it's $61.20 CAD or $45.00 USD a month. [NEED: confirm whether discount codes exist] The 3-month supply on Subscribe & Save is the lowest price per month.
 
 ### Why does Estrogen Balance cost more than a bottle of DIM?
 
-You're paying for 3 ingredients at the doses on the label, in 1 capsule a day. That's about $1.67 USD a day one-time, or $1.31 USD a day on the 3-month subscription. Each batch is third-party tested for purity [NEED: confirm], and every order is covered by our money-back guarantee.
+You're paying for 3 ingredients at the doses on the label, in 1 capsule a day. That's about $1.67 USD a day one-time, or $1.31 USD a day on the 3-month subscription. It's third-party tested for purity [NEED: confirm the details], and you can try it with our money-back guarantee.
 
 ### How do subscriptions work, and can I pause or cancel?
 
@@ -302,8 +302,8 @@ Canada to the US (Estrogen Balance): [NEED: who pays duties, taxes and brokerage
 ### Where does each formula ship from?
 
 - Estrogen Balance: from Canada [NEED: confirm].
-- Androgen Balance: from the US, from January 2027, including to Canada.
-- Liver Support: from the US, from April 2027, including to Canada.
+- Androgen Balance: from the US, from January 2027, including to Canada [NEED: confirm].
+- Liver Support: from the US, from April 2027, including to Canada [NEED: confirm].
 
 ## Our money-back guarantee: [NEED: 30 or 90] days to ask for a refund {#returns}
 
@@ -412,7 +412,7 @@ These statements have not been evaluated by the Food and Drug Administration. Th
 - "Share no active ingredients" instead of "share no ingredients", because all three use the same vegetable capsule.
 - The six extra questions from the question map are folded into existing answers, not added as new H3s: vegan and capsules (what isn't in it), tretinoin and Epiduo (Accutane), discount codes (cost per month), "hormone balance supplement" (same as Balance), DIM and the thyroid (thyroid medicine) and supplements that affect the pill (DIM and birth control).
 - "Is Cocoon safe…" and "Is it safe…" keep her word in the heading, and the answers never repeat it, as the brief asks.
-- The shipping section has 3 H3s; the "Where does each formula ship from?" answer covers the duties-and-parcels points as [NEED] lines in the duties answer.
+- The shipping section keeps to 3 H3s, so the per-order limit and mixed-parcel points sit in the duties answer as [NEED] lines.
 - The price table puts 3-month prices "per month" first and the total in brackets, so no one reads the total as the monthly price.
 - The NIH zinc fact sheet has no link in the brief, so it's marked [NEED] rather than guessed.
 

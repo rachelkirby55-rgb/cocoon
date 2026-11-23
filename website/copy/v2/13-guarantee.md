@@ -81,7 +81,7 @@ If something arrived damaged or isn't what you ordered, email info@cocoonsupplem
 
 We ask you to give it about 3 cycles (about 3 months) before you judge it, then check in with us and decide whether to taper or continue.
 
-Do acne supplements work? The research is thin: a 2024 evidence review in the Journal of Clinical and Aesthetic Dermatology found no acne trials of DIM, Estrogen Balance's lead ingredient. Dermatologists also say most acne products need weeks to show results, not days.
+Do acne supplements work? The research is thin. A 2024 evidence review in the Journal of Clinical and Aesthetic Dermatology found no acne trials of DIM, Estrogen Balance's lead ingredient. [NEED: one line from the AAD page on how long acne products take to show results]
 
 What we can share is our own review data. Most Estrogen Balance reviewers who mention timing noticed a first change at about 3-6 weeks [NEED: recount and date the reviews]. Read more on [how long acne supplements take to work](/blogs/learn/how-long-do-acne-supplements-take-to-work).
 
@@ -163,6 +163,6 @@ Last updated [NEED: date]
 - I added a short FAQ block for the brief's seven questions. The sections list doesn't place them, so they sit after section 6 and before the legal terms.
 - The brief flags a conflict: the 6-8 week stop-rule trigger falls outside a 30-day window. I haven't resolved it in copy. If you keep 30 days, the "Skin still worse after 6-8 weeks" trigger can't be covered by the guarantee, so the [NEED] in section 3 matters.
 - The FAQ link is used once (section 2), so the legal bullet names the medications table without a second link.
-- The AAD line ("most acne products need weeks to show results, not days") paraphrases the source the brief lists. Check the wording against that page before publishing.
+- I haven't read the AAD page the brief lists, so its line is a [NEED] rather than a paraphrase from memory.
 
 **Word count:** about 1,150 words of visible copy, including the table and FAQ. That's above the 750-1,000 range because of the added FAQ block; once the [NEED] lines become terms, it should land near 1,000.
