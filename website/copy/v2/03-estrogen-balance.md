@@ -43,7 +43,7 @@ One capsule a day is the whole dose: 150 mg DIM, 176 mg L-glutathione and 150 mg
 | L-glutathione | 176 mg | From 200 mg S-acetylglutathione | The liver's normal clearance work† |
 | Calcium D-glucarate | 150 mg | Calcium D-glucarate (gives 13 mg calcium) | The body's normal clearance of estrogen through the gut† |
 
-That's 3 ingredients, with every dose on the label and no blend. The facts below cover everything else you need before you buy.
+That's 3 ingredients, with every dose on the label and no blend. The facts below cover the rest.
 
 | Fact | Estrogen Balance |
 |---|---|
@@ -55,7 +55,7 @@ That's 3 ingredients, with every dose on the label and no blend. The facts below
 | Guarantee | 30 days, one bottle per customer |
 | Packaging | Amber glass bottle; paper-based refill pouches |
 
-Estrogen Balance has no fillers, vitamin A, 5-HTP, biotin or proprietary blend. It's vegan and gluten-free. Why these 3 together, why 150 mg of DIM, and why DIM rather than I3C: [NEED: naturopath's reasons]. It's third-party tested for purity [NEED: name the tests]. If your stomach is sensitive, take it with a meal.
+Estrogen Balance has no fillers, vitamin A, 5-HTP, biotin or proprietary blend, and it's vegan and gluten-free. [NEED: naturopath's reasons for these 3 together, for 150 mg, and for DIM rather than I3C] It's third-party tested for purity. [NEED: name the tests] If your stomach is sensitive, take it with a meal.
 
 ## Is Estrogen Balance right for your breakouts? {#right-for-you}
 
@@ -63,7 +63,7 @@ Estrogen Balance is right for your breakouts if they arrive before your period, 
 
 If your breakouts started after you stopped the pill or got a hormonal IUD, or the pill once cleared your skin, take [the hormonal acne quiz](/pages/quiz) first. Those patterns often point to androgens.
 
-Two life stages fit too: after a baby, once breastfeeding has ended, and cycle-linked flares in your late 30s or 40s. If you're on HRT or your periods have stopped, ask your doctor first.
+It also fits after a baby, once breastfeeding has ended, and cycle-linked flares in your late 30s or 40s. On HRT, or periods stopped? Ask your doctor first.
 
 Dermatologists prescribe spironolactone and some combined birth control pills for hormonal acne in women, according to the [American Academy of Dermatology](https://www.aad.org/public/diseases/acne/derm-treat/hormonal-therapy). Estrogen Balance is for women who can't take them, don't want them or have stopped.
 
@@ -80,25 +80,25 @@ If the left column fits, Estrogen Balance is a match. If anything on the right f
 
 ## Can you take Estrogen Balance with birth control or other medicines? {#medicines}
 
-Taking Estrogen Balance with the pill, a hormonal IUD or any prescription is a question for your doctor or pharmacist before you start. Bring the label with you. The table lists the medicines and supplements to raise.
+Taking Estrogen Balance with the pill, a hormonal IUD or any prescription is a question for your doctor or pharmacist before you start. Bring the label, and raise anything in this table.
 
 [NEED: naturopath-signed "What to know" note for every row, added as a middle column before publishing]
 
 | Medicine or supplement | What to do |
 |---|---|
-| The pill or a hormonal IUD | Talk to your doctor or pharmacist |
-| Spironolactone | Talk to your doctor or pharmacist |
-| SSRIs | Estrogen Balance contains no 5-HTP. Talk to your doctor or pharmacist |
-| Lithium | Talk to your doctor or pharmacist |
-| HRT or testosterone | Talk to your doctor or pharmacist |
-| Tamoxifen or aromatase inhibitors | Talk to your doctor or pharmacist |
-| Fertility medicines | Talk to your doctor or pharmacist |
-| Blood thinners or seizure medicines | Talk to your doctor or pharmacist |
-| Metformin or GLP-1 medicines | Talk to your doctor or pharmacist |
-| Isotretinoin | Talk to your doctor or pharmacist |
-| Other DIM, I3C, calcium D-glucarate or inositol supplements | Talk to your doctor or pharmacist |
+| The pill or a hormonal IUD | Ask your doctor or pharmacist |
+| Spironolactone | Ask your doctor or pharmacist |
+| SSRIs | Estrogen Balance contains no 5-HTP. Ask your doctor or pharmacist |
+| Lithium | Ask your doctor or pharmacist |
+| HRT or testosterone | Ask your doctor or pharmacist |
+| Tamoxifen or aromatase inhibitors | Ask your doctor or pharmacist |
+| Fertility medicines | Ask your doctor or pharmacist |
+| Blood thinners or seizure medicines | Ask your doctor or pharmacist |
+| Metformin or GLP-1 medicines | Ask your doctor or pharmacist |
+| Isotretinoin | Ask your doctor or pharmacist |
+| Other DIM, I3C, calcium D-glucarate or inositol supplements | Ask your doctor or pharmacist |
 
-Every row ends the same way because only your prescriber knows your full picture. Memorial Sloan Kettering's [About Herbs page on DIM](https://www.mskcc.org/cancer-care/integrative-medicine/herbs/diindolylmethane) gives the same advice. Don't start, stop or change a prescription because of a supplement. For more detail, see [Cocoon's FAQ on medications and birth control](/pages/faq#birth-control).
+Memorial Sloan Kettering's [About Herbs page on DIM](https://www.mskcc.org/cancer-care/integrative-medicine/herbs/diindolylmethane) gives the same advice. Don't change a prescription because of a supplement. For more, see [Cocoon's FAQ on medications and birth control](/pages/faq#birth-control).
 
 Don't take Estrogen Balance if you're pregnant, trying to conceive, breastfeeding or under 18. Don't take it if you have low estrogen, a history of estrogen-sensitive cancer, or liver disease. [NEED: naturopath to confirm these three] If you're not sure whether your estrogen is low, ask your prescriber first.
 
@@ -116,7 +116,7 @@ A mechanism isn't proof of clearer skin. That's why we ask you to give it about 
 
 Most Estrogen Balance reviewers who mention timing first noticed a change at about 3-6 weeks ([NEED: n] reviews; Cocoon review data, [NEED: month] 2026). [NEED: confirm this figure, or retitle the section "When do Estrogen Balance reviewers first notice a change?"]
 
-That figure comes from [NEED: n] of 92 reviews. Overall, customers rate Estrogen Balance 4.6 out of 5, and 93% would recommend it (Okendo, 5 October 2026).
+That's [NEED: n] of 92 reviews. Overall, customers rate it 4.6 out of 5, and 93% would recommend it (Okendo, 5 October 2026).
 
 [IMAGE: bar chart, when reviewers first noticed a change, by week band. Caption: "n = [NEED], Okendo reviews, pulled [NEED: date]"]
 
@@ -135,22 +135,22 @@ Quotes appear in full; any cut is marked. Critical reviews stay up, with our rep
 > **Stop and contact us if you get new or deeper cysts in new areas, a rash, or skin still worse after 6-8 weeks.**
 > [Button: Contact us] → `/pages/contact-us`
 
-Our guide explains [telling an early flare from a reaction](/blogs/learn/skin-purging-vs-breakout). Here's what the first 8 weeks can look like.
+Our guide covers [telling an early flare from a reaction](/blogs/learn/skin-purging-vs-breakout). The first 8 weeks usually run like this.
 
 1. **Weeks 1-2:** some women notice a mild headache, upset stomach or darker urine. [NEED: naturopath to confirm]
 2. **Weeks 3-6:** first changes, for most reviewers who mention timing.
-3. **Weeks 6-8:** the stop-rule check. Compare your skin with how it looked before you started.
+3. **Weeks 6-8:** the stop-rule check, against how your skin looked before.
 4. **About week 12:** check in with us.
 
 [IMAGE: timeline graphic of the first 3 cycles, matching the list above, with the US-packaging bottle]
 
-Unlike a retinoid, Estrogen Balance doesn't speed up skin turnover. [NEED: naturopath to confirm] If you notice spotting, or a longer or later period, stop and check with your doctor. [NEED: naturopath to confirm] That isn't a sign it's working.
+Unlike a retinoid, Estrogen Balance doesn't speed up skin turnover. [NEED: naturopath to confirm] Spotting, or a longer or later period, isn't a sign it's working: stop and check with your doctor. [NEED: naturopath to confirm]
 
 The guarantee covers one bottle for 30 days from delivery. It doesn't stretch to the 6-8 week check.
 
 ## Take it for about 3 cycles, then check in and decide
 
-Take one capsule a day for about 3 cycles (about 3 months), then check in with us to decide whether to taper or keep going. The plan has three steps.
+Take one capsule a day for about 3 cycles (about 3 months), then check in with us to decide whether to taper or keep going.
 
 1. **Take it daily for about 3 cycles.**
 2. **Check in.** Count your breakouts, and note how deep they are and where they appear.
@@ -158,7 +158,7 @@ Take one capsule a day for about 3 cycles (about 3 months), then check in with u
 
 Some women's breakouts come back when they stop, so plan the taper with us. You can skip, reschedule, pause or cancel your subscription at any time. [NEED: confirm] If you're planning a pregnancy, stop and talk to your clinician. [NEED: naturopath to confirm]
 
-Some women find dairy, whey protein or sugary foods make their breakouts worse, so track those too.
+Some women find dairy, whey protein or sugar makes breakouts worse, so track those too.
 
 ## Estrogen Balance costs $68 CAD a month, less on the 3-month supply {#price}
 
@@ -177,14 +177,14 @@ The price covers 3 ingredients at disclosed doses in one capsule, so you don't b
 Canadian orders don't cross a border. Orders are processed in 24-48 hours and take 4 to 10 business days on average. For US orders: [NEED: US delivery times and any duties].
 
 ### One bottle per customer is covered by a 30-day guarantee
-Ask within 30 days of your carrier-confirmed delivery date, and you don't need to send it back. Claim through our contact form with your order number, and we'll ask for a little feedback. The full terms are in [Cocoon's money-back guarantee](/pages/money-back-guarantee).
+Ask within 30 days of your carrier-confirmed delivery date; you don't send it back. Claim through our contact form with your order number, and we'll ask for brief feedback. The full terms are in [Cocoon's money-back guarantee](/pages/money-back-guarantee).
 
 ### Subscriptions can be skipped, paused or cancelled
 Subscribe and save, with delivery every 1 or 3 months. [NEED: confirm skip, pause and cancel options]
 
 ## What do women ask before starting Estrogen Balance?
 
-These are the questions women ask about Estrogen Balance, starting with dose. Each answer is short, and the sections above give the detail.
+These are the questions women ask most, starting with dose.
 
 ### How much DIM should a woman take daily?
 Estrogen Balance gives 150 mg in one capsule a day. No acne trial has set a dose (2024 JCAD review). [NEED: naturopath's reason for 150 mg] Don't add a second DIM or I3C product. [NEED: confirm]
@@ -199,7 +199,7 @@ Talk to your doctor or pharmacist before you start; Memorial Sloan Kettering adv
 If your estrogen may already be low (you're on HRT or testosterone therapy, or your periods have stopped), ask your prescriber first. [NEED: naturopath to confirm] We can't promise where your levels end up.
 
 ### What side effects might I notice, and how long do they last?
-Some women notice a mild headache, upset stomach or darker urine in weeks 1-2. [NEED: naturopath to confirm] Spotting, or a later or longer period, means stop and check with your doctor. For your skin, the stop rule applies: stop and contact us if you get new or deeper cysts in new areas, a rash, or skin still worse after 6-8 weeks.
+A mild headache, upset stomach or darker urine can show up in weeks 1-2. [NEED: naturopath to confirm] Spotting, or a later or longer period: stop and check with your doctor. For your skin: stop and contact us if you get new or deeper cysts in new areas, a rash, or skin still worse after 6-8 weeks.
 
 ### How long until I see a difference?
 Most reviewers who mention timing first noticed a change at about 3-6 weeks [NEED: confirm with review data]. Judge it at about 3 cycles (about 3 months).
@@ -217,7 +217,7 @@ Glutathione is an antioxidant your liver makes and uses in normal liver processi
 No. It contains only DIM, L-glutathione and calcium D-glucarate in a vegetable (hypromellose) capsule. It's vegan and gluten-free.
 
 ### Is Estrogen Balance worth trying for acne after coming off the pill?
-It may suit you if your post-pill breakouts arrive before your period, on the chin and jaw. Post-pill breakouts often point to androgens, so take the quiz first, and judge it at the 3-cycle check-in. Our guide covers [acne after stopping birth control](/blogs/learn/acne-after-stopping-birth-control). You can also read [reviews from women who came off the pill](/pages/results). [NEED: confirm the Results page has post-pill reviews]
+It may suit you if post-pill breakouts arrive before your period, on the chin and jaw. They often point to androgens, so take the quiz first. Our guide covers [acne after stopping birth control](/blogs/learn/acne-after-stopping-birth-control). You can also read [reviews from women who came off the pill](/pages/results). [NEED: confirm the Results page has post-pill reviews]
 
 ### What are the downsides of glutathione?
 [NEED: naturopath-confirmed line on glutathione's known side effects and downsides]
